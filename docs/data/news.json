@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:30:17.783Z",
+  "updatedAt": "2026-11-21T18:00:18.522Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -46,33 +46,6 @@
       ]
     },
     {
-      "id": "c704104020e4",
-      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
-      "summary": "",
-      "url": "http://www.akiba-plus.com/?p=159044",
-      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png",
-      "leadSource": "秋葉原ＰＬＵＳ",
-      "publishedAt": "2026-11-21T13:14:23.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "pv",
-        "news"
-      ],
-      "keywords": [
-        "リリース"
-      ],
-      "articles": [
-        {
-          "title": "星臨者を待つ、アズールプロミリア26日リリース",
-          "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
-          "source": "게임메카",
-          "publishedAt": "2026-11-20T12:50:40.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "9802626852d7",
       "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 29/57",
       "summary": "",
@@ -80,8 +53,8 @@
       "image": "https://image.news.livedoor.com/newsimage/stf/7/0/7061e_1838_25b81e6d070e43bf2e6ab35b0cffeea2.jpg",
       "leadSource": "ライブドアニュース",
       "publishedAt": "2026-11-20T13:36:05.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "gacha",
         "campaign"
@@ -97,6 +70,13 @@
           "url": "https://game.watch.impress.co.jp/docs/news/2158396.html",
           "source": "GAME Watch",
           "publishedAt": "2026-11-20T13:36:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "星臨者を待つ、アズールプロミリア26日リリース",
+          "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
+          "source": "게임메카",
+          "publishedAt": "2026-11-20T12:50:40.000Z",
           "isPR": false
         }
       ]
@@ -131,23 +111,6 @@
     }
   ],
   "items": [
-    {
-      "id": "c704104020e4",
-      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
-      "url": "http://www.akiba-plus.com/?p=159044",
-      "host": "akiba-plus.com",
-      "source": "秋葉原ＰＬＵＳ",
-      "summary": "",
-      "publishedAt": "2026-11-21T13:14:23.000Z",
-      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png",
-      "scope": "main",
-      "categories": [
-        "pv"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
     {
       "id": "e8f3e62ed798",
       "title": "『アズールプロミリア』汗拭きやストッキング脱がせなど驚きのふれあい機能が判明",
@@ -271,7 +234,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a8c32690986e",
@@ -352,7 +315,7 @@
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-11-20T05:52:50.000Z",
+      "publishedAt": "2026-11-20T06:01:33.000Z",
       "image": "",
       "scope": "series",
       "categories": [
@@ -500,6 +463,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "cd3a241776ea",
+      "title": "『アズールプロミリア』のゲーム概要や公式発表の情報まとめ！Manjuu Gamesが新たに手掛ける星霊同伴ファンタジーワールドRPG！",
+      "url": "https://gamewith.jp/gamedb/10871/articles/33110",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-19T11:04:17.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/33110.png?t=1795086258",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "1a2077418326",
