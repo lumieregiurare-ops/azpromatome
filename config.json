@@ -1,0 +1,115 @@
+{
+  "port": 3297,
+  "host": "127.0.0.1",
+  "watchdogMinutes": 15,
+  "maxArticleAgeDays": 14,
+
+  "site": {
+    "title": "アズプロ速報",
+    "subtitle": "アズールプロミリア情報まとめ",
+    "tagline": "アズールプロミリア（アズプロ）の公式動画・ゲーム媒体の記事・アプリの更新を30分おきに集めています。キャラクターごとのページと掲示板もあります。",
+    "url": "https://azpromatome.gamelab.website/",
+    "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
+    "launchAt": "2026-11-26T00:00:00+09:00",
+    "preRegisterAt": "2026-07-10T00:00:00+09:00"
+  },
+
+  "note1": "sisterSites はフッターの「運営サイト」に並べるリンク。",
+  "sisterSites": [
+    { "name": "GameLab Radar", "url": "https://gamelab.website/" },
+    { "name": "ラグアド速報", "url": "https://ragadmatome.gamelab.website/" },
+    { "name": "アニメ速報", "url": "https://animematome.gamelab.website/" },
+    { "name": "ポケモン速報", "url": "https://pokematome.gamelab.website/" },
+    { "name": "モンハン速報", "url": "https://mhmatome.gamelab.website/" },
+    { "name": "AI matomechatter", "url": "https://aimatome.gamelab.website/" },
+    { "name": "ちいかわ速報", "url": "https://chiikawamatome.gamelab.website/" },
+    { "name": "なろう系まとめ", "url": "https://naroumatome.gamelab.website/" }
+  ],
+
+  "note2": "images は外部の画像をサーバーに置くときの設定。maxNewPerRun は 1 回の収集で新しく取りに行く枚数の上限、hostGapMs は同じホストへ続けて取りに行くときの間隔。pruneDays 日使われなかった画像は消す。",
+  "images": {
+    "maxNewPerRun": 60,
+    "hostGapMs": 1500,
+    "hostParallel": 3,
+    "timeoutMs": 15000,
+    "maxBytes": 10000000,
+    "pruneDays": 45
+  },
+
+  "note3": "youtube は公式チャンネルの RSS。RSS には最新 15 本しか無いので data/videos.json に貯めていく。",
+  "youtube": {
+    "channelId": "UC8Y1ecushe-u55Ggte9NS-w",
+    "handle": "AzurPromilia_JP"
+  },
+
+  "note4": "store は App Store の lookup API。バージョンが変わるたびに data/store.json の history に足す（Google Play は公開の API が無いのでリンクだけ）。",
+  "store": {
+    "appStoreId": "6787982572",
+    "appStoreUrl": "https://apps.apple.com/jp/app/id6787982572",
+    "googlePlayUrl": "https://play.google.com/store/apps/details?id=com.Yostar.AzurpromiliaJP"
+  },
+
+  "googleNews": {
+    "enabled": true,
+    "within": "3d",
+    "perQuery": 40,
+    "queries": ["アズールプロミリア", "アズプロ ゲーム", "Azur Promilia", "アズールレーン", "Manjuu"]
+  },
+
+  "feeds": [],
+
+  "note5": "main に当たれば「アズプロ」の記事、series にだけ当たれば「アズレン・Manjuu」の記事として載せる。どちらにも当たらない記事は捨てる。",
+  "keywords": {
+    "main": ["アズールプロミリア", "アズプロ", "Azur ?Promilia"],
+    "series": ["アズールレーン", "アズレン", "Azur ?Lane", "Manjuu", "蛮啾"]
+  },
+  "blockTitlePatterns": ["^画像ギャラリー", "株価", "決算短信", "^\\s*\\[?PR\\]?\\s*$"],
+
+  "note6": "categories は見出しで付ける札。上から順に見て、当たったものを最大 2 つ付ける。",
+  "categories": [
+    { "id": "release", "label": "配信", "keywords": ["リリース日", "正式リリース", "配信開始", "サービス開始", "配信日", "リリース決定", "事前ダウンロード"] },
+    { "id": "gacha", "label": "ガチャ", "keywords": ["ガチャ", "ピックアップ", "限定キャラ", "観測", "リセマラ", "無垢な痕跡"] },
+    { "id": "campaign", "label": "キャンペーン", "keywords": ["キャンペーン", "プレゼント", "事前登録", "特典", "報酬", "配布", "記念"] },
+    { "id": "guide", "label": "攻略", "keywords": ["攻略", "最強", "おすすめ", "評価", "レビュー", "先行プレイ", "プレイレポ", "やってみた", "試遊"] },
+    { "id": "event", "label": "イベント", "keywords": ["イベント", "コラボ", "生放送", "配信番組", "特別番組", "POP UP", "ポップアップ", "コミケ", "コミックマーケット", "オフライン", "グッズ"] },
+    { "id": "update", "label": "アップデート", "keywords": ["アップデート", "メンテナンス", "不具合", "実装", "新キャラ", "追加"] },
+    { "id": "pv", "label": "PV・声優", "keywords": ["PV", "声優", "CV", "主題歌", "楽曲", "アニメ"] }
+  ],
+  "fallbackCategory": { "id": "news", "label": "ニュース" },
+  "blockSources": ["YouTube", "ニコニコ動画", "Howl.Link"],
+  "note6b": "repostHosts は他の媒体の記事を転載しているサイト。元の記事と同じ見出しがあれば転載のほうを捨てる。",
+  "repostHosts": ["news.yahoo.co.jp", "news.livedoor.com", "excite.co.jp", "news.goo.ne.jp", "news.auone.jp", "topics.smt.docomo.ne.jp", "news.infoseek.co.jp", "newspicks.com", "msn.com"],
+  "guideHosts": ["gamewith.jp", "appmedia.jp", "game8.jp", "gamepedia.jp", "altema.jp", "kamigame.jp", "sumahoch.com"],
+
+  "cluster": {
+    "enabled": true,
+    "windowHours": 72,
+    "minSources": 2,
+    "threshold": 0.3,
+    "maxTopics": 8,
+    "stopwords": ["アズールプロミリア", "アズプロ", "Manjuu", "Yostar", "ゲーム", "新作", "スマートフォン", "スマホ", "PC", "RPG", "向け", "情報", "公開", "決定", "開始", "日本", "国内", "記事", "画像", "最新", "本日", "com", "www", "https", "azur", "promilia"]
+  },
+  "entities": ["事前登録", "リリース", "塗山小玉", "源千代", "アニス", "生放送", "PV"],
+
+  "note7": "boards は掲示板（コメント欄だけのページ）。id はコメントの保存先の名前になるので変えない。",
+  "boards": [
+    { "id": "talk", "name": "雑談", "desc": "アズプロの話ならなんでもどうぞ。", "lead": "アズールプロミリアについて自由に話す場所です。" },
+    { "id": "gacha", "name": "ガチャ報告", "desc": "ガチャの結果・リセマラの報告。", "lead": "引いた結果や、リセマラで粘ったキャラの報告をどうぞ。" },
+    { "id": "question", "name": "質問・攻略相談", "desc": "わからないことを聞く場所。", "lead": "進め方や育成、キボの集め方など、わからないことはここで聞いてください。" }
+  ],
+
+  "note8": "links は「リンク集」のページ。攻略サイトは見つけたら足す。",
+  "links": [
+    { "group": "公式", "name": "公式サイト", "url": "https://azurpromilia.jp/" },
+    { "group": "公式", "name": "事前登録ページ", "url": "https://azurpromilia.jp/pre-register/" },
+    { "group": "公式", "name": "公式X（@AzurPromilia_JP）", "url": "https://x.com/AzurPromilia_JP" },
+    { "group": "公式", "name": "公式YouTube", "url": "https://www.youtube.com/@AzurPromilia_JP" },
+    { "group": "公式", "name": "Webキャンペーン「キボキャンプ大作戦」", "url": "https://kiboplay.azurpromilia.jp/" },
+    { "group": "ストア", "name": "App Store", "url": "https://apps.apple.com/jp/app/id6787982572" },
+    { "group": "ストア", "name": "Google Play", "url": "https://play.google.com/store/apps/details?id=com.Yostar.AzurpromiliaJP" },
+    { "group": "攻略・データ", "name": "GameWith", "url": "https://gamewith.jp/gamedb/10871/articles/33110" },
+    { "group": "攻略・データ", "name": "4Gamer.net（タイトル情報）", "url": "https://www.4gamer.net/games/784/G078489/" },
+    { "group": "運営会社", "name": "Manjuu Games", "url": "https://www.manjuu.com/jp" },
+    { "group": "運営会社", "name": "Yostar", "url": "https://www.yostar.co.jp/" }
+  ]
+}

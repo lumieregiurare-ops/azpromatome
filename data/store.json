@@ -1,0 +1,41 @@
+{
+  "current": {
+    "name": "アズールプロミリア",
+    "version": "1.0.0",
+    "versionDate": "2026-11-26T08:00:00Z",
+    "releaseDate": "2026-11-26T08:00:00Z",
+    "rating": 0,
+    "ratingCount": 0,
+    "size": 3476,
+    "minOs": "15.0",
+    "notes": "アズールプロミリア、サービス開始",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/6c/47/156c471a-e3fc-5fba-a0be-8f640e876515/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "screenshots": [
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/5e/72/4f5e7247-3323-6342-3c7f-7aaf5089287c/_U3010_U30e2_U30d0_U30a4_U30eb_U301101_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/72/ce/0b72ce61-fbad-b612-36b7-aea92c1fb96d/_U3010_U30e2_U30d0_U30a4_U30eb_U301102_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/ca/59/5dca5940-cb9b-6347-909f-51d1d3e6341f/_U3010_U30e2_U30d0_U30a4_U30eb_U301103_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/e4/7a/7de47aa3-40ea-565e-1a6d-3f2337b4a186/_U3010_U30e2_U30d0_U30a4_U30eb_U301104_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/12/1f/d4121fa3-6f7b-e7a2-51ec-64407651c738/_U3010_U30e2_U30d0_U30a4_U30eb_U301105_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/6d/46/166d467e-2c8d-cd35-6ad2-9ae90b89a455/_U3010_U30e2_U30d0_U30a4_U30eb_U301106_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/8e/d7/c98ed74b-0b69-76ba-af90-9d32807dff7a/_U3010_U30e2_U30d0_U30a4_U30eb_U301107_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg",
+      "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/67/99/e06799a3-7267-0c69-b3b8-c344475f9ee5/_U3010_U30e2_U30d0_U30a4_U30eb_U301108_IOS_U30b9_U30c8_U30a2_U63b2_U8f09_U753b_U50cf.png/320x480bb.jpg"
+    ],
+    "advisory": "12+",
+    "checkedAt": "2026-11-21T13:50:17.245Z"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-26T08:00:00Z",
+      "notes": "アズールプロミリア、サービス開始",
+      "seenAt": "2026-11-21T13:37:38.859Z"
+    }
+  ],
+  "ratings": [
+    [
+      "2026-11-21",
+      0,
+      0
+    ]
+  ]
+}
