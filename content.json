@@ -188,7 +188,6 @@
       "キボ。公式SNSの総フォロワー500万人達成の報酬"
     ]
   ],
-  "rewardsNote": "グローバル事前登録3,000万人の達成で、すべての段階の報酬が正式サービス開始後に全員へ配られる。",
   "launchGacha": [
     {
       "name": "桃花の契り",
@@ -214,22 +213,21 @@
       "text": "クエストでキャンプ地を育て、繁栄値の目標を達成するとゲーム内アイテムやキボ「キャバード」の限定着せ替えがもらえる。受け取りには Yostar ID の連携が必要。"
     }
   ],
-  "charaNote": "名前・英語表記・画像は公式サイトのキャラクター紹介から。紹介文は公式サイトの自己紹介とゲーム媒体の記事をもとに短くまとめたもの。",
   "charaImageBase": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/",
   "characters": [
-    { "id": "maple", "name": "メイプル", "en": "MAPLE", "avatar": "avatar-BMYn3qBo.png", "art": "bg-m-runtime-D9Vk8KMB.webp", "keywords": ["メイプル"], "text": "公式サイトのキャラクター紹介の最初に出てくる女の子。ラッキーカラーは青、好きなものはゼリー、特技はキボのクロディーメのまね、と自己紹介している。公式動画「メイプルの一日」の主役。" },
-    { "id": "anais", "name": "アニス", "en": "ANAIS", "avatar": "avatar-CckWyRNS.png", "art": "bg-m-runtime-aiKLcdZf.webp", "keywords": ["アニス"], "role": "ヒーラー（サポート）", "from": "フリス／カルノン療養院", "cv": "薄井友里", "badge": "全員配布", "text": "カルノン療養院から派遣された看護師。フリスの獣人で、味方の HP を回復するヒーラー。事前登録の達成報酬として、正式サービス開始後に全員に配られる。" },
-    { "id": "terara", "name": "テララ", "en": "TERARA", "avatar": "avatar-BBKTWa82.png", "art": "bg-m-runtime-aC6A_wBX.webp", "keywords": ["テララ"], "from": "シャルル村", "text": "シャルル村育ちで、村一番のハンターを名乗る。仲間になった相手を守ると言い切る、面倒見のいい性格。" },
-    { "id": "metsa", "name": "メーツァ", "en": "METSA", "avatar": "avatar-DR80XoyU.png", "art": "bg-m-runtime-BA4BN32z.webp", "keywords": ["メーツァ"], "from": "エヴァーガーデン", "text": "エヴァーガーデンのガーデナー。花が咲きそろうまで一緒に旅をしたい、と穏やかに話す。" },
-    { "id": "minamoto-chiyo", "name": "源千代", "en": "MINAMOTO CHIYO", "avatar": "avatar-C_l5mNpW.png", "art": "bg-m-runtime-By9hi4CS.webp", "keywords": ["源千代"], "cv": "M・A・O", "badge": "限定", "text": "刀を持つ黒髪の少女。12月17日のメンテナンス後から限定ガチャ「焔心を秘めし刀」でピックアップされ、ストーリーイベント「刃鳴散る！狩猟の祭典」も開かれる。" },
-    { "id": "lan-xiangzi", "name": "寒悠悠", "en": "LAN XIANGZI", "avatar": "avatar-DNseHi_A.png", "art": "bg-m-runtime-CK2YU0TE.webp", "keywords": ["寒悠悠"], "text": "額に呪符を貼っている。剥がしても平気だが、貼っていると安心する、と本人は話している。" },
-    { "id": "tushan-xiaoyu", "name": "塗山小玉", "en": "TUSHAN XIAOYU", "avatar": "avatar-C2-H2u6H.png", "art": "bg-m-runtime-BRGTLoHw.webp", "keywords": ["塗山小玉"], "cv": "内田真礼", "badge": "限定", "text": "縁結びの赤い糸を操るケモミミの少女。リリース初日からの限定ガチャ「桃花の契り」（12月17日 4:59 まで）でピックアップされ、ストーリーイベント「花逢ひの縁契りて」も同時に始まる。" },
-    { "id": "abby", "name": "アビィ", "en": "ABBY", "avatar": "avatar-B7tCcCwp.png", "art": "bg-m-runtime-BcBlLpaa.webp", "keywords": ["アビィ"], "text": "口数の少ない女の子。本当の名前はとても長く、竜の姿のときなら言える、と話す。" },
-    { "id": "cathbelle", "name": "キャスベル", "en": "CATHBELLE", "avatar": "avatar-BwKak6ut.png", "art": "bg-m-runtime-DzBM5gYF.webp", "keywords": ["キャスベル"], "text": "領主の命で主人公のもとへ派遣されたメイド。丁寧な言葉づかいのまま、遠慮なく片付けを始める。" },
-    { "id": "shalle", "name": "シャル", "en": "SHALLE", "avatar": "avatar-DxZFwjsW.png", "art": "bg-m-runtime-DPPcjMGc.webp", "keywords": ["シャル"], "text": "主人公のお供を自分から申し出る、まっすぐな女の子。" },
-    { "id": "faridah", "name": "ファランタ", "en": "FARIDAH", "avatar": "avatar-CPFrahoE.png", "art": "bg-m-runtime-DEUL7116.webp", "keywords": ["ファランタ"], "text": "風に逆らわずに羽ばたけ、と語る。公式サイトの紹介文は一言だけで、詳しいことはまだわからない。" },
-    { "id": "pengpeng", "name": "ポンポン", "en": "PENGPENG", "avatar": "avatar-CjFpARyC.png", "art": "bg-m-runtime-4_6CJ0um.webp", "keywords": ["ポンポン"], "text": "武術界のスーパールーキーで、未来の天下一のカンフーマスターを自称している。" },
-    { "id": "pei-pei", "name": "ペイペイ", "en": "PEI PEI", "avatar": "avatar-PbyRVGLT.png", "art": "bg-m-runtime-CEpNPEMA.webp", "keywords": ["ペイペイ"], "from": "鏡花州", "text": "鏡花州の吉逸楼に住み、会計と配膳をこなしながら修行もしている。" },
-    { "id": "mitty", "name": "ミィティ", "en": "MITTY", "avatar": "avatar-Cl7x52d2.png", "art": "bg-m-runtime-B_b2LS2Q.webp", "keywords": ["ミィティ"], "text": "狩りに出かけるのが日課。獲物の場所は知らないけれど探しに行く、という勢いまかせの性格。" }
+    { "id": "maple", "name": "メイプル", "en": "MAPLE", "avatar": "avatar-BMYn3qBo.png", "art": "bg-m-runtime-D9Vk8KMB.webp", "keywords": ["メイプル"], "text": "ラッキーカラーは青、好物はゼリー。特技はクロディーメのものまね。" },
+    { "id": "anais", "name": "アニス", "en": "ANAIS", "avatar": "avatar-CckWyRNS.png", "art": "bg-m-runtime-aiKLcdZf.webp", "keywords": ["アニス"], "role": "ヒーラー（サポート）", "from": "フリス／カルノン療養院", "cv": "薄井友里", "badge": "全員配布", "text": "カルノン療養院の看護師。フリスの獣人で、味方を回復するヒーラー。事前登録報酬で全員に配布。" },
+    { "id": "terara", "name": "テララ", "en": "TERARA", "avatar": "avatar-BBKTWa82.png", "art": "bg-m-runtime-aC6A_wBX.webp", "keywords": ["テララ"], "from": "シャルル村", "text": "シャルル村一番のハンター。仲間は自分が守る、が口ぐせ。" },
+    { "id": "metsa", "name": "メーツァ", "en": "METSA", "avatar": "avatar-DR80XoyU.png", "art": "bg-m-runtime-BA4BN32z.webp", "keywords": ["メーツァ"], "from": "エヴァーガーデン", "text": "エヴァーガーデンのガーデナー。物腰がやわらかい。" },
+    { "id": "minamoto-chiyo", "name": "源千代", "en": "MINAMOTO CHIYO", "avatar": "avatar-C_l5mNpW.png", "art": "bg-m-runtime-By9hi4CS.webp", "keywords": ["源千代"], "cv": "M・A・O", "badge": "限定", "text": "刀を持つ黒髪の少女。12/17メンテ後から限定ガチャ「焔心を秘めし刀」でピックアップ。" },
+    { "id": "lan-xiangzi", "name": "寒悠悠", "en": "LAN XIANGZI", "avatar": "avatar-DNseHi_A.png", "art": "bg-m-runtime-CK2YU0TE.webp", "keywords": ["寒悠悠"], "text": "額に呪符を貼っている。貼っていると落ち着くらしい。" },
+    { "id": "tushan-xiaoyu", "name": "塗山小玉", "en": "TUSHAN XIAOYU", "avatar": "avatar-C2-H2u6H.png", "art": "bg-m-runtime-BRGTLoHw.webp", "keywords": ["塗山小玉"], "cv": "内田真礼", "badge": "限定", "text": "縁結びの赤い糸を操るケモミミ。リリース初日からの限定ガチャ「桃花の契り」でピックアップ。" },
+    { "id": "abby", "name": "アビィ", "en": "ABBY", "avatar": "avatar-B7tCcCwp.png", "art": "bg-m-runtime-BcBlLpaa.webp", "keywords": ["アビィ"], "text": "無口な女の子。本当の名前は長くて、竜の姿のときしか言えない。" },
+    { "id": "cathbelle", "name": "キャスベル", "en": "CATHBELLE", "avatar": "avatar-BwKak6ut.png", "art": "bg-m-runtime-DzBM5gYF.webp", "keywords": ["キャスベル"], "text": "領主の命で派遣されてきたメイド。言葉は丁寧だが容赦なく片付ける。" },
+    { "id": "shalle", "name": "シャル", "en": "SHALLE", "avatar": "avatar-DxZFwjsW.png", "art": "bg-m-runtime-DPPcjMGc.webp", "keywords": ["シャル"], "text": "自分からお供を申し出てきた、まっすぐな子。" },
+    { "id": "faridah", "name": "ファランタ", "en": "FARIDAH", "avatar": "avatar-CPFrahoE.png", "art": "bg-m-runtime-DEUL7116.webp", "keywords": ["ファランタ"], "text": "「風に逆らわず、その力を利用して羽ばたくんだ」" },
+    { "id": "pengpeng", "name": "ポンポン", "en": "PENGPENG", "avatar": "avatar-CjFpARyC.png", "art": "bg-m-runtime-4_6CJ0um.webp", "keywords": ["ポンポン"], "text": "武術界のスーパールーキーを名乗るカンフー少女。" },
+    { "id": "pei-pei", "name": "ペイペイ", "en": "PEI PEI", "avatar": "avatar-PbyRVGLT.png", "art": "bg-m-runtime-CEpNPEMA.webp", "keywords": ["ペイペイ"], "from": "鏡花州", "text": "鏡花州の吉逸楼で会計と配膳をしながら修行中。" },
+    { "id": "mitty", "name": "ミィティ", "en": "MITTY", "avatar": "avatar-Cl7x52d2.png", "art": "bg-m-runtime-B_b2LS2Q.webp", "keywords": ["ミィティ"], "text": "毎日狩りに出るハンター。獲物の場所は知らない。" }
   ]
 }

@@ -40,7 +40,7 @@
       if (!rc) return;
       var items = ((j && j.items) || []).slice(0, 6);
       if (!items.length) {
-        rc.innerHTML = '<li class="muted">まだ書き込みはありません。<a href="/bbs/talk/">雑談</a>に一番乗りでどうぞ。</li>';
+        rc.innerHTML = '<li class="muted">書き込みはありません</li>';
         return;
       }
       rc.innerHTML = items

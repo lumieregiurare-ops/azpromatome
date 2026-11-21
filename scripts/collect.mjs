@@ -267,6 +267,8 @@ if (cur?.icon) wants.push({ url: cur.icon, preset: "icon" });
 for (const s of cur?.screenshots || []) wants.push({ url: s, preset: "shot" });
 const newsSorted = archived.sort((a, b) => (a.publishedAt < b.publishedAt ? 1 : -1));
 for (const n of newsSorted.slice(0, 400)) if (n.image) wants.push({ url: n.image, preset: "thumb" });
+// トップの一番上に大きく出す記事用（新しい記事だけ）
+for (const n of newsSorted.filter((x) => x.scope === "main").slice(0, 12)) if (n.image) wants.push({ url: n.image, preset: "wide" });
 try {
   const r = await syncImages(ROOT, wants, { ...config.images, maxNewPerRun: backfill ? 300 : config.images?.maxNewPerRun, guard });
   log(`images: 新しく置いた ${r.fetched} / 失敗 ${r.failed} / 次回に回した ${r.pending} / 消した ${r.pruned}`);

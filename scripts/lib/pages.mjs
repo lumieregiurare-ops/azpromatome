@@ -173,7 +173,7 @@ ${ld.map(jsonLd).join("\n")}
 <body>
 <header class="hd">
   <div class="wrap hd-in">
-    <a class="logo" href="/"><img src="/assets/logo-mark.png" width="40" height="40" alt=""><span class="logo-t">${esc(site.title)}<small>${esc(site.subtitle)}</small></span></a>
+    ${isTop ? "<h1 class=\"logo-h\">" : ""}<a class="logo" href="/"><img src="/assets/logo-mark.png" width="40" height="40" alt=""><span class="logo-t">${esc(site.title)}<small>${esc(site.subtitle)}</small></span></a>${isTop ? "</h1>" : ""}
     <p class="hd-cd">${launchLabel}<span>${launchDate}${daysLeft > 0 ? " 配信予定" : " 配信開始"}</span></p>
   </div>
   <nav class="gnav"><ul class="wrap">${nav}</ul></nav>
@@ -190,7 +190,7 @@ ${side()}
   <div class="wrap">
     <p class="ft-links"><a href="/about/">このサイトについて</a> ／ <a href="/feed.xml">RSS</a> ／ <a href="${esc(site.contactUrl)}" ${ext}>お問い合わせ・削除依頼</a></p>
     <p class="ft-sis">運営サイト：${(config.sisterSites || []).map((s) => `<a href="${esc(s.url)}">${esc(s.name)}</a>`).join(" ／ ")}</p>
-    <p class="ft-note">当サイトは非公式のファンサイトです。ニュースは見出しを引用して元記事へリンクしています。画像は元の記事・公式サイト・ストアのものを縮小して掲載しています。<br>『アズールプロミリア』に関する権利は © Manjuu Co., Ltd. © Yostar, Inc. に帰属します。</p>
+    <p class="ft-note">非公式ファンサイトです。『アズールプロミリア』© Manjuu Co., Ltd. © Yostar, Inc.</p>
   </div>
 </footer>
 <script src="/assets/app.js?v=${ver.js}" defer></script>
@@ -235,7 +235,7 @@ ${campaigns.length ? `<p class="bl-camp">開催中：${campaigns.map((c) => `<a 
 <h2 class="box-t">掲示板</h2>
 <ul class="bl">${(config.boards || []).map((b) => `<li><a href="/bbs/${b.id}/">${esc(b.name)}</a><span class="muted" data-count-for="${b.id}"></span></li>`).join("")}<li><a href="/chara/">キャラクター別の掲示板</a></li></ul>
 </section>
-${topVideos.length ? `<section class="box"><h2 class="box-t">再生数の多い公式動画</h2><ol class="sv">${topVideos.map((v) => `<li><a href="/videos/#v-${esc(v.id)}">${pic(ytThumb(v), "wide", v.title, { cls: "sv-img", label: "動画" })}<span>${esc(shortTitle(v.title))}</span></a><span class="muted">${num(v.views)}回</span></li>`).join("")}</ol></section>` : ""}`;
+${topVideos.length ? `<section class="box"><h2 class="box-t">再生数の多い公式動画</h2><ol class="sv">${topVideos.map((v, i) => `<li><b class="rk rk-${i + 1}">${i + 1}</b><a href="/videos/#v-${esc(v.id)}">${pic(ytThumb(v), "wide", v.title, { cls: "sv-img", label: "動画" })}<span>${esc(shortTitle(v.title))}</span></a><span class="muted">${num(v.views)}回</span></li>`).join("")}</ol></section>` : ""}`;
   }
 
   // ---------- 記事の部品 ----------
@@ -330,16 +330,16 @@ ${topVideos.length ? `<section class="box"><h2 class="box-t">再生数の多い�
   function commentsHtml(id, title, { lead = "", h = "h2" } = {}) {
     return `<section class="sec comments" id="comments" data-work="${esc(id)}" data-title="${esc(title)}">
 <${h} class="sec-t"><span>${esc(title)}の掲示板<span class="c-count" id="cCount"></span></span></${h}>
-${lead ? `<p class="lead">${esc(lead)}</p>` : ""}
+${lead ? `` : ""}
 <div class="c-list" id="cList"><p class="c-empty">読み込み中…</p></div>
 <form class="c-form" id="cForm" novalidate>
 <div class="c-row"><label>名前<input type="text" name="name" maxlength="20" placeholder="名無しの星臨者" autocomplete="nickname"></label>
 <label class="c-sp"><input type="checkbox" name="spoiler" value="1"> ネタバレ</label></div>
-<label class="c-body-label">本文<textarea name="body" rows="4" maxlength="500" required placeholder="&gt;&gt;1 のように書くと、そのレスへのリンクになります"></textarea></label>
+<label class="c-body-label">本文<textarea name="body" rows="4" maxlength="500" required></textarea></label>
 <input type="text" name="website" class="c-hp" tabindex="-1" autocomplete="off" aria-hidden="true">
 <div class="c-foot"><span class="c-len" id="cLen">0 / 500</span><button type="submit">書き込む</button></div>
 <p class="c-msg" id="cMsg" role="status"></p>
-<p class="c-rule">URL・メールアドレス・電話番号は書き込めません。悪口・差別・晒し・アカウント売買の話は削除します。困った書き込みは「通報」を押してください。</p>
+<p class="c-rule">URL・メールアドレス・電話番号は書き込めません。</p>
 </form>
 <noscript><p class="c-empty">書き込みを見るには JavaScript を有効にしてください。</p></noscript>
 </section>`;
@@ -363,20 +363,38 @@ ${lead ? `<p class="lead">${esc(lead)}</p>` : ""}
     const topics = (state.topics || []).slice(0, 5);
     const vids = videos.filter((v) => !v.short);
     const lead = vids[0];
-    const pickup = `<h1 class="top-h">アズールプロミリア（アズプロ）の最新ニュース・公式動画・キャラクター情報</h1>
-<div class="pick">
-${lead ? `<div class="pick-v">${videoCard(lead, { big: true })}${vids.length > 1 ? `<ul class="pick-more">${vids
+    // 一番上は、画像のある新しい記事 3 本を大小の組み合わせで見せる（同じ画像は使わない）
+    const feat = [];
+    const featImgs = new Set();
+    for (const n of main.slice(0, 12)) {
+      if (feat.length >= 3) break;
+      if (!images.get(n.image, "thumb") || featImgs.has(n.image)) continue;
+      featImgs.add(n.image);
+      feat.push(n);
+    }
+    const featHtml = feat.length === 3
+      ? `<div class="fe">${feat
+          .map((n, i) => `<a class="fe-i${i === 0 ? " fe-big" : ""}" href="${esc(n.url)}" ${ext}>${images.get(n.image, "wide") ? pic(n.image, "wide", n.title, { eager: i === 0 }) : pic(n.image, "thumb", n.title, { eager: i === 0 })}<span class="fe-c">${catTags(n.categories)}<b>${esc(n.title)}</b><small>${esc(n.source)}・${mdhm(n.publishedAt)}</small></span></a>`)
+          .join("")}</div>`
+      : "";
+    const rest = feat.length === 3 ? main.filter((n) => !feat.includes(n)) : main;
+    const pickup = `<div class="pick">
+<div class="pick-t"><h2 class="pick-h">いま話題</h2>${topics.length ? topicList(topics) : `<div class="n-list">${rest.slice(0, 5).map((n) => newsItem(n, "text")).join("")}</div>`}</div>
+${lead ? `<div class="pick-v"><h2 class="pick-h pick-h-v">最新の公式動画</h2>${videoCard(lead, { big: true })}${vids.length > 1 ? `<ul class="pick-more">${vids
       .slice(1, 3)
       .map((v) => `<li><a href="/videos/#v-${esc(v.id)}">${pic(ytThumb(v), "wide", v.title, { label: "動画" })}<span>${esc(shortTitle(v.title))}<small>${md(v.publishedAt)}・${num(v.views)}回再生</small></span></a></li>`)
       .join("")}</ul>` : ""}</div>` : ""}
-<div class="pick-t"><h2 class="pick-h">いま話題</h2>${topics.length ? topicList(topics) : `<div class="n-list">${main.slice(0, 5).map((n) => newsItem(n, "text")).join("")}</div>`}</div>
 </div>`;
+    const strip = `<div class="cs">${charas
+      .map((c) => `<a class="cs-i" href="/chara/${c.id}/">${pic(artUrl(c), "art", c.name, { label: c.name })}<span class="cs-n">${c.badge ? `<i class="badge badge-${c.badge === "限定" ? "lim" : "free"}">${esc(c.badge)}</i>` : ""}${esc(c.name)}</span></a>`)
+      .join("")}</div>`;
     const shots = (cur?.screenshots || []).filter((u) => images.get(u, "shot"));
-    const body = `${pickup}
-${sec("ニュース", main.length ? newsBlock(main.slice(0, 22), { leads: 1, cards: 6, rows: 10 }) : '<p class="muted">まだありません。</p>', { more: "/news/" })}
-${sec("キャラクター", charaGrid(), { more: "/chara/" })}
-${vids.length > 1 ? sec("公式動画", `<div class="vg">${vids.slice(1, 7).map((v) => videoCard(v)).join("")}</div>`, { more: "/videos/" }) : ""}
-${shots.length ? sec("ゲーム画面", `<div class="shots">${shots.map((u) => pic(u, "shot", "アズールプロミリアのゲーム画面")).join("")}</div><p class="note">App Store に載っているスクリーンショットです。</p>`, { more: "/info/#shots" }) : ""}
+    const body = `${featHtml}
+${pickup}
+${sec("ニュース", rest.length ? newsBlock(rest.slice(0, 13), { cards: 3, rows: 10 }) : '<p class="muted">まだありません。</p>', { more: "/news/" })}
+${sec("キャラクター", strip, { more: "/chara/", cls: "sec-pink" })}
+${vids.length > 1 ? sec("公式動画", `<div class="vg vg-4">${vids.slice(1, 9).map((v) => videoCard(v)).join("")}</div>`, { more: "/videos/", cls: "sec-dark" }) : ""}
+${shots.length ? sec("ゲーム画面", `<div class="shots">${shots.map((u) => pic(u, "shot", "アズールプロミリアのゲーム画面")).join("")}</div>`, { more: "/info/#shots" }) : ""}
 ${series.length ? sec("アズレン・Manjuuの話題", `<div class="n-list">${series.slice(0, 6).map((n) => newsItem(n, images.get(n.image, "thumb") ? "row" : "text")).join("")}</div>`, { more: "/azurlane/" }) : ""}`;
     const ld = [
       {
@@ -402,7 +420,7 @@ ${series.length ? sec("アズレン・Manjuuの話題", `<div class="n-list">${s
       path: "/news/",
       title: "アズールプロミリアのニュース",
       desc: "ファミ通・4Gamer・GameWith などゲーム媒体が報じたアズールプロミリア（アズプロ）の記事を日ごとにまとめています。",
-      body: `${crumbs([["/news/", "ニュース"]])}${sec("アズールプロミリアのニュース", `<p class="lead">ゲーム媒体・攻略サイトの記事を日ごとに並べています（全${main.length}件）。見出しを押すと元の記事が開きます。</p>${monthNav()}${byDay(main.slice(0, 150))}`, { h: "h1" })}`,
+      body: `${crumbs([["/news/", "ニュース"]])}${sec("アズールプロミリアのニュース", `${monthNav()}${byDay(main.slice(0, 150))}`, { h: "h1" })}`,
     }),
     { priority: 0.8 }
   );
@@ -415,7 +433,7 @@ ${series.length ? sec("アズレン・Manjuuの話題", `<div class="n-list">${s
         path: `/news/${m}/`,
         title: `${label}のアズールプロミリアのニュース`,
         desc: `${label}にゲーム媒体が報じたアズールプロミリア（アズプロ）の記事${list.length}件。`,
-        body: `${crumbs([["/news/", "ニュース"], [`/news/${m}/`, label]])}${sec(`${label}のニュース`, `<p class="lead">${label}の記事です（${list.length}件）。</p>${monthNav(m)}${byDay(list)}`, { h: "h1" })}`,
+        body: `${crumbs([["/news/", "ニュース"], [`/news/${m}/`, label]])}${sec(`${label}のニュース`, `${monthNav(m)}${byDay(list)}`, { h: "h1" })}`,
       }),
       { priority: 0.4 }
     );
@@ -426,7 +444,7 @@ ${series.length ? sec("アズレン・Manjuuの話題", `<div class="n-list">${s
       path: "/azurlane/",
       title: "アズレン・Manjuuの話題",
       desc: "アズールプロミリアの開発元 Manjuu の『アズールレーン』など、関連するニュース。",
-      body: `${crumbs([["/azurlane/", "アズレン・Manjuu"]])}${sec("アズレン・Manjuuの話題", `<p class="lead">開発元 Manjuu の代表作『アズールレーン』など、関連する記事です（全${series.length}件）。</p>${byDay(series.slice(0, 150))}`, { h: "h1" })}`,
+      body: `${crumbs([["/azurlane/", "アズレン・Manjuu"]])}${sec("アズレン・Manjuuの話題", `${byDay(series.slice(0, 150))}`, { h: "h1" })}`,
     }),
     { priority: 0.5 }
   );
@@ -438,7 +456,7 @@ ${series.length ? sec("アズレン・Manjuuの話題", `<div class="n-list">${s
       path: "/videos/",
       title: "アズールプロミリアの公式動画",
       desc: "アズールプロミリア公式YouTubeチャンネルのPV・生放送・キャラクター紹介の動画をまとめて見られます。",
-      body: `${crumbs([["/videos/", "公式動画"]])}${sec("公式動画", `<p class="lead">公式 YouTube チャンネル（<a href="https://www.youtube.com/@${esc(config.youtube.handle)}" ${ext}>@${esc(config.youtube.handle)}</a>）の動画です。サムネイルを押すとこのページで再生します。緑の数字は前日からの再生数の伸びです。</p><div class="vg">${videos.map((v) => videoCard(v)).join("")}</div>`, { h: "h1" })}`,
+      body: `${crumbs([["/videos/", "公式動画"]])}${sec("公式動画", `<div class="vg">${videos.map((v) => videoCard(v)).join("")}</div>`, { h: "h1" })}`,
       ld: videoLd(videos.slice(0, 20)),
     }),
     { priority: 0.7 }
@@ -453,13 +471,12 @@ ${series.length ? sec("アズレン・Manjuuの話題", `<div class="n-list">${s
       desc: `アズールプロミリアのキャラクター${charas.length}人の一覧。${charas.map((c) => c.name).join("・")}。`,
       body: `${crumbs([["/chara/", "キャラクター"]])}${sec(
         "キャラクター一覧",
-        `<p class="lead">公式サイトで紹介されているキャラクターです。名前を押すと、そのキャラの紹介・関連ニュース・掲示板のページに移ります。</p>
-<div class="cl">${charas
+        `<div class="cl">${charas
           .map(
             (c) => `<a class="cl-i" href="/chara/${c.id}/">${pic(artUrl(c), "art", c.name, { cls: "cl-img", label: c.name })}<span class="cl-b"><b>${esc(c.name)}</b><small>${esc(c.en)}</small>${c.cv ? `<span class="cl-cv">CV：${esc(c.cv)}</span>` : ""}${c.badge ? `<span class="badge badge-${c.badge === "限定" ? "lim" : "free"}">${esc(c.badge)}</span>` : ""}<span class="cl-n" data-count-for="chara-${c.id}"></span></span></a>`
           )
           .join("")}</div>
-<p class="note">${esc(content.charaNote || "")}</p>`,
+`,
         { h: "h1" }
       )}`,
       image: charas[0] ? absImg(artUrl(charas[0]), "og") : "",
@@ -492,14 +509,14 @@ ${series.length ? sec("アズレン・Manjuuの話題", `<div class="n-list">${s
 <table class="tb"><tbody>${prof.map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join("")}</tbody></table>
 <p class="ch-text">${esc(c.text)}</p>
 ${gacha.map((g) => `<p class="ch-gacha"><b>限定ガチャ「${esc(g.name)}」</b>${esc(g.from)} 〜 ${esc(g.to)}<br>${esc(g.event)}</p>`).join("")}
-<p class="note">出典：公式サイトのキャラクター紹介・ゲーム媒体の記事。</p>
+
 </div>
 </div>
 <p class="ch-nav"><a href="/chara/${prevC.id}/">« ${esc(prevC.name)}</a><a href="/chara/">キャラクター一覧</a><a href="/chara/${nextC.id}/">${esc(nextC.name)} »</a></p>
 </article>
 ${vs.length ? sec(`${esc(c.name)}が出てくる公式動画`, `<div class="vg">${vs.slice(0, 6).map((v) => videoCard(v)).join("")}</div>`) : ""}
 ${ns.length ? sec(`${esc(c.name)}のニュース`, `<div class="n-list">${ns.slice(0, 30).map((n) => newsItem(n, images.get(n.image, "thumb") ? "row" : "text")).join("")}</div>`) : ""}
-${commentsHtml(wid, c.name, { lead: `${c.name}の感想・育成・編成の話はここでどうぞ。` })}`;
+${commentsHtml(wid, c.name)}`;
     put(
       path,
       layout({
@@ -521,22 +538,22 @@ ${commentsHtml(wid, c.name, { lead: `${c.name}の感想・育成・編成の話�
       .map(([d, t]) => `<li class="${new Date(d + "T23:59:59+09:00") < now ? "done" : "next"}"><time datetime="${d}">${d.replace(/-/g, "/")}</time><span>${esc(t)}</span></li>`)
       .join("")}</ol>`;
     const terms = `<dl class="terms">${(content.terms || []).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
-    const rewards = `<table class="tb"><thead><tr><th>報酬</th><th>数</th><th>説明</th></tr></thead><tbody>${(content.rewards || []).map(([n, c, d]) => `<tr><td><b>${esc(n)}</b></td><td class="nowrap">${esc(c)}</td><td>${esc(d)}</td></tr>`).join("")}</tbody></table><p class="note">${esc(content.rewardsNote || "")}</p>`;
+    const rewards = `<table class="tb"><thead><tr><th>報酬</th><th>数</th><th>説明</th></tr></thead><tbody>${(content.rewards || []).map(([n, c, d]) => `<tr><td><b>${esc(n)}</b></td><td class="nowrap">${esc(c)}</td><td>${esc(d)}</td></tr>`).join("")}</tbody></table>`;
     const gacha = `<table class="tb"><thead><tr><th>ガチャ</th><th>ピックアップ</th><th>期間</th></tr></thead><tbody>${(content.launchGacha || [])
       .map((g) => `<tr><td>${esc(g.name)}</td><td><a href="/chara/${g.chara}/">${esc(charaById[g.chara]?.name || g.chara)}</a></td><td>${esc(g.from)} 〜 ${esc(g.to)}</td></tr>`)
       .join("")}</tbody></table>`;
     const shots = (cur?.screenshots || []).filter((u) => images.get(u, "shot"));
     const hist = (store.history || []).length
-      ? `<table class="tb"><thead><tr><th>バージョン</th><th>公開日</th><th>内容</th></tr></thead><tbody>${store.history.map((h) => `<tr><td>${esc(h.version)}</td><td class="nowrap">${h.date ? ymd(h.date) : ""}</td><td class="pre">${esc(h.notes || "")}</td></tr>`).join("")}</tbody></table><p class="note">App Store のバージョンが変わるたびに記録しています。</p>`
+      ? `<table class="tb"><thead><tr><th>バージョン</th><th>公開日</th><th>内容</th></tr></thead><tbody>${store.history.map((h) => `<tr><td>${esc(h.version)}</td><td class="nowrap">${h.date ? ymd(h.date) : ""}</td><td class="pre">${esc(h.notes || "")}</td></tr>`).join("")}</tbody></table>`
       : "";
     const body = `${crumbs([["/info/", "基本情報"]])}
-${sec("アズールプロミリアの基本情報", `${spec}<p class="story">${esc(content.story || "")}</p><p class="note">出典：公式サイト・App Store・ゲーム媒体の記事（${esc(content.checkedAt || "")} 確認）。</p>`, { h: "h1" })}
+${sec("アズールプロミリアの基本情報", `${spec}<p class="story">${esc(content.story || "")}</p>`, { h: "h1" })}
 ${sec("これまでの動きと予定", tl, { id: "timeline" })}
 ${sec("事前登録の報酬", rewards, { id: "rewards" })}
 ${sec("リリース直後の限定ガチャ", gacha, { id: "gacha" })}
 ${sec("用語", terms, { id: "terms" })}
-${sec("地域", `<ul class="regions">${(content.regions || []).map((r) => `<li><b>${esc(r.name)}</b>${r.en ? `<small>${esc(r.en)}</small>` : ""}</li>`).join("")}</ul><p class="note">公式サイトの「WORLD」「KIBO」で紹介されている地域です。</p>`, { id: "world" })}
-${shots.length ? sec("ゲーム画面", `<div class="shots">${shots.map((u) => pic(u, "shot", "アズールプロミリアのゲーム画面")).join("")}</div><p class="note">App Store に載っているスクリーンショットです。</p>`, { id: "shots" }) : ""}
+${sec("地域", `<ul class="regions">${(content.regions || []).map((r) => `<li><b>${esc(r.name)}</b>${r.en ? `<small>${esc(r.en)}</small>` : ""}</li>`).join("")}</ul>`, { id: "world" })}
+${shots.length ? sec("ゲーム画面", `<div class="shots">${shots.map((u) => pic(u, "shot", "アズールプロミリアのゲーム画面")).join("")}</div>`, { id: "shots" }) : ""}
 ${hist ? sec("アプリの更新履歴", hist, { id: "history" }) : ""}`;
     const ld = [
       {
@@ -568,8 +585,7 @@ ${hist ? sec("アプリの更新履歴", hist, { id: "history" }) : ""}`;
       desc: "アズールプロミリアの雑談・ガチャ報告・質問の掲示板。キャラクターごとの掲示板もあります。",
       body: `${crumbs([["/bbs/", "掲示板"]])}${sec(
         "掲示板",
-        `<p class="lead">登録なしで書き込めます。名前は空欄でもかまいません。</p>
-<ul class="bbs">${(config.boards || []).map((b) => `<li><a href="/bbs/${b.id}/"><b>${esc(b.name)}</b></a><span>${esc(b.desc)}</span><span class="muted" data-count-for="${b.id}"></span></li>`).join("")}</ul>
+        `<ul class="bbs">${(config.boards || []).map((b) => `<li><a href="/bbs/${b.id}/"><b>${esc(b.name)}</b></a><span>${esc(b.desc)}</span><span class="muted" data-count-for="${b.id}"></span></li>`).join("")}</ul>
 <h2 class="sub">キャラクターの掲示板</h2>
 <ul class="bbs bbs-c">${charas.map((c) => `<li><a href="/chara/${c.id}/#comments">${pic(avatarUrl(c), "icon", c.name, { cls: "bbs-ic", label: c.name })}<b>${esc(c.name)}</b></a><span class="muted" data-count-for="chara-${c.id}"></span></li>`).join("")}</ul>`,
         { h: "h1" }
@@ -586,7 +602,7 @@ ${hist ? sec("アプリの更新履歴", hist, { id: "history" }) : ""}`;
         path: `/bbs/${b.id}/`,
         title: `${b.name}｜アズールプロミリア掲示板`,
         desc: `アズールプロミリア（アズプロ）の${b.name}掲示板。${b.desc}`,
-        body: `${crumbs([["/bbs/", "掲示板"], [`/bbs/${b.id}/`, b.name]])}${commentsHtml(b.id, b.name, { lead: b.lead, h: "h1" })}`,
+        body: `${crumbs([["/bbs/", "掲示板"], [`/bbs/${b.id}/`, b.name]])}${commentsHtml(b.id, b.name, { h: "h1" })}`,
         scripts: commentScripts,
       }),
       { priority: 0.5 }

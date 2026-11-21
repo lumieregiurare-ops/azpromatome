@@ -79,7 +79,7 @@
     function render() {
       $("cCount").textContent = items.length ? "（" + items.length + "）" : "";
       if (!items.length) {
-        $("cList").innerHTML = '<p class="c-empty">まだコメントはありません。</p>';
+        $("cList").innerHTML = '<p class="c-empty">書き込みはありません</p>';
         return;
       }
       $("cList").innerHTML = items
