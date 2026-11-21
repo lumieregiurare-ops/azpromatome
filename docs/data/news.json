@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T14:20:33.297Z",
-  "updateGapMin": 2,
+  "updatedAt": "2026-11-21T15:00:19.278Z",
+  "updateGapMin": 4,
   "topics": [
     {
       "id": "c7bfd3733174",
@@ -450,23 +450,6 @@
       "publishedAt": "2026-11-19T07:06:00.000Z",
       "image": "",
       "scope": "main",
-      "categories": [
-        "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9e5f42d84d13",
-      "title": "「アズールレーン」よりフィギュア「ベルファスト 至福の奉仕Ver.」本日出荷開始！",
-      "url": "https://hobby.watch.impress.co.jp/docs/news/2157412.html",
-      "host": "hobby.watch.impress.co.jp",
-      "source": "hobby Watch",
-      "summary": "",
-      "publishedAt": "2026-11-18T15:00:00.000Z",
-      "image": "https://hobby.watch.impress.co.jp/img/hbw/list/2157/412/001.jpg",
-      "scope": "series",
       "categories": [
         "news"
       ],
