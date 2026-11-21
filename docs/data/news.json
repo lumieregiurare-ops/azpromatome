@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T15:12:03.334Z",
-  "updateGapMin": 4,
+  "updatedAt": "2026-11-21T16:00:18.382Z",
+  "updateGapMin": 5,
   "topics": [
     {
       "id": "c7bfd3733174",
@@ -282,7 +282,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a85def44e30a",
@@ -291,7 +291,7 @@
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-11-20T05:52:50.000Z",
+      "publishedAt": "2026-11-20T06:01:33.000Z",
       "image": "",
       "scope": "series",
       "categories": [
@@ -316,7 +316,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e5ae0442cdc9",
@@ -350,7 +350,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dab19c87f1e6",
@@ -368,7 +368,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b16fbb0ca467",
@@ -386,7 +386,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c7980e6a5d19",
@@ -438,7 +438,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a2077418326",
