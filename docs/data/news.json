@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:00:22.579Z",
+  "updatedAt": "2026-11-21T17:30:17.783Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -41,6 +41,33 @@
           "url": "https://www.gamer.ne.jp/news/202611190040/",
           "source": "Gamer",
           "publishedAt": "2026-11-19T07:06:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c704104020e4",
+      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
+      "summary": "",
+      "url": "http://www.akiba-plus.com/?p=159044",
+      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png",
+      "leadSource": "秋葉原ＰＬＵＳ",
+      "publishedAt": "2026-11-21T13:14:23.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "pv",
+        "news"
+      ],
+      "keywords": [
+        "リリース"
+      ],
+      "articles": [
+        {
+          "title": "星臨者を待つ、アズールプロミリア26日リリース",
+          "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
+          "source": "게임메카",
+          "publishedAt": "2026-11-20T12:50:40.000Z",
           "isPR": false
         }
       ]
@@ -104,6 +131,23 @@
     }
   ],
   "items": [
+    {
+      "id": "c704104020e4",
+      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
+      "url": "http://www.akiba-plus.com/?p=159044",
+      "host": "akiba-plus.com",
+      "source": "秋葉原ＰＬＵＳ",
+      "summary": "",
+      "publishedAt": "2026-11-21T13:14:23.000Z",
+      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png",
+      "scope": "main",
+      "categories": [
+        "pv"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "e8f3e62ed798",
       "title": "『アズールプロミリア』汗拭きやストッキング脱がせなど驚きのふれあい機能が判明",
@@ -213,6 +257,23 @@
       "isNew": false
     },
     {
+      "id": "4e64190ed437",
+      "title": "星臨者を待つ、アズールプロミリア26日リリース",
+      "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
+      "host": "gamemeca.com",
+      "source": "게임메카",
+      "summary": "",
+      "publishedAt": "2026-11-20T12:50:40.000Z",
+      "image": "https://cdn.gamemeca.com/gmdata/0001/783/937/gm644262_az.webp",
+      "scope": "main",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "a8c32690986e",
       "title": "「アズールプロミリア」に黒髪×制服の限定キャラ「源千代」が登場へ（GAME Watch）",
       "url": "https://news.yahoo.co.jp/articles/28ce6eeb7eab9396f60ed0d597f3678fcae635b1",
@@ -291,7 +352,7 @@
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-11-20T06:01:33.000Z",
+      "publishedAt": "2026-11-20T05:52:50.000Z",
       "image": "",
       "scope": "series",
       "categories": [
