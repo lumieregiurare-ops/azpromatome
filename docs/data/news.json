@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T16:00:18.382Z",
-  "updateGapMin": 5,
+  "updatedAt": "2026-11-21T16:30:20.174Z",
+  "updateGapMin": 9,
   "topics": [
     {
       "id": "c7bfd3733174",
@@ -47,14 +47,14 @@
     },
     {
       "id": "9802626852d7",
-      "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 29/57",
+      "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 48/57",
       "summary": "",
       "url": "https://news.livedoor.com/article/image_detail/32865732/?img_id=57719910",
       "image": "https://image.news.livedoor.com/newsimage/stf/7/0/7061e_1838_25b81e6d070e43bf2e6ab35b0cffeea2.jpg",
       "leadSource": "ライブドアニュース",
       "publishedAt": "2026-11-20T13:36:05.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "gacha",
         "campaign"
@@ -70,6 +70,13 @@
           "url": "https://game.watch.impress.co.jp/docs/news/2158396.html",
           "source": "GAME Watch",
           "publishedAt": "2026-11-20T13:36:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "星臨者を待つ、アズールプロミリア26日リリース",
+          "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
+          "source": "게임메카",
+          "publishedAt": "2026-11-20T12:50:40.000Z",
           "isPR": false
         }
       ]
@@ -101,6 +108,34 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "1e7b1f4beb4e",
+      "title": "【画像】「アズールプロミリア」なんと美少女の汗を拭ける！ きわどい要素のゲームプレイ公開 1/6",
+      "summary": "",
+      "url": "https://news.livedoor.com/article/image_detail/32865674/?img_id=57719789",
+      "image": "https://image.news.livedoor.com/newsimage/stf/e/7/e7a4b_1838_2383dee0a7d6e078e84930be5c159817.jpg",
+      "leadSource": "ライブドアニュース",
+      "publishedAt": "2026-11-20T13:28:17.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "news"
+      ],
+      "keywords": [
+        "ゲームプレイ",
+        "美少女",
+        "要素"
+      ],
+      "articles": [
+        {
+          "title": "「アズールプロミリア」なんと美少女の汗を拭ける！ きわどい要素のゲームプレイ公開",
+          "url": "https://game.watch.impress.co.jp/docs/news/2158407.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-11-20T13:28:17.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "items": [
@@ -123,7 +158,7 @@
     },
     {
       "id": "9802626852d7",
-      "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 29/57",
+      "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 48/57",
       "url": "https://news.livedoor.com/article/image_detail/32865732/?img_id=57719910",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -196,6 +231,23 @@
       "isNew": false
     },
     {
+      "id": "1e7b1f4beb4e",
+      "title": "【画像】「アズールプロミリア」なんと美少女の汗を拭ける！ きわどい要素のゲームプレイ公開 1/6",
+      "url": "https://news.livedoor.com/article/image_detail/32865674/?img_id=57719789",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-20T13:28:17.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/e/7/e7a4b_1838_2383dee0a7d6e078e84930be5c159817.jpg",
+      "scope": "main",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "d169bb05f8bd",
       "title": "「アズールプロミリア」なんと美少女の汗を拭ける！ きわどい要素のゲームプレイ公開",
       "url": "https://game.watch.impress.co.jp/docs/news/2158407.html",
@@ -211,6 +263,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "4e64190ed437",
+      "title": "星臨者を待つ、アズールプロミリア26日リリース",
+      "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
+      "host": "gamemeca.com",
+      "source": "게임메카",
+      "summary": "",
+      "publishedAt": "2026-11-20T12:50:40.000Z",
+      "image": "https://cdn.gamemeca.com/gmdata/0001/783/937/gm644262_az.webp",
+      "scope": "main",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "a8c32690986e",
