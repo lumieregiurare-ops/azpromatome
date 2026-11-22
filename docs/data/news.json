@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:30:22.591Z",
+  "updatedAt": "2026-11-22T14:00:20.929Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -487,6 +487,24 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "2854773af8e5",
+      "title": "【アズールプロミリア】配信日と事前登録情報｜最新情報｜アズプロ",
+      "url": "https://appmedia.jp/newgame/77704138",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/12/114039_zko28.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "f6fe6ff63e8d",
