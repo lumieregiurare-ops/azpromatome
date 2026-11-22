@@ -224,7 +224,7 @@ ${body}
 <p class="bl-big">${launchLabel}</p>
 <p class="bl-date">${launchDate}${daysLeft > 0 ? "配信予定" : "配信開始"}</p>
 <dl class="kv">${spec.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
-<p class="btns"><a class="btn btn-ios" href="${esc(config.store.appStoreUrl)}" ${ext}>App Store</a><a class="btn btn-gp" href="${esc(config.store.googlePlayUrl)}" ${ext}>Google Play</a></p>
+<p class="badges"><a href="${esc(config.store.appStoreUrl)}" ${ext}><img src="/assets/badge-appstore.svg" width="120" height="40" alt="App Storeからダウンロード"></a><a href="${esc(config.store.googlePlayUrl)}" ${ext}><img src="/assets/badge-googleplay.png" width="135" height="52" alt="Google Playで手に入れよう"></a></p>
 ${campaigns.length ? `<p class="bl-camp">開催中：${campaigns.map((c) => `<a href="${esc(c.url)}" ${ext}>${esc(c.name)}</a>（${md(c.end)}まで）`).join("、")}</p>` : ""}
 </section>
 <section class="box">
@@ -316,11 +316,10 @@ ${topVideos.length ? `<section class="box"><h2 class="box-t">再生数の多い�
   function topicList(topics) {
     return `<ol class="tp">${topics
       .map((t) => {
-        const lv = t.sourceCount >= 5 ? "tp-hot" : t.sourceCount >= 3 ? "tp-warm" : "";
         // 同じ媒体が続報を出していることがあるので、媒体名は 1 回ずつにする
         const seen = new Set([t.leadSource]);
         const others = t.articles.filter((a) => !seen.has(a.source) && seen.add(a.source)).slice(0, 4);
-        return `<li class="${lv}"><span class="tp-n" title="${t.sourceCount}つの媒体が報じた"><b>${t.sourceCount}</b>媒体</span><div><a class="tp-a" href="${esc(t.url)}" ${ext}>${esc(t.title)}</a>
+        return `<li>${images.get(t.image, "thumb") ? `<a class="tp-img" href="${esc(t.url)}" ${ext} tabindex="-1">${pic(t.image, "thumb", t.title)}</a>` : ""}<div><a class="tp-a" href="${esc(t.url)}" ${ext}>${esc(t.title)}</a>
 <p class="tp-m">${esc(t.leadSource)}${others.length ? "・" + others.map((a) => `<a href="${esc(a.url)}" ${ext}>${esc(a.source)}</a>`).join("・") : ""}　${time(t.publishedAt)}</p></div></li>`;
       })
       .join("")}</ol>`;
@@ -385,9 +384,18 @@ ${lead ? `<div class="pick-v"><h2 class="pick-h pick-h-v">最新の公式動画<
       .map((v) => `<li><a href="/videos/#v-${esc(v.id)}">${pic(ytThumb(v), "wide", v.title, { label: "動画" })}<span>${esc(shortTitle(v.title))}<small>${md(v.publishedAt)}・${num(v.views)}回再生</small></span></a></li>`)
       .join("")}</ul>` : ""}</div>` : ""}
 </div>`;
-    const strip = `<div class="cs">${charas
-      .map((c) => `<a class="cs-i" href="/chara/${c.id}/">${pic(artUrl(c), "art", c.name, { label: c.name })}<span class="cs-n">${c.badge ? `<i class="badge badge-${c.badge === "限定" ? "lim" : "free"}">${esc(c.badge)}</i>` : ""}${esc(c.name)}</span></a>`)
-      .join("")}</div>`;
+    // 限定ガチャの期間は「2026-12-17 4:59」「2026-12-17 メンテナンス後」のような書き方なので、先頭の日付だけ見る
+    const dayOf = (s) => (String(s).match(/\d{4}-\d{2}-\d{2}/) || [""])[0];
+    const pickupG = (content.launchGacha || []).find((g) => dayOf(g.to) >= today && charaById[g.chara]);
+    const spot = pickupG ? charaById[pickupG.chara] : charas[0];
+    const spotLabel = pickupG ? (dayOf(pickupG.from) <= today ? "ピックアップ中" : `${md(dayOf(pickupG.from) + "T00:00:00+09:00")}からピックアップ`) : "";
+    const strip = `<div class="cx">
+<a class="cx-spot" href="/chara/${spot.id}/">${pic(artUrl(spot), "art", spot.name, { label: spot.name })}<span class="cx-b">${spotLabel ? `<span class="cx-l">${esc(spotLabel)}</span>` : ""}<b>${esc(spot.name)}</b>${spot.cv ? `<small>CV：${esc(spot.cv)}</small>` : ""}${pickupG ? `<small>限定ガチャ「${esc(pickupG.name)}」</small>` : ""}</span></a>
+<ul class="cg cx-g">${charas
+      .filter((c) => c !== spot)
+      .map((c) => `<li><a href="/chara/${c.id}/">${pic(avatarUrl(c), "icon", c.name, { cls: "cg-img", label: c.name })}<b>${esc(c.name)}</b>${c.badge ? `<span class="badge badge-${c.badge === "限定" ? "lim" : "free"}">${esc(c.badge)}</span>` : ""}</a></li>`)
+      .join("")}</ul>
+</div>`;
     const shots = (cur?.screenshots || []).filter((u) => images.get(u, "shot"));
     const body = `${featHtml}
 ${pickup}

@@ -352,3 +352,30 @@ h1.sec-t { font-size: 20px; }
 .v-m .ctag { margin-left: 6px; }
 .fe-c b { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
 @media (max-width: 640px) { .fe-c b { -webkit-line-clamp: 2; } .fe-big .fe-c b { -webkit-line-clamp: 3; } .fe-c { padding-top: 20px; } }
+
+/* 話題の小さい画像 */
+.tp-img { flex: 0 0 84px; display: block; }
+.tp-img img { width: 84px; aspect-ratio: 1.91 / 1; object-fit: cover; display: block; }
+
+/* キャラクター：大きく 1 人＋顔アイコン */
+.cx { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 14px; align-items: start; }
+.cx-spot { position: relative; display: block; overflow: hidden; background: #f3f5fa; color: #fff; }
+.cx-spot:hover { text-decoration: none; }
+.cx-spot img, .cx-spot .noimg { width: 100%; aspect-ratio: 5 / 6; object-fit: cover; object-position: top; display: block; transition: transform .3s; }
+.cx-spot:hover img { transform: scale(1.04); }
+.cx-b { position: absolute; left: 0; right: 0; bottom: 0; padding: 30px 10px 8px; background: linear-gradient(transparent, rgba(60, 0, 40, .85)); }
+.cx-b b { display: block; font-size: 20px; }
+.cx-b small { display: block; font-size: 11px; color: #f3dbe8; }
+.cx-l { display: inline-block; font-size: 11px; font-weight: bold; padding: 0 6px; background: #e4007f; margin-bottom: 3px; }
+.cx-g { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+.cx-g .cg-img, .cx-g .noimg { width: 64px; height: 64px; }
+
+/* 公式のストアバッジ（周りに高さの 1/4 以上の余白をとる） */
+.badges { display: flex; justify-content: center; align-items: center; gap: 10px; margin: 12px 0 0; }
+.badges img { height: 40px; width: auto; display: block; }
+.badges a + a img { height: 52px; margin: -6px 0; }
+@media (max-width: 640px) {
+  .cx { grid-template-columns: minmax(0, 1fr); }
+  .cx-spot { max-width: 260px; margin: 0 auto; width: 100%; }
+  .cx-g { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
