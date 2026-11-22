@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T15:30:22.045Z",
+  "updatedAt": "2026-11-22T16:00:18.397Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "bf13aa50cbac",
-      "key": "c7980e6a5d19",
-      "firstAt": "2026-11-19T15:43:23.000Z",
+      "key": "c7bfd3733174",
+      "firstAt": "2026-11-20T08:06:40.000Z",
       "charas": [],
       "members": [
         {
@@ -28,13 +28,6 @@
           "source": "AppBank",
           "publishedAt": "2026-11-20T08:06:40.000Z",
           "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1e87c8bd6a-img003-image-long_c32c34798dec5b63be74805df5a85d68-824e11e7e8.webp"
-        },
-        {
-          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル公式SNS総フォロワー数が500万人突破！ キボ「星彩・クロディーメ」の全ユーザー配布が決定！",
-          "url": "http://www.akiba-plus.com/?p=158915",
-          "source": "秋葉原ＰＬＵＳ",
-          "publishedAt": "2026-11-19T15:43:23.000Z",
-          "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/344f9fc11037082bdd76d77254b795d4.png"
         }
       ],
       "title": "『アズールプロミリア』SNS総フォロワー500万人突破！ キボ「星彩・クロディーメ」配布が決定、11月26日リリース",
@@ -43,16 +36,16 @@
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1f1c22946a-img003-image-long_a3d25905e1b7f9b4cb30fef0e5fa4041-dc70e439c3.webp",
       "leadSource": "AppBank",
       "publishedAt": "2026-11-22T01:34:29.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
+      "sourceCount": 2,
+      "articleCount": 3,
       "categories": [
         "campaign",
         "news"
       ],
       "keywords": [
+        "リリース",
         "万人突破",
-        "配布",
-        "リリース"
+        "配布"
       ],
       "articles": [
         {
@@ -67,13 +60,6 @@
           "url": "https://www.appbank.net/2026/11/20/game/3170500.php",
           "source": "AppBank",
           "publishedAt": "2026-11-20T08:06:40.000Z",
-          "isPR": false
-        },
-        {
-          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル公式SNS総フォロワー数が500万人突破！ キボ「星彩・クロディーメ」の全ユーザー配布が決定！",
-          "url": "http://www.akiba-plus.com/?p=158915",
-          "source": "秋葉原ＰＬＵＳ",
-          "publishedAt": "2026-11-19T15:43:23.000Z",
           "isPR": false
         }
       ]
@@ -490,7 +476,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f6fe6ff63e8d",
@@ -516,7 +502,7 @@
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-11-20T06:01:33.000Z",
+      "publishedAt": "2026-11-20T05:52:50.000Z",
       "image": "",
       "scope": "series",
       "categories": [
@@ -590,41 +576,6 @@
       "categories": [
         "guide",
         "event"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "b16fbb0ca467",
-      "title": "『アズールレーン』期間限定イベント「海域邂逅支援」開催！イベント「須臾望月抄」、UR「雲仙」たちが常設実装！",
-      "url": "https://www.akiba-plus.com/?p=158919",
-      "host": "akiba-plus.com",
-      "source": "秋葉原ＰＬＵＳ",
-      "summary": "",
-      "publishedAt": "2026-11-19T15:50:54.000Z",
-      "image": "https://www.akiba-plus.com/wp-content/uploads/2026/11/zp_1.jpg",
-      "scope": "series",
-      "categories": [
-        "event",
-        "update"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "c7980e6a5d19",
-      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル公式SNS総フォロワー数が500万人突破！ キボ「星彩・クロディーメ」の全ユーザー配布が決定！",
-      "url": "http://www.akiba-plus.com/?p=158915",
-      "host": "akiba-plus.com",
-      "source": "秋葉原ＰＬＵＳ",
-      "summary": "",
-      "publishedAt": "2026-11-19T15:43:23.000Z",
-      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/344f9fc11037082bdd76d77254b795d4.png",
-      "scope": "main",
-      "categories": [
-        "campaign"
       ],
       "charas": [],
       "viaGoogle": false,
