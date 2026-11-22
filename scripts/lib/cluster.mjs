@@ -78,8 +78,14 @@ export function buildTopics(items, cfg = {}, entities = []) {
       g.members.find((m) => !m.isPR && m.summary) || g.members.find((m) => !m.isPR) || g.members[0];
     // 代表記事に画像がなくても、同じ話題の別記事が画像を持っていればそれを使う
     const image = lead.image || g.members.find((m) => m.image)?.image || "";
+    // いちばん古い記事の id は、あとから記事が増えても変わらないので、話題のページの URL に使う
+    const oldest = g.members.reduce((a, m) => (m.publishedAt < a.publishedAt ? m : a), g.members[0]);
     topics.push({
       id: lead.id,
+      key: oldest.id,
+      firstAt: oldest.publishedAt,
+      charas: [...new Set(g.members.flatMap((m) => m.charas || []))],
+      members: g.members.map((m) => ({ title: m.title, url: m.url, source: m.source, publishedAt: m.publishedAt, image: m.image || "" })),
       title: lead.title,
       summary: lead.summary || "",
       url: lead.url,

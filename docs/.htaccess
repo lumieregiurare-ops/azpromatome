@@ -4,6 +4,19 @@ ErrorDocument 404 /404.html
 # 文字コード
 AddDefaultCharset UTF-8
 
+# 同じページが別の URL で見えないようにする（検索エンジンが評価を分けてしまうため）
+#  http:// → https:// 、 /index.html → / に 301 で寄せる
+#  ロリポップは手前の中継サーバーで SSL を終えるので、X-Forwarded-Proto も見て転送のループを防ぐ
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteCond %{HTTP:X-Forwarded-Ssl} !on
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+  RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?]
+  RewriteRule ^(.*/)?index\.html$ /$1 [R=301,L]
+</IfModule>
+
 # 圧縮
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json application/xml text/xml application/rss+xml image/svg+xml

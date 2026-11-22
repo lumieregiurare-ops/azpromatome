@@ -379,3 +379,22 @@ h1.sec-t { font-size: 20px; }
   .cx-spot { max-width: 260px; margin: 0 auto; width: 100%; }
   .cx-g { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 }
+
+/* 話題のページ */
+.tpc-h { font-size: 21px; line-height: 1.45; margin: 0 0 6px; }
+.tpc-img { margin: 10px 0; }
+.tpc-img img { width: 100%; max-width: 520px; height: auto; display: block; }
+.tpc-l { list-style: none; margin: 12px 0 0; padding: 0; border-top: 1px solid var(--line); }
+.tpc-l li { padding: 8px 0; border-bottom: 1px dotted #ccc; font-size: 14.5px; }
+.tpc-l time { font-size: 12px; color: var(--muted); margin-right: 8px; }
+.tpc-l .src { font-size: 12px; font-weight: bold; }
+.tpc-l a { display: block; }
+.tls { list-style: none; margin: 0; padding: 0; }
+.tls li { border-bottom: 1px dotted #ccc; }
+.tl-a { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 10px; padding: 8px 0; color: var(--ink); }
+.tl-a:hover { text-decoration: none; }
+.tl-a:hover b { text-decoration: underline; }
+.tl-a img, .tl-a .noimg { width: 120px; aspect-ratio: 1.91 / 1; object-fit: cover; }
+.tl-a b { display: block; color: var(--link); font-size: 14.5px; line-height: 1.5; }
+.tl-a small { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; }
+@media (max-width: 640px) { .tl-a { grid-template-columns: 96px minmax(0, 1fr); } .tl-a img, .tl-a .noimg { width: 96px; } .tpc-h { font-size: 18px; } }
