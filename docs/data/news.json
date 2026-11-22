@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T07:00:19.730Z",
+  "updatedAt": "2026-11-22T07:25:57.410Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "bf13aa50cbac",
-      "key": "1a2077418326",
-      "firstAt": "2026-11-19T07:06:00.000Z",
+      "key": "a5fa9edc6ad5",
+      "firstAt": "2026-11-19T15:10:31.000Z",
       "charas": [],
       "members": [
         {
@@ -42,13 +42,6 @@
           "source": "秋葉原ＰＬＵＳ",
           "publishedAt": "2026-11-19T15:10:31.000Z",
           "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/88908d744d0bcce356a7bca2a6aee929.png"
-        },
-        {
-          "title": "「アズールプロミリア」グローバル公式SNS総フォロワー数が500万人を突破！お祝いイラストも公開",
-          "url": "https://www.gamer.ne.jp/news/202611190040/",
-          "source": "Gamer",
-          "publishedAt": "2026-11-19T07:06:00.000Z",
-          "image": ""
         }
       ],
       "title": "『アズールプロミリア』SNS総フォロワー500万人突破！ キボ「星彩・クロディーメ」配布が決定、11月26日リリース",
@@ -57,16 +50,16 @@
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1f1c22946a-img003-image-long_a3d25905e1b7f9b4cb30fef0e5fa4041-dc70e439c3.webp",
       "leadSource": "AppBank",
       "publishedAt": "2026-11-22T01:34:08.000Z",
-      "sourceCount": 4,
-      "articleCount": 6,
+      "sourceCount": 3,
+      "articleCount": 5,
       "categories": [
         "campaign",
         "news"
       ],
       "keywords": [
+        "配布",
         "万人",
-        "突破",
-        "配布"
+        "突破"
       ],
       "articles": [
         {
@@ -95,13 +88,6 @@
           "url": "http://www.akiba-plus.com/?p=158887",
           "source": "秋葉原ＰＬＵＳ",
           "publishedAt": "2026-11-19T15:10:31.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「アズールプロミリア」グローバル公式SNS総フォロワー数が500万人を突破！お祝いイラストも公開",
-          "url": "https://www.gamer.ne.jp/news/202611190040/",
-          "source": "Gamer",
-          "publishedAt": "2026-11-19T07:06:00.000Z",
           "isPR": false
         }
       ]
@@ -318,23 +304,6 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "c704104020e4",
-      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
-      "url": "http://www.akiba-plus.com/?p=159044",
-      "host": "akiba-plus.com",
-      "source": "秋葉原ＰＬＵＳ",
-      "summary": "",
-      "publishedAt": "2026-11-21T13:14:23.000Z",
-      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png",
-      "scope": "main",
-      "categories": [
-        "pv"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "9802626852d7",
@@ -686,23 +655,6 @@
       "scope": "main",
       "categories": [
         "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "1a2077418326",
-      "title": "「アズールプロミリア」グローバル公式SNS総フォロワー数が500万人を突破！お祝いイラストも公開",
-      "url": "https://www.gamer.ne.jp/news/202611190040/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-19T07:06:00.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "news"
       ],
       "charas": [],
       "viaGoogle": false,
