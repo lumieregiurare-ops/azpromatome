@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:25:57.410Z",
+  "updatedAt": "2026-11-22T08:00:17.872Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -12,7 +12,7 @@
           "title": "『アズールプロミリア』SNS総フォロワー500万人突破！ キボ「星彩・クロディーメ」配布が決定、11月26日リリース",
           "url": "https://www.appbank.net/2026/11/22/game/3173324.php",
           "source": "AppBank",
-          "publishedAt": "2026-11-22T01:34:08.000Z",
+          "publishedAt": "2026-11-22T01:34:29.000Z",
           "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1f1c22946a-img003-image-long_a3d25905e1b7f9b4cb30fef0e5fa4041-dc70e439c3.webp"
         },
         {
@@ -49,7 +49,7 @@
       "url": "https://www.appbank.net/2026/11/22/game/3173324.php",
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1f1c22946a-img003-image-long_a3d25905e1b7f9b4cb30fef0e5fa4041-dc70e439c3.webp",
       "leadSource": "AppBank",
-      "publishedAt": "2026-11-22T01:34:08.000Z",
+      "publishedAt": "2026-11-22T01:34:29.000Z",
       "sourceCount": 3,
       "articleCount": 5,
       "categories": [
@@ -261,7 +261,7 @@
       "host": "appbank.net",
       "source": "AppBank",
       "summary": "",
-      "publishedAt": "2026-11-22T01:34:08.000Z",
+      "publishedAt": "2026-11-22T01:34:29.000Z",
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1f1c22946a-img003-image-long_a3d25905e1b7f9b4cb30fef0e5fa4041-dc70e439c3.webp",
       "scope": "main",
       "categories": [
@@ -304,6 +304,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "c704104020e4",
+      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
+      "url": "http://www.akiba-plus.com/?p=159044",
+      "host": "akiba-plus.com",
+      "source": "秋葉原ＰＬＵＳ",
+      "summary": "",
+      "publishedAt": "2026-11-21T13:14:23.000Z",
+      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png",
+      "scope": "main",
+      "categories": [
+        "pv"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "9802626852d7",
