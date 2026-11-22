@@ -1,9 +1,56 @@
 {
-  "updatedAt": "2026-11-22T03:00:22.405Z",
+  "updatedAt": "2026-11-22T03:30:29.501Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "bf13aa50cbac",
+      "key": "1a2077418326",
+      "firstAt": "2026-11-19T07:06:00.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "『アズールプロミリア』SNS総フォロワー500万人突破！ キボ「星彩・クロディーメ」配布が決定、11月26日リリース",
+          "url": "https://www.appbank.net/2026/11/22/game/3173324.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-22T01:34:08.000Z",
+          "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1f1c22946a-img003-image-long_a3d25905e1b7f9b4cb30fef0e5fa4041-dc70e439c3.webp"
+        },
+        {
+          "title": "星臨者を待つ、アズールプロミリア26日リリース",
+          "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
+          "source": "게임메카",
+          "publishedAt": "2026-11-20T12:50:40.000Z",
+          "image": "https://cdn.gamemeca.com/gmdata/0001/783/937/gm644262_az.webp"
+        },
+        {
+          "title": "『アズールプロミリア』グローバル事前登録者数が3,000万人突破！ 全報酬の配布が決定",
+          "url": "https://www.appbank.net/2026/11/20/game/3170500.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-20T08:06:40.000Z",
+          "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1e87c8bd6a-img003-image-long_c32c34798dec5b63be74805df5a85d68-824e11e7e8.webp"
+        },
+        {
+          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル公式SNS総フォロワー数が500万人突破！ キボ「星彩・クロディーメ」の全ユーザー配布が決定！",
+          "url": "http://www.akiba-plus.com/?p=158915",
+          "source": "秋葉原ＰＬＵＳ",
+          "publishedAt": "2026-11-19T15:43:23.000Z",
+          "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/344f9fc11037082bdd76d77254b795d4.png"
+        },
+        {
+          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル事前登録者数が3,000万人を突破！事前登録達成報酬の全条件を達成、豪華報酬を全ユーザー配布決定！",
+          "url": "http://www.akiba-plus.com/?p=158887",
+          "source": "秋葉原ＰＬＵＳ",
+          "publishedAt": "2026-11-19T15:10:31.000Z",
+          "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/88908d744d0bcce356a7bca2a6aee929.png"
+        },
+        {
+          "title": "「アズールプロミリア」グローバル公式SNS総フォロワー数が500万人を突破！お祝いイラストも公開",
+          "url": "https://www.gamer.ne.jp/news/202611190040/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-19T07:06:00.000Z",
+          "image": ""
+        }
+      ],
       "title": "『アズールプロミリア』SNS総フォロワー500万人突破！ キボ「星彩・クロディーメ」配布が決定、11月26日リリース",
       "summary": "",
       "url": "https://www.appbank.net/2026/11/22/game/3173324.php",
@@ -61,6 +108,35 @@
     },
     {
       "id": "1c086b33b9b2",
+      "key": "e408f2185d81",
+      "firstAt": "2026-11-20T12:18:00.000Z",
+      "charas": [
+        "minamoto-chiyo",
+        "tushan-xiaoyu"
+      ],
+      "members": [
+        {
+          "title": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
+          "url": "https://www.4gamer.net/games/784/G078489/20261120023/",
+          "source": "4Gamer.net",
+          "publishedAt": "2026-11-20T13:35:27.000Z",
+          "image": "https://www.4gamer.net/games/784/G078489/20261120023/SS/010.jpg"
+        },
+        {
+          "title": "「アズールプロミリア」に黒髪×制服の限定キャラ「源千代」が登場へ 「塗山小玉」と一緒に実装！",
+          "url": "https://game.watch.impress.co.jp/docs/news/2158394.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-11-20T12:30:28.000Z",
+          "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/394/1.jpg"
+        },
+        {
+          "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！（GAME Watch）",
+          "url": "https://news.yahoo.co.jp/articles/eb7196d9e23917c656ee249e4371dd547edd6a29",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-20T12:18:00.000Z",
+          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-00000026-impgmw-000-2-view.jpg?exp=10800"
+        }
+      ],
       "title": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
       "summary": "",
       "url": "https://www.4gamer.net/games/784/G078489/20261120023/",
@@ -97,6 +173,25 @@
     },
     {
       "id": "9802626852d7",
+      "key": "9802626852d7",
+      "firstAt": "2026-11-20T13:36:05.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 29/57",
+          "url": "https://news.livedoor.com/article/image_detail/32865732/?img_id=57719910",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-20T13:36:05.000Z",
+          "image": "https://image.news.livedoor.com/newsimage/stf/7/0/7061e_1838_25b81e6d070e43bf2e6ab35b0cffeea2.jpg"
+        },
+        {
+          "title": "「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめ",
+          "url": "https://game.watch.impress.co.jp/docs/news/2158396.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-11-20T13:36:05.000Z",
+          "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/396/1.jpg"
+        }
+      ],
       "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 29/57",
       "summary": "",
       "url": "https://news.livedoor.com/article/image_detail/32865732/?img_id=57719910",
@@ -126,6 +221,25 @@
     },
     {
       "id": "15b853b21b69",
+      "key": "e5ae0442cdc9",
+      "firstAt": "2026-11-20T04:18:00.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "Yostarがコミックマーケット109に出展決定！『ステラソラ』『アズールレーン』『アズールレーン』『アズールプロミリア』『雀魂』の新規描き下ろしイラストグッズが登場！",
+          "url": "https://hobby.dengeki.com/news/3240586/",
+          "source": "電撃ホビーウェブ",
+          "publishedAt": "2026-11-20T13:30:00.000Z",
+          "image": "https://hobby.dengeki.com/ss/hobby/2026/11/twi_01_uSzNKwGNHX0hfx2dwbDEbla3oVEx0cLd_o9vhjyxDJRBuJRnM8O9BQPZSXipR7YC1.jpg"
+        },
+        {
+          "title": "Yostarがコミケ109にブース出展！「ステラソラ」「アズレン」「ブルアカ」「アズプロ」「雀魂」の新規描き下ろしグッズを販売",
+          "url": "https://www.gamer.ne.jp/news/202611200019/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-20T04:18:00.000Z",
+          "image": ""
+        }
+      ],
       "title": "Yostarがコミックマーケット109に出展決定！『ステラソラ』『アズールレーン』『アズールレーン』『アズールプロミリア』『雀魂』の新規描き下ろしイラストグッズが登場！",
       "summary": "",
       "url": "https://hobby.dengeki.com/news/3240586/",
