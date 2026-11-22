@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:30:19.409Z",
+  "updatedAt": "2026-11-22T12:00:21.051Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -94,8 +94,8 @@
     },
     {
       "id": "1c086b33b9b2",
-      "key": "e408f2185d81",
-      "firstAt": "2026-11-20T12:18:00.000Z",
+      "key": "26b8ab14b8e9",
+      "firstAt": "2026-11-20T12:18:28.000Z",
       "charas": [
         "minamoto-chiyo",
         "tushan-xiaoyu"
@@ -116,11 +116,11 @@
           "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/394/1.jpg"
         },
         {
-          "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！（GAME Watch）",
-          "url": "https://news.yahoo.co.jp/articles/eb7196d9e23917c656ee249e4371dd547edd6a29",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-20T12:18:00.000Z",
-          "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-00000026-impgmw-000-2-view.jpg?exp=10800"
+          "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！ サービス開始後初の限定ガチャでピックアップ",
+          "url": "https://game.watch.impress.co.jp/docs/news/2158390.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-11-20T12:18:28.000Z",
+          "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/390/1.jpg"
         }
       ],
       "title": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
@@ -129,7 +129,7 @@
       "image": "https://www.4gamer.net/games/784/G078489/20261120023/SS/010.jpg",
       "leadSource": "4Gamer.net",
       "publishedAt": "2026-11-20T13:35:27.000Z",
-      "sourceCount": 3,
+      "sourceCount": 2,
       "articleCount": 3,
       "categories": [
         "gacha",
@@ -137,8 +137,8 @@
       ],
       "keywords": [
         "塗山小玉",
-        "キャラ",
-        "源千代"
+        "限定",
+        "キャラ"
       ],
       "articles": [
         {
@@ -149,10 +149,10 @@
           "isPR": false
         },
         {
-          "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！（GAME Watch）",
-          "url": "https://news.yahoo.co.jp/articles/eb7196d9e23917c656ee249e4371dd547edd6a29",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-20T12:18:00.000Z",
+          "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！ サービス開始後初の限定ガチャでピックアップ",
+          "url": "https://game.watch.impress.co.jp/docs/news/2158390.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-11-20T12:18:28.000Z",
           "isPR": false
         }
       ]
@@ -452,23 +452,24 @@
       "isNew": false
     },
     {
-      "id": "e408f2185d81",
-      "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！（GAME Watch）",
-      "url": "https://news.yahoo.co.jp/articles/eb7196d9e23917c656ee249e4371dd547edd6a29",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "26b8ab14b8e9",
+      "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！ サービス開始後初の限定ガチャでピックアップ",
+      "url": "https://game.watch.impress.co.jp/docs/news/2158390.html",
+      "host": "game.watch.impress.co.jp",
+      "source": "GAME Watch",
       "summary": "",
-      "publishedAt": "2026-11-20T12:18:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-00000026-impgmw-000-2-view.jpg?exp=10800",
+      "publishedAt": "2026-11-20T12:18:28.000Z",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/390/1.jpg",
       "scope": "main",
       "categories": [
-        "update"
+        "release",
+        "gacha"
       ],
       "charas": [
         "tushan-xiaoyu"
       ],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "c7bfd3733174",
