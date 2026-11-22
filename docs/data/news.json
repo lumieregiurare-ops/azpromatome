@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T15:00:23.228Z",
+  "updatedAt": "2026-11-22T15:30:22.045Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "bf13aa50cbac",
-      "key": "a5fa9edc6ad5",
-      "firstAt": "2026-11-19T15:10:31.000Z",
+      "key": "c7980e6a5d19",
+      "firstAt": "2026-11-19T15:43:23.000Z",
       "charas": [],
       "members": [
         {
@@ -35,13 +35,6 @@
           "source": "秋葉原ＰＬＵＳ",
           "publishedAt": "2026-11-19T15:43:23.000Z",
           "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/344f9fc11037082bdd76d77254b795d4.png"
-        },
-        {
-          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル事前登録者数が3,000万人を突破！事前登録達成報酬の全条件を達成、豪華報酬を全ユーザー配布決定！",
-          "url": "http://www.akiba-plus.com/?p=158887",
-          "source": "秋葉原ＰＬＵＳ",
-          "publishedAt": "2026-11-19T15:10:31.000Z",
-          "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/88908d744d0bcce356a7bca2a6aee929.png"
         }
       ],
       "title": "『アズールプロミリア』SNS総フォロワー500万人突破！ キボ「星彩・クロディーメ」配布が決定、11月26日リリース",
@@ -51,15 +44,15 @@
       "leadSource": "AppBank",
       "publishedAt": "2026-11-22T01:34:29.000Z",
       "sourceCount": 3,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "campaign",
         "news"
       ],
       "keywords": [
+        "万人突破",
         "配布",
-        "万人",
-        "突破"
+        "リリース"
       ],
       "articles": [
         {
@@ -81,13 +74,6 @@
           "url": "http://www.akiba-plus.com/?p=158915",
           "source": "秋葉原ＰＬＵＳ",
           "publishedAt": "2026-11-19T15:43:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル事前登録者数が3,000万人を突破！事前登録達成報酬の全条件を達成、豪華報酬を全ユーザー配布決定！",
-          "url": "http://www.akiba-plus.com/?p=158887",
-          "source": "秋葉原ＰＬＵＳ",
-          "publishedAt": "2026-11-19T15:10:31.000Z",
           "isPR": false
         }
       ]
@@ -489,6 +475,24 @@
       "isNew": false
     },
     {
+      "id": "2854773af8e5",
+      "title": "【アズールプロミリア】配信日と事前登録情報｜最新情報｜アズプロ",
+      "url": "https://appmedia.jp/newgame/77704138",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/12/114039_zko28.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "f6fe6ff63e8d",
       "title": "『アズールレーン』より仲睦まじく手をつないだ姿の「ポーラ」と「ザラ」が1/7スケールフィギュアで登場！ (HOBBY Watch)",
       "url": "https://hobby.watch.impress.co.jp/docs/news/2158197.html",
@@ -618,23 +622,6 @@
       "summary": "",
       "publishedAt": "2026-11-19T15:43:23.000Z",
       "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/344f9fc11037082bdd76d77254b795d4.png",
-      "scope": "main",
-      "categories": [
-        "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a5fa9edc6ad5",
-      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』グローバル事前登録者数が3,000万人を突破！事前登録達成報酬の全条件を達成、豪華報酬を全ユーザー配布決定！",
-      "url": "http://www.akiba-plus.com/?p=158887",
-      "host": "akiba-plus.com",
-      "source": "秋葉原ＰＬＵＳ",
-      "summary": "",
-      "publishedAt": "2026-11-19T15:10:31.000Z",
-      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/88908d744d0bcce356a7bca2a6aee929.png",
       "scope": "main",
       "categories": [
         "campaign"
