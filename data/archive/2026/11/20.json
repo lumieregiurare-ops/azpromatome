@@ -1,21 +1,5 @@
 [
  {
-  "id": "25682fc69768",
-  "title": "「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめ",
-  "url": "https://game.watch.impress.co.jp/docs/news/2158396.html",
-  "host": "game.watch.impress.co.jp",
-  "source": "GAME Watch",
-  "summary": "",
-  "publishedAt": "2026-11-20T13:36:05.000Z",
-  "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/396/1.jpg",
-  "scope": "main",
-  "categories": [
-   "gacha",
-   "event"
-  ],
-  "charas": []
- },
- {
   "id": "9802626852d7",
   "title": "【画像】「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめコミケのグッズ販売や秋葉原でのリリース記念イベント開催も予告 29/57",
   "url": "https://news.livedoor.com/article/image_detail/32865732/?img_id=57719910",
@@ -28,6 +12,22 @@
   "categories": [
    "gacha",
    "campaign"
+  ],
+  "charas": []
+ },
+ {
+  "id": "25682fc69768",
+  "title": "「アズールプロミリア」のガチャやグッズ情報など「リリース直前スペシャル」発表まとめ (GAME Watch)",
+  "url": "https://game.watch.impress.co.jp/docs/news/2158396.html",
+  "host": "game.watch.impress.co.jp",
+  "source": "GAME Watch",
+  "summary": "",
+  "publishedAt": "2026-11-20T13:36:00.000Z",
+  "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/396/1.jpg",
+  "scope": "main",
+  "categories": [
+   "gacha",
+   "event"
   ],
   "charas": []
  },
