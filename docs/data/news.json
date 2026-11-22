@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:00:20.253Z",
+  "updatedAt": "2026-11-22T11:30:19.409Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -637,41 +637,6 @@
       "scope": "main",
       "categories": [
         "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "7d23c79b8639",
-      "title": "「アズレン」イベント「海域邂逅支援」が開催！ナポリ、パンルヴェ、ニューオリンズの新規衣装も追加",
-      "url": "https://www.gamer.ne.jp/news/202611190066/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-19T11:19:00.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "event",
-        "update"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "cd3a241776ea",
-      "title": "『アズールプロミリア』のゲーム概要や公式発表の情報まとめ！Manjuu Gamesが新たに手掛ける星霊同伴ファンタジーワールドRPG！",
-      "url": "https://gamewith.jp/gamedb/10871/articles/33110",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-19T11:04:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/33110.png?t=1795086258",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
