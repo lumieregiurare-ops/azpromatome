@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:00:22.968Z",
+  "updatedAt": "2026-11-23T06:30:17.823Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -520,23 +520,6 @@
       "summary": "",
       "publishedAt": "2026-11-20T07:09:00.000Z",
       "image": "https://hobby.watch.impress.co.jp/img/hbw/list/2158/197/031.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a85def44e30a",
-      "title": "Azur Lane × Don Quijote: \"Knitwear\" Merchandise Goes on Sale Starting December 5! – Collabo Cafe",
-      "url": "https://collabo-cafe.com/en/events/collabo/azurlane-goods-donki-knit-2026/?amp=1",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-11-20T06:01:33.000Z",
-      "image": "",
       "scope": "series",
       "categories": [
         "news"
