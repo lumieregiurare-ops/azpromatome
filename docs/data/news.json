@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-23T00:30:19.432Z",
+  "updatedAt": "2026-11-23T01:00:19.525Z",
   "updateGapMin": 30,
   "topics": [
     {
-      "id": "3d488f0a3c76",
+      "id": "52814be11744",
       "key": "4e64190ed437",
       "firstAt": "2026-11-20T12:50:40.000Z",
       "charas": [],
       "members": [
+        {
+          "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
+          "url": "https://www.appbank.net/2026/11/23/game/3174664.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-23T00:51:12.000Z",
+          "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1fb686781c-img001-image-long_134391f4acc37bd477cb8955a4d372bf-f7cf91f29b.webp"
+        },
         {
           "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
           "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
@@ -30,14 +37,14 @@
           "image": "https://cdn.gamemeca.com/gmdata/0001/783/937/gm644262_az.webp"
         }
       ],
-      "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
+      "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
       "summary": "",
-      "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
-      "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png",
-      "leadSource": "Excite エキサイト",
-      "publishedAt": "2026-11-22T23:13:16.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "url": "https://www.appbank.net/2026/11/23/game/3174664.php",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1fb686781c-img001-image-long_134391f4acc37bd477cb8955a4d372bf-f7cf91f29b.webp",
+      "leadSource": "AppBank",
+      "publishedAt": "2026-11-23T00:51:12.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "pv",
         "news"
@@ -48,6 +55,13 @@
         "starry"
       ],
       "articles": [
+        {
+          "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
+          "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-11-22T23:13:16.000Z",
+          "isPR": false
+        },
         {
           "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
           "url": "http://www.akiba-plus.com/?p=159044",
@@ -226,6 +240,23 @@
     }
   ],
   "items": [
+    {
+      "id": "52814be11744",
+      "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
+      "url": "https://www.appbank.net/2026/11/23/game/3174664.php",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:51:12.000Z",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1fb686781c-img001-image-long_134391f4acc37bd477cb8955a4d372bf-f7cf91f29b.webp",
+      "scope": "main",
+      "categories": [
+        "pv"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "3d488f0a3c76",
       "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
