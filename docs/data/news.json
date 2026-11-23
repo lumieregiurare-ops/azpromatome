@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:00:18.871Z",
+  "updatedAt": "2026-11-23T02:30:21.583Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -606,24 +606,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "dab19c87f1e6",
-      "title": "『アズールレーン』期間限定イベント「海域邂逅支援」を開催！UR「雲仙」も通常建造に追加",
-      "url": "https://gamewith.jp/gamedb/2353/articles/66065",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T02:27:21.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/2353/rectangle/66065.jpg?t=1795158314",
-      "scope": "series",
-      "categories": [
-        "guide",
-        "event"
       ],
       "charas": [],
       "viaGoogle": false,
