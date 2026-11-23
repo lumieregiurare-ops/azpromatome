@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:30:23.166Z",
+  "updatedAt": "2026-11-23T13:00:22.494Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -79,51 +79,6 @@
       ]
     },
     {
-      "id": "b99232b68da3",
-      "key": "4e64190ed437",
-      "firstAt": "2026-11-20T12:50:40.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "Azur Promilia、26日のリリースに向け「Star's Leap」のローンチコンテンツを公開",
-          "url": "https://www.mgoddess.com/news/news-cdb397e2b2/?lang=ja",
-          "source": "Mobile Goddess",
-          "publishedAt": "2026-11-23T06:59:43.000Z",
-          "image": "https://static.inven.co.kr/column/2026/11/23/news/thumb/s1702711751.png"
-        },
-        {
-          "title": "星臨者を待つ、アズールプロミリア26日リリース",
-          "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
-          "source": "게임메카",
-          "publishedAt": "2026-11-20T12:50:40.000Z",
-          "image": "https://cdn.gamemeca.com/gmdata/0001/783/937/gm644262_az.webp"
-        }
-      ],
-      "title": "Azur Promilia、26日のリリースに向け「Star's Leap」のローンチコンテンツを公開",
-      "summary": "",
-      "url": "https://www.mgoddess.com/news/news-cdb397e2b2/?lang=ja",
-      "image": "https://static.inven.co.kr/column/2026/11/23/news/thumb/s1702711751.png",
-      "leadSource": "Mobile Goddess",
-      "publishedAt": "2026-11-23T06:59:43.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "news"
-      ],
-      "keywords": [
-        "リリース"
-      ],
-      "articles": [
-        {
-          "title": "星臨者を待つ、アズールプロミリア26日リリース",
-          "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
-          "source": "게임메카",
-          "publishedAt": "2026-11-20T12:50:40.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "9802626852d7",
       "key": "9802626852d7",
       "firstAt": "2026-11-20T13:36:05.000Z",
@@ -167,57 +122,6 @@
           "url": "https://game.watch.impress.co.jp/docs/news/2158396.html",
           "source": "GAME Watch",
           "publishedAt": "2026-11-20T13:36:05.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1c086b33b9b2",
-      "key": "5a1ed19c1af7",
-      "firstAt": "2026-11-20T12:30:28.000Z",
-      "charas": [
-        "minamoto-chiyo",
-        "tushan-xiaoyu"
-      ],
-      "members": [
-        {
-          "title": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
-          "url": "https://www.4gamer.net/games/784/G078489/20261120023/",
-          "source": "4Gamer.net",
-          "publishedAt": "2026-11-20T13:35:27.000Z",
-          "image": "https://www.4gamer.net/games/784/G078489/20261120023/SS/010.jpg"
-        },
-        {
-          "title": "「アズールプロミリア」に黒髪×制服の限定キャラ「源千代」が登場へ 「塗山小玉」と一緒に実装！",
-          "url": "https://game.watch.impress.co.jp/docs/news/2158394.html",
-          "source": "GAME Watch",
-          "publishedAt": "2026-11-20T12:30:28.000Z",
-          "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/394/1.jpg"
-        }
-      ],
-      "title": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
-      "summary": "",
-      "url": "https://www.4gamer.net/games/784/G078489/20261120023/",
-      "image": "https://www.4gamer.net/games/784/G078489/20261120023/SS/010.jpg",
-      "leadSource": "4Gamer.net",
-      "publishedAt": "2026-11-20T13:35:27.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "gacha",
-        "campaign"
-      ],
-      "keywords": [
-        "塗山小玉",
-        "源千代",
-        "限定"
-      ],
-      "articles": [
-        {
-          "title": "「アズールプロミリア」に黒髪×制服の限定キャラ「源千代」が登場へ 「塗山小玉」と一緒に実装！",
-          "url": "https://game.watch.impress.co.jp/docs/news/2158394.html",
-          "source": "GAME Watch",
-          "publishedAt": "2026-11-20T12:30:28.000Z",
           "isPR": false
         }
       ]
@@ -466,64 +370,6 @@
         "news"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "4e64190ed437",
-      "title": "星臨者を待つ、アズールプロミリア26日リリース",
-      "url": "https://www.gamemeca.com/ja/mv.php?gid=1783937",
-      "host": "gamemeca.com",
-      "source": "게임메카",
-      "summary": "",
-      "publishedAt": "2026-11-20T12:50:40.000Z",
-      "image": "https://cdn.gamemeca.com/gmdata/0001/783/937/gm644262_az.webp",
-      "scope": "main",
-      "categories": [
-        "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "26b8ab14b8e9",
-      "title": "「アズールプロミリア」ケモミミの新キャラ「塗山小玉」発表！サービス開始後初の限定ガチャでピックアップ",
-      "url": "https://game.watch.impress.co.jp/docs/news/2158390.html",
-      "host": "game.watch.impress.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-11-20T12:33:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/390/1.jpg",
-      "scope": "main",
-      "categories": [
-        "release",
-        "gacha"
-      ],
-      "charas": [
-        "tushan-xiaoyu"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "5a1ed19c1af7",
-      "title": "「アズールプロミリア」に黒髪×制服の限定キャラ「源千代」が登場へ 「塗山小玉」と一緒に実装！",
-      "url": "https://game.watch.impress.co.jp/docs/news/2158394.html",
-      "host": "game.watch.impress.co.jp",
-      "source": "GAME Watch",
-      "summary": "",
-      "publishedAt": "2026-11-20T12:30:28.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/394/1.jpg",
-      "scope": "main",
-      "categories": [
-        "gacha",
-        "update"
-      ],
-      "charas": [
-        "minamoto-chiyo",
-        "tushan-xiaoyu"
-      ],
       "viaGoogle": false,
       "isNew": false
     }
