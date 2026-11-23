@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-23T04:00:18.653Z",
+  "updatedAt": "2026-11-23T04:30:24.143Z",
   "updateGapMin": 30,
   "topics": [
     {
-      "id": "52814be11744",
+      "id": "c44f15b2d776",
       "key": "4e64190ed437",
       "firstAt": "2026-11-20T12:50:40.000Z",
       "charas": [],
       "members": [
+        {
+          "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
+          "url": "https://gamewith.jp/gamedb/10871/articles/66143",
+          "source": "GameWith",
+          "publishedAt": "2026-11-23T04:13:05.000Z",
+          "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/66143.png?t=1795407236"
+        },
         {
           "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
           "url": "https://www.appbank.net/2026/11/23/game/3174664.php",
@@ -37,17 +44,17 @@
           "image": "https://cdn.gamemeca.com/gmdata/0001/783/937/gm644262_az.webp"
         }
       ],
-      "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
+      "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
       "summary": "",
-      "url": "https://www.appbank.net/2026/11/23/game/3174664.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a1fb686781c-img001-image-long_134391f4acc37bd477cb8955a4d372bf-f7cf91f29b.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-11-23T00:51:12.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "url": "https://gamewith.jp/gamedb/10871/articles/66143",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/66143.png?t=1795407236",
+      "leadSource": "GameWith",
+      "publishedAt": "2026-11-23T04:13:05.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
-        "pv",
-        "news"
+        "guide",
+        "campaign"
       ],
       "keywords": [
         "リリース",
@@ -55,6 +62,13 @@
         "starry"
       ],
       "articles": [
+        {
+          "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
+          "url": "https://www.appbank.net/2026/11/23/game/3174664.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-23T00:51:12.000Z",
+          "isPR": false
+        },
         {
           "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
           "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
@@ -190,56 +204,27 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "15b853b21b69",
-      "key": "e5ae0442cdc9",
-      "firstAt": "2026-11-20T04:18:00.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "Yostarがコミックマーケット109に出展決定！『ステラソラ』『アズールレーン』『アズールレーン』『アズールプロミリア』『雀魂』の新規描き下ろしイラストグッズが登場！",
-          "url": "https://hobby.dengeki.com/news/3240586/",
-          "source": "電撃ホビーウェブ",
-          "publishedAt": "2026-11-20T13:30:00.000Z",
-          "image": "https://hobby.dengeki.com/ss/hobby/2026/11/twi_01_uSzNKwGNHX0hfx2dwbDEbla3oVEx0cLd_o9vhjyxDJRBuJRnM8O9BQPZSXipR7YC1.jpg"
-        },
-        {
-          "title": "Yostarがコミケ109にブース出展！「ステラソラ」「アズレン」「ブルアカ」「アズプロ」「雀魂」の新規描き下ろしグッズを販売",
-          "url": "https://www.gamer.ne.jp/news/202611200019/",
-          "source": "Gamer",
-          "publishedAt": "2026-11-20T04:18:00.000Z",
-          "image": ""
-        }
-      ],
-      "title": "Yostarがコミックマーケット109に出展決定！『ステラソラ』『アズールレーン』『アズールレーン』『アズールプロミリア』『雀魂』の新規描き下ろしイラストグッズが登場！",
-      "summary": "",
-      "url": "https://hobby.dengeki.com/news/3240586/",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/twi_01_uSzNKwGNHX0hfx2dwbDEbla3oVEx0cLd_o9vhjyxDJRBuJRnM8O9BQPZSXipR7YC1.jpg",
-      "leadSource": "電撃ホビーウェブ",
-      "publishedAt": "2026-11-20T13:30:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "event"
-      ],
-      "keywords": [
-        "yostar",
-        "ステラソラ",
-        "雀魂"
-      ],
-      "articles": [
-        {
-          "title": "Yostarがコミケ109にブース出展！「ステラソラ」「アズレン」「ブルアカ」「アズプロ」「雀魂」の新規描き下ろしグッズを販売",
-          "url": "https://www.gamer.ne.jp/news/202611200019/",
-          "source": "Gamer",
-          "publishedAt": "2026-11-20T04:18:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "items": [
+    {
+      "id": "c44f15b2d776",
+      "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
+      "url": "https://gamewith.jp/gamedb/10871/articles/66143",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-23T04:13:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/66143.png?t=1795407236",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "campaign"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "52814be11744",
       "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
@@ -545,7 +530,7 @@
     },
     {
       "id": "a85def44e30a",
-      "title": "Azur Lane × Don Quijote: \"Knitwear\" Merchandise Goes on Sale Starting December 5! – Collabo Cafe",
+      "title": "Azur Lane × Don Quijote: \"Knitwear\" Merchandise Goes on Sale Starting December 5!",
       "url": "https://collabo-cafe.com/en/events/collabo/azurlane-goods-donki-knit-2026/?amp=1",
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
@@ -570,23 +555,6 @@
       "publishedAt": "2026-11-20T05:51:25.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/azurlane-goods-donki-knit-2026-featured.jpg",
       "scope": "series",
-      "categories": [
-        "event"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "e5ae0442cdc9",
-      "title": "Yostarがコミケ109にブース出展！「ステラソラ」「アズレン」「ブルアカ」「アズプロ」「雀魂」の新規描き下ろしグッズを販売",
-      "url": "https://www.gamer.ne.jp/news/202611200019/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-11-20T04:18:00.000Z",
-      "image": "",
-      "scope": "main",
       "categories": [
         "event"
       ],
