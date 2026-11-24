@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:30:23.872Z",
+  "updatedAt": "2026-11-24T11:00:21.793Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -167,23 +167,6 @@
       "publishedAt": "2026-11-23T06:59:43.000Z",
       "image": "https://static.inven.co.kr/column/2026/11/23/news/thumb/s1702711751.png",
       "scope": "main",
-      "categories": [
-        "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "41b3cacfbf96",
-      "title": "GSAS『アズールレーン』ハウデン・リーウ／軽装Ver. 1/7スケールフィギュアが登場！神秘的なマントは着脱可能",
-      "url": "https://www.toy-people.com/jp/?p=116802",
-      "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
-      "summary": "",
-      "publishedAt": "2026-11-23T06:47:00.000Z",
-      "image": "",
-      "scope": "series",
       "categories": [
         "news"
       ],
