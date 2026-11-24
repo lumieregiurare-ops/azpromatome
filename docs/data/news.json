@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:30:38.603Z",
+  "updatedAt": "2026-11-24T12:00:24.072Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -137,6 +137,23 @@
       ],
       "charas": [],
       "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "725d73184a0d",
+      "title": "GSAS『アズールレーン』ニュージャージー 月下のレッツ・ダンス! Ver. 1/7スケールフィギュアが登場！中華風ドレスで情熱的に舞う姿を再現",
+      "url": "https://www.toy-people.com/jp/?p=116935",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-24T10:53:20.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
       "isNew": true
     },
     {
@@ -206,7 +223,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c44f15b2d776",
