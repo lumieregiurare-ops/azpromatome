@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T13:00:25.646Z",
+  "updatedAt": "2026-11-24T13:30:22.050Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "d0dc5f482fe8",
-      "key": "c704104020e4",
-      "firstAt": "2026-11-21T13:14:23.000Z",
+      "key": "7078cc47bc60",
+      "firstAt": "2026-11-22T23:00:54.000Z",
       "charas": [],
       "members": [
         {
@@ -49,13 +49,6 @@
           "source": "ライブドアニュース",
           "publishedAt": "2026-11-22T23:00:54.000Z",
           "image": "https://image.news.livedoor.com/newsimage/stf/2/e/2e6f9_1516_8f2fdb99_32c29bda.png"
-        },
-        {
-          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
-          "url": "http://www.akiba-plus.com/?p=159044",
-          "source": "秋葉原ＰＬＵＳ",
-          "publishedAt": "2026-11-21T13:14:23.000Z",
-          "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png"
         }
       ],
       "title": "『アズールプロミリア』新PV公開！ 水樹奈々の新曲も同日配信",
@@ -64,8 +57,8 @@
       "image": "https://cimg.kgl-systems.io/camion/files/94883/ogp_YiNF.jpg?x=1280",
       "leadSource": "電撃オンライン",
       "publishedAt": "2026-11-24T05:23:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 7,
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
         "pv",
         "guide"
@@ -109,13 +102,6 @@
           "url": "https://news.livedoor.com/article/image_detail/32878471/?img_id=57747407",
           "source": "ライブドアニュース",
           "publishedAt": "2026-11-22T23:00:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
-          "url": "http://www.akiba-plus.com/?p=159044",
-          "source": "秋葉原ＰＬＵＳ",
-          "publishedAt": "2026-11-21T13:14:23.000Z",
           "isPR": false
         }
       ]
@@ -340,23 +326,6 @@
       "scope": "main",
       "categories": [
         "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "c704104020e4",
-      "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日（木）より楽曲配信も決定！",
-      "url": "http://www.akiba-plus.com/?p=159044",
-      "host": "akiba-plus.com",
-      "source": "秋葉原ＰＬＵＳ",
-      "summary": "",
-      "publishedAt": "2026-11-21T13:14:23.000Z",
-      "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png",
-      "scope": "main",
-      "categories": [
-        "pv"
       ],
       "charas": [],
       "viaGoogle": false,
