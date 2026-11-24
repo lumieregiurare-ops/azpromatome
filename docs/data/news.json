@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:30:21.427Z",
+  "updatedAt": "2026-11-24T04:00:22.031Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -296,6 +296,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "0922bc84c40b",
+      "title": "まん丸バスト＆乳ほくろに釘付け！『アズレン』『NIKKE』『天使騒々』『塊魂』などのフィギュアが秋葉原で展示！",
+      "url": "https://hobby.dengeki.com/news/3241198/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "",
+      "publishedAt": "2026-11-21T08:00:00.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/aah9r8e4-2_d273kIzVGlrI0noC0SUBVtLZTsbDc4aK_p4tbqakLFNMKsGbNp3lHk4FKvfcCmpU6.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }
