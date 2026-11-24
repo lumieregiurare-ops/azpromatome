@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-11-24T02:30:20.087Z",
+  "updatedAt": "2026-11-24T03:00:24.233Z",
   "updateGapMin": 30,
   "topics": [
     {
-      "id": "c44f15b2d776",
+      "id": "022528e7a0f9",
       "key": "c704104020e4",
       "firstAt": "2026-11-21T13:14:23.000Z",
       "charas": [],
       "members": [
+        {
+          "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
+          "url": "https://appmedia.jp/news/80589631",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-24T02:50:58.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/112748_xygle.webp"
+        },
         {
           "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
           "url": "https://gamewith.jp/gamedb/10871/articles/66143",
@@ -44,24 +51,31 @@
           "image": "http://www.akiba-plus.com/wp-content/uploads/2026/11/f2621ed5d563a7cffde99a11701ac6e6.png"
         }
       ],
-      "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
+      "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
       "summary": "",
-      "url": "https://gamewith.jp/gamedb/10871/articles/66143",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/66143.png?t=1795407236",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-23T04:13:05.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "url": "https://appmedia.jp/news/80589631",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/112748_xygle.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-24T02:50:58.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
         "guide",
-        "campaign"
+        "pv"
       ],
       "keywords": [
-        "リリース",
         "PV",
-        "starry"
+        "starry",
+        "garden"
       ],
       "articles": [
+        {
+          "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
+          "url": "https://gamewith.jp/gamedb/10871/articles/66143",
+          "source": "GameWith",
+          "publishedAt": "2026-11-23T04:13:05.000Z",
+          "isPR": false
+        },
         {
           "title": "『アズールプロミリア』水樹奈々さん歌う「Starry Garden」のアニメPV公開！ 11月26日リリース",
           "url": "https://www.appbank.net/2026/11/23/game/3174664.php",
@@ -94,6 +108,24 @@
     }
   ],
   "items": [
+    {
+      "id": "022528e7a0f9",
+      "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
+      "url": "https://appmedia.jp/news/80589631",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T02:50:58.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/112748_xygle.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "pv"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "b99232b68da3",
       "title": "Azur Promilia、26日のリリースに向け「Star's Leap」のローンチコンテンツを公開",
@@ -264,6 +296,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "0922bc84c40b",
+      "title": "まん丸バスト＆乳ほくろに釘付け！『アズレン』『NIKKE』『天使騒々』『塊魂』などのフィギュアが秋葉原で展示！",
+      "url": "https://hobby.dengeki.com/news/3241198/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "",
+      "publishedAt": "2026-11-21T08:00:00.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/aah9r8e4-2_d273kIzVGlrI0noC0SUBVtLZTsbDc4aK_p4tbqakLFNMKsGbNp3lHk4FKvfcCmpU6.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     }
   ]
 }
