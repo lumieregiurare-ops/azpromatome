@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:30:21.846Z",
+  "updatedAt": "2026-11-24T20:00:24.825Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -108,6 +108,23 @@
     }
   ],
   "items": [
+    {
+      "id": "9cdd683bfa4e",
+      "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
+      "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
+      "host": "mmoculture.com",
+      "source": "MMO Culture",
+      "summary": "",
+      "publishedAt": "2026-11-24T15:38:49.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "release"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "22b235449a91",
       "title": "『アズールレーン』より、「白鳳」が端正なイラストのポーズそのままにフィギュア化。あみあみにて予約受付中。",
