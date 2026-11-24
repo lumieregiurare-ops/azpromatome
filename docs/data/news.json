@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:00:21.793Z",
+  "updatedAt": "2026-11-24T11:30:38.603Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -123,6 +123,23 @@
   ],
   "items": [
     {
+      "id": "22b235449a91",
+      "title": "『アズールレーン』より、「白鳳」が端正なイラストのポーズそのままにフィギュア化。あみあみにて予約受付中。",
+      "url": "https://prtimes.jp/main/html/rd/p/000003994.000025615.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-24T11:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25615/3994/25615-3994-22f306b85f5fd15bb1f4fb3af8ab11cc-800x533.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "d0dc5f482fe8",
       "title": "『アズールプロミリア』新PV公開！ 水樹奈々の新曲も同日配信",
       "url": "https://dengekionline.com/article/202611/94883",
@@ -173,6 +190,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "41b3cacfbf96",
+      "title": "GSAS『アズールレーン』ハウデン・リーウ／軽装Ver. 1/7スケールフィギュアが登場！神秘的なマントは着脱可能",
+      "url": "https://www.toy-people.com/jp/?p=116802",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-23T06:47:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "c44f15b2d776",
