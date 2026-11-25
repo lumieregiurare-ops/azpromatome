@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:30:26.490Z",
+  "updatedAt": "2026-11-25T12:00:20.114Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -159,7 +159,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7747b2d15860",
@@ -229,24 +229,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "5e6acfb019c6",
-      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587471",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fd0deb10ecd4",
@@ -257,6 +240,23 @@
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "5e6acfb019c6",
+      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587471",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -297,7 +297,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "deee4305434a",
@@ -313,6 +313,25 @@
         "guide"
       ],
       "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "1e9ef021b1aa",
+      "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593492",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "pengpeng"
+      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -387,25 +406,6 @@
       ],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "1e9ef021b1aa",
-      "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593492",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "pengpeng"
-      ],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "4e70349276b6",
@@ -694,7 +694,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7e80f49c8f4",
@@ -730,7 +730,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bd205c2768a4",
