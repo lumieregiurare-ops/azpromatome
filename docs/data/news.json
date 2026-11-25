@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:00:20.887Z",
+  "updatedAt": "2026-11-25T22:30:21.480Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -127,6 +127,24 @@
   ],
   "items": [
     {
+      "id": "bd205c2768a4",
+      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80553628",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T22:22:47.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "4e70349276b6",
       "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80572825",
@@ -155,24 +173,6 @@
       "scope": "main",
       "categories": [
         "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "bd205c2768a4",
-      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80553628",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T21:17:52.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -320,19 +320,21 @@
       "isNew": false
     },
     {
-      "id": "fd0deb10ecd4",
-      "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587459",
+      "id": "dcb56c552e95",
+      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593471",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
+      "image": "",
       "scope": "main",
       "categories": [
         "guide"
       ],
-      "charas": [],
+      "charas": [
+        "shalle"
+      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -345,6 +347,23 @@
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "fd0deb10ecd4",
+      "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587459",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -525,25 +544,6 @@
       ],
       "charas": [
         "mitty"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "dcb56c552e95",
-      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593471",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "shalle"
       ],
       "viaGoogle": false,
       "isNew": false
