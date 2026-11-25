@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:29:01.353Z",
+  "updatedAt": "2026-11-25T10:00:22.214Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -142,7 +142,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "26bc6bca7ab7",
@@ -161,7 +161,7 @@
         "metsa"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fd7251ae161a",
@@ -178,7 +178,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "567cecee2efe",
@@ -195,7 +195,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9f65550716c",
@@ -212,7 +212,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "08224c7e1009",
@@ -231,7 +231,7 @@
         "pei-pei"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b58e0ee11516",
@@ -248,7 +248,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "120368d91d7e",
@@ -265,7 +265,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4e70349276b6",
@@ -282,7 +282,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "24f346f904bb",
@@ -299,7 +299,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ad1c016ef06e",
@@ -316,7 +316,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01d7bdd32e02",
@@ -335,7 +335,7 @@
         "mitty"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dcb56c552e95",
@@ -354,7 +354,7 @@
         "shalle"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "80bf5f7dc7cb",
@@ -371,7 +371,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c4624202b55f",
@@ -390,7 +390,7 @@
         "faridah"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d20dd9191901",
@@ -407,7 +407,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18b417f3ea5e",
@@ -426,7 +426,7 @@
         "cathbelle"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cfd246e163c8",
@@ -445,7 +445,7 @@
         "terara"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c3404e51a7af",
@@ -462,7 +462,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e112c62de973",
@@ -481,7 +481,7 @@
         "abby"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ad48573e5ee2",
@@ -500,7 +500,7 @@
         "tushan-xiaoyu"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2d1a000dc0f",
@@ -519,7 +519,7 @@
         "anais"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "81f0a7d8146a",
@@ -537,7 +537,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7e80f49c8f4",
@@ -556,7 +556,7 @@
         "maple"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4e2caea2d22",
@@ -629,23 +629,6 @@
       "isNew": false
     },
     {
-      "id": "22b235449a91",
-      "title": "『アズールレーン』より、「白鳳」が端正なイラストのポーズそのままにフィギュア化。あみあみにて予約受付中。",
-      "url": "https://prtimes.jp/main/html/rd/p/000003994.000025615.html",
-      "host": "prtimes.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-25T00:46:00.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25615/3994/25615-3994-22f306b85f5fd15bb1f4fb3af8ab11cc-800x533.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "scope": "series",
-      "categories": [
-        "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "9cdd683bfa4e",
       "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
       "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
@@ -657,6 +640,23 @@
       "scope": "main",
       "categories": [
         "release"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "22b235449a91",
+      "title": "『アズールレーン』より、「白鳳」が端正なイラストのポーズそのままにフィギュア化。あみあみにて予約受付中。",
+      "url": "https://prtimes.jp/main/html/rd/p/000003994.000025615.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-24T11:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/25615/3994/25615-3994-22f306b85f5fd15bb1f4fb3af8ab11cc-800x533.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "scope": "series",
+      "categories": [
+        "news"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -770,7 +770,7 @@
       "title": "今週発売の新作ゲーム『アズールプロミリア』『Arkheron（アーケロン）』『タクシー・カオス2』他",
       "url": "https://www.gamespark.jp/article/2026/11/22/175173.html",
       "host": "gamespark.jp",
-      "source": "千葉テレビ放送",
+      "source": "千葉テレビ放送株式会社",
       "summary": "",
       "publishedAt": "2026-11-22T13:18:48.000Z",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1222175.jpg",
