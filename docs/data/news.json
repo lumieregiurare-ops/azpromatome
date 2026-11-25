@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:00:26.085Z",
+  "updatedAt": "2026-11-25T20:30:22.318Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -127,6 +127,25 @@
   ],
   "items": [
     {
+      "id": "ad48573e5ee2",
+      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593519",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T20:20:15.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "tushan-xiaoyu"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "a9f65550716c",
       "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80549752",
@@ -178,24 +197,6 @@
       "isNew": false
     },
     {
-      "id": "cfab3c93d9d6",
-      "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80550070",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "7747b2d15860",
       "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80587429",
@@ -228,6 +229,23 @@
       "charas": [
         "metsa"
       ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "5e6acfb019c6",
+      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587471",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -274,23 +292,6 @@
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "5e6acfb019c6",
-      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587471",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -641,25 +642,6 @@
       "isNew": false
     },
     {
-      "id": "ad48573e5ee2",
-      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593519",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "tushan-xiaoyu"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "b7e80f49c8f4",
       "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593516",
@@ -713,6 +695,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "4e70349276b6",
+      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80572825",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "dae90c38439a",
