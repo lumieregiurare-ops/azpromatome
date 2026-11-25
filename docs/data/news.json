@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:00:27.846Z",
+  "updatedAt": "2026-11-25T16:30:22.940Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -133,7 +133,7 @@
       "host": "excite.co.jp",
       "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-25T15:17:38.000Z",
+      "publishedAt": "2026-11-25T15:19:04.000Z",
       "image": "",
       "scope": "main",
       "categories": [
@@ -179,6 +179,25 @@
       "isNew": false
     },
     {
+      "id": "26bc6bca7ab7",
+      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593459",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "metsa"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "fd7251ae161a",
       "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593462",
@@ -209,25 +228,6 @@
         "guide"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "26bc6bca7ab7",
-      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593459",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "metsa"
-      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -266,14 +266,14 @@
       "isNew": false
     },
     {
-      "id": "567cecee2efe",
-      "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587363",
+      "id": "5e6acfb019c6",
+      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587471",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -283,14 +283,14 @@
       "isNew": false
     },
     {
-      "id": "5e6acfb019c6",
-      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587471",
+      "id": "567cecee2efe",
+      "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587363",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -317,43 +317,26 @@
       "isNew": false
     },
     {
-      "id": "deee4305434a",
-      "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593498",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "120368d91d7e",
-      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593456",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "b58e0ee11516",
       "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593468",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "deee4305434a",
+      "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593498",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
@@ -402,6 +385,23 @@
       "charas": [
         "pei-pei"
       ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -480,6 +480,40 @@
       "isNew": false
     },
     {
+      "id": "12afdd0eb6f5",
+      "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593480",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "80bf5f7dc7cb",
+      "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593507",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "c4624202b55f",
       "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593465",
@@ -499,9 +533,26 @@
       "isNew": false
     },
     {
-      "id": "80bf5f7dc7cb",
-      "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593507",
+      "id": "ad1c016ef06e",
+      "title": "【アズールプロミリア】ルビーナの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593477",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "d20dd9191901",
+      "title": "【アズールプロミリア】ノノの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593513",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
@@ -554,40 +605,6 @@
       "isNew": false
     },
     {
-      "id": "ad1c016ef06e",
-      "title": "【アズールプロミリア】ルビーナの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593477",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "d20dd9191901",
-      "title": "【アズールプロミリア】ノノの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593513",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "e112c62de973",
       "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593474",
@@ -603,23 +620,6 @@
       "charas": [
         "abby"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "7975d8bc0c6c",
-      "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565607",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/125341_2efc4.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -662,6 +662,23 @@
       "isNew": false
     },
     {
+      "id": "7975d8bc0c6c",
+      "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565607",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/125341_2efc4.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "b7e80f49c8f4",
       "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593516",
@@ -677,6 +694,23 @@
       "charas": [
         "maple"
       ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "4e70349276b6",
+      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80572825",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -698,21 +732,22 @@
       "isNew": false
     },
     {
-      "id": "4e70349276b6",
-      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80572825",
+      "id": "a82b9f942448",
+      "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80590888",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp",
       "scope": "main",
       "categories": [
-        "guide"
+        "guide",
+        "gacha"
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "bd205c2768a4",
