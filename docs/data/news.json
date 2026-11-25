@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:30:20.478Z",
+  "updatedAt": "2026-11-25T08:00:20.807Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -40,7 +40,7 @@
           "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
           "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
           "source": "Excite エキサイト",
-          "publishedAt": "2026-11-22T23:13:17.000Z",
+          "publishedAt": "2026-11-22T23:13:16.000Z",
           "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png"
         },
         {
@@ -94,7 +94,7 @@
           "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
           "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
           "source": "Excite エキサイト",
-          "publishedAt": "2026-11-22T23:13:17.000Z",
+          "publishedAt": "2026-11-22T23:13:16.000Z",
           "isPR": false
         },
         {
@@ -108,6 +108,23 @@
     }
   ],
   "items": [
+    {
+      "id": "d4e2caea2d22",
+      "title": "『アズールレーン』姉妹艦 ポーラ＆ザラがアルターから1/7スケールフィギュア化！2人がまとう衣装や豊満なプロポーションを丁寧に再現！",
+      "url": "https://hobby.dengeki.com/news/3242973/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:35:42.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/469b052e3131133723f1851142a51ec0_cmyj9JGRZ1aHkNPgvsoT63Ho4WDVL586_di6-vx865a0mbC_Ij-oMU-4Rt8kbSS2G.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "cefa805184af",
       "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！",
@@ -124,7 +141,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a8fb95a84870",
@@ -323,7 +340,7 @@
       "host": "excite.co.jp",
       "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-22T23:13:17.000Z",
+      "publishedAt": "2026-11-22T23:13:16.000Z",
       "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png",
       "scope": "main",
       "categories": [
