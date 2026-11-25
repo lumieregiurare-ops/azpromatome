@@ -1,5 +1,20 @@
 [
  {
+  "id": "327e2c1eb2cb",
+  "title": "『ゼンゼロ』浅羽悠真や『アズレン』カウベンス、『メダリスト』狼嵜光、『FGO』ナッちゃん（キジムナー）、メタロトン・ジャンヌ、妖精騎士ランスロットなど！「となりのモケイフェスティバル10」フォトレポート④",
+  "url": "https://hobby.dengeki.com/event/3243843/",
+  "host": "hobby.dengeki.com",
+  "source": "電撃ホビーウェブ",
+  "summary": "",
+  "publishedAt": "2026-11-25T10:15:00.000Z",
+  "image": "https://hobby.dengeki.com/ss/hobby/2026/11/469b052e3131133723f1851142a51ec0_LxcRKP71rJdjHobyu6IuQIriKKlak96K_adCQ9RdYPCUiSBszjbAxQin7n4l1EKMB.jpg",
+  "scope": "series",
+  "categories": [
+   "news"
+  ],
+  "charas": []
+ },
+ {
   "id": "bd205c2768a4",
   "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80553628",
@@ -381,6 +396,84 @@
   ],
   "charas": [
    "maple"
+  ]
+ },
+ {
+  "id": "cfab3c93d9d6",
+  "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80550070",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-25T09:05:45.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "campaign"
+  ],
+  "charas": []
+ },
+ {
+  "id": "efdba8bed329",
+  "title": "【アズールプロミリア】支援のキャラ評価一覧【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80574721",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-25T09:05:45.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "dae90c38439a",
+  "title": "【アズールプロミリア】リリースはいつ？【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80549977",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-25T09:05:45.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123626_5vzqn.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "fd0deb10ecd4",
+  "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587459",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-25T09:05:45.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "1e9ef021b1aa",
+  "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593492",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-25T09:05:45.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "pengpeng"
   ]
  },
  {

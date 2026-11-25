@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T10:00:22.214Z",
+  "updatedAt": "2026-11-25T10:30:25.943Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "d0dc5f482fe8",
-      "key": "3d488f0a3c76",
-      "firstAt": "2026-11-22T23:13:16.000Z",
+      "key": "7078cc47bc60",
+      "firstAt": "2026-11-22T23:00:54.000Z",
       "charas": [],
       "members": [
         {
@@ -14,6 +14,13 @@
           "source": "電撃オンライン",
           "publishedAt": "2026-11-24T05:23:00.000Z",
           "image": "https://cimg.kgl-systems.io/camion/files/94883/ogp_YiNF.jpg?x=1280"
+        },
+        {
+          "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
+          "url": "https://appmedia.jp/news/80589631",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-24T02:50:58.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/112748_xygle.webp"
         },
         {
           "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
@@ -35,6 +42,13 @@
           "source": "Excite エキサイト",
           "publishedAt": "2026-11-22T23:13:16.000Z",
           "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png"
+        },
+        {
+          "title": "【画像】ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！ - ライブドアニュース",
+          "url": "https://news.livedoor.com/article/image_detail/32878471/?img_id=57747407",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-22T23:00:54.000Z",
+          "image": "https://image.news.livedoor.com/newsimage/stf/2/e/2e6f9_1516_8f2fdb99_32c29bda.png"
         }
       ],
       "title": "『アズールプロミリア』新PV公開！ 水樹奈々の新曲も同日配信",
@@ -43,8 +57,8 @@
       "image": "https://cimg.kgl-systems.io/camion/files/94883/ogp_YiNF.jpg?x=1280",
       "leadSource": "電撃オンライン",
       "publishedAt": "2026-11-24T05:23:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
         "pv",
         "guide"
@@ -52,9 +66,16 @@
       "keywords": [
         "PV",
         "水樹奈",
-        "リリース"
+        "starry"
       ],
       "articles": [
+        {
+          "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
+          "url": "https://appmedia.jp/news/80589631",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-24T02:50:58.000Z",
+          "isPR": false
+        },
         {
           "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
           "url": "https://gamewith.jp/gamedb/10871/articles/66143",
@@ -75,21 +96,28 @@
           "source": "Excite エキサイト",
           "publishedAt": "2026-11-22T23:13:16.000Z",
           "isPR": false
+        },
+        {
+          "title": "【画像】ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！ - ライブドアニュース",
+          "url": "https://news.livedoor.com/article/image_detail/32878471/?img_id=57747407",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-22T23:00:54.000Z",
+          "isPR": false
         }
       ]
     },
     {
-      "id": "4e70349276b6",
+      "id": "dae90c38439a",
       "key": "9cdd683bfa4e",
       "firstAt": "2026-11-24T15:38:49.000Z",
       "charas": [],
       "members": [
         {
-          "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
-          "url": "https://appmedia.jp/azurpromilia/80572825",
+          "title": "【アズールプロミリア】リリースはいつ？【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80549977",
           "source": "AppMedia",
           "publishedAt": "2026-11-25T09:05:45.000Z",
-          "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp"
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/123626_5vzqn.webp"
         },
         {
           "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
@@ -99,10 +127,10 @@
           "image": ""
         }
       ],
-      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+      "title": "【アズールプロミリア】リリースはいつ？【アズプロ】",
       "summary": "",
-      "url": "https://appmedia.jp/azurpromilia/80572825",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+      "url": "https://appmedia.jp/azurpromilia/80549977",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123626_5vzqn.webp",
       "leadSource": "AppMedia",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "sourceCount": 2,
@@ -112,7 +140,7 @@
         "release"
       ],
       "keywords": [
-        "キャラ"
+        "リリース"
       ],
       "articles": [
         {
@@ -127,18 +155,86 @@
   ],
   "items": [
     {
-      "id": "bd205c2768a4",
-      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80553628",
+      "id": "327e2c1eb2cb",
+      "title": "『ゼンゼロ』浅羽悠真や『アズレン』カウベンス、『メダリスト』狼嵜光、『FGO』ナッちゃん（キジムナー）、メタロトン・ジャンヌ、妖精騎士ランスロットなど！「となりのモケイフェスティバル10」フォトレポート④",
+      "url": "https://hobby.dengeki.com/event/3243843/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:15:00.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/469b052e3131133723f1851142a51ec0_LxcRKP71rJdjHobyu6IuQIriKKlak96K_adCQ9RdYPCUiSBszjbAxQin7n4l1EKMB.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "cfab3c93d9d6",
+      "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80550070",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
       "scope": "main",
       "categories": [
         "guide",
-        "gacha"
+        "campaign"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "efdba8bed329",
+      "title": "【アズールプロミリア】支援のキャラ評価一覧【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80574721",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "dae90c38439a",
+      "title": "【アズールプロミリア】リリースはいつ？【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80549977",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123626_5vzqn.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "fd7251ae161a",
+      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593462",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -164,21 +260,21 @@
       "isNew": false
     },
     {
-      "id": "fd7251ae161a",
-      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593462",
+      "id": "fd0deb10ecd4",
+      "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587459",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
       "scope": "main",
       "categories": [
         "guide"
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "567cecee2efe",
@@ -213,6 +309,25 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "1e9ef021b1aa",
+      "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593492",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "pengpeng"
+      ],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "08224c7e1009",
@@ -559,6 +674,24 @@
       "isNew": false
     },
     {
+      "id": "bd205c2768a4",
+      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80553628",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "d4e2caea2d22",
       "title": "『アズールレーン』姉妹艦 ポーラ＆ザラがアルターから1/7スケールフィギュア化！2人がまとう衣装や豊満なプロポーションを丁寧に再現！",
       "url": "https://hobby.dengeki.com/news/3242973/",
@@ -697,6 +830,24 @@
       "isNew": false
     },
     {
+      "id": "022528e7a0f9",
+      "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
+      "url": "https://appmedia.jp/news/80589631",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-24T02:50:58.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/112748_xygle.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "pv"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "41b3cacfbf96",
       "title": "GSAS『アズールレーン』ハウデン・リーウ／軽装Ver. 1/7スケールフィギュアが登場！神秘的なマントは着脱可能",
       "url": "https://www.toy-people.com/jp/?p=116802",
@@ -764,6 +915,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "7078cc47bc60",
+      "title": "【画像】ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！ - ライブドアニュース",
+      "url": "https://news.livedoor.com/article/image_detail/32878471/?img_id=57747407",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-22T23:00:54.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/2/e/2e6f9_1516_8f2fdb99_32c29bda.png",
+      "scope": "main",
+      "categories": [
+        "pv"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "f2c4df2f43ee",
