@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:30:20.464Z",
+  "updatedAt": "2026-11-25T22:00:20.887Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -141,7 +141,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9f65550716c",
@@ -155,6 +155,24 @@
       "scope": "main",
       "categories": [
         "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "bd205c2768a4",
+      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80553628",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T21:17:52.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -227,25 +245,6 @@
         "news"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "08224c7e1009",
-      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593486",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "pei-pei"
-      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -774,24 +773,6 @@
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "bd205c2768a4",
-      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80553628",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
       "scope": "main",
       "categories": [
         "guide",
