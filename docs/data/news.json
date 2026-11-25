@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:00:22.432Z",
+  "updatedAt": "2026-11-25T05:30:22.081Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -115,7 +115,7 @@
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-11-25T04:31:30.000Z",
+      "publishedAt": "2026-11-25T04:20:00.000Z",
       "image": "",
       "scope": "series",
       "categories": [
@@ -124,7 +124,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22b235449a91",
