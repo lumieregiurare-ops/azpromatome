@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T12:00:20.114Z",
+  "updatedAt": "2026-11-25T12:30:27.414Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "d0dc5f482fe8",
       "key": "3d488f0a3c76",
-      "firstAt": "2026-11-22T23:13:16.000Z",
+      "firstAt": "2026-11-22T23:13:17.000Z",
       "charas": [],
       "members": [
         {
@@ -33,7 +33,7 @@
           "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
           "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
           "source": "Excite エキサイト",
-          "publishedAt": "2026-11-22T23:13:16.000Z",
+          "publishedAt": "2026-11-22T23:13:17.000Z",
           "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png"
         }
       ],
@@ -73,7 +73,7 @@
           "title": "ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！",
           "url": "http://www.excite.co.jp/news/article/Lisani_0000322746/",
           "source": "Excite エキサイト",
-          "publishedAt": "2026-11-22T23:13:16.000Z",
+          "publishedAt": "2026-11-22T23:13:17.000Z",
           "isPR": false
         }
       ]
@@ -162,23 +162,6 @@
       "isNew": false
     },
     {
-      "id": "7747b2d15860",
-      "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587429",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "26bc6bca7ab7",
       "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593459",
@@ -223,6 +206,23 @@
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "7747b2d15860",
+      "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587429",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -533,25 +533,6 @@
       "isNew": false
     },
     {
-      "id": "18b417f3ea5e",
-      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593483",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "cathbelle"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "d20dd9191901",
       "title": "【アズールプロミリア】ノノの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593513",
@@ -569,19 +550,21 @@
       "isNew": false
     },
     {
-      "id": "c3404e51a7af",
-      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565070",
+      "id": "18b417f3ea5e",
+      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593483",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+      "image": "",
       "scope": "main",
       "categories": [
         "guide"
       ],
-      "charas": [],
+      "charas": [
+        "cathbelle"
+      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -605,6 +588,23 @@
       "isNew": false
     },
     {
+      "id": "c3404e51a7af",
+      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "e112c62de973",
       "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593474",
@@ -624,20 +624,21 @@
       "isNew": false
     },
     {
-      "id": "81f0a7d8146a",
-      "title": "【アズールプロミリア】事前登録のやり方と報酬【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80549323",
+      "id": "ad48573e5ee2",
+      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593519",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123400_voiyb.webp",
+      "image": "",
       "scope": "main",
       "categories": [
-        "guide",
-        "campaign"
+        "guide"
       ],
-      "charas": [],
+      "charas": [
+        "tushan-xiaoyu"
+      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -661,21 +662,20 @@
       "isNew": false
     },
     {
-      "id": "ad48573e5ee2",
-      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593519",
+      "id": "81f0a7d8146a",
+      "title": "【アズールプロミリア】事前登録のやり方と報酬【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80549323",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123400_voiyb.webp",
       "scope": "main",
       "categories": [
-        "guide"
+        "guide",
+        "campaign"
       ],
-      "charas": [
-        "tushan-xiaoyu"
-      ],
+      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -947,7 +947,7 @@
       "host": "excite.co.jp",
       "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-22T23:13:16.000Z",
+      "publishedAt": "2026-11-22T23:13:17.000Z",
       "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png",
       "scope": "main",
       "categories": [
