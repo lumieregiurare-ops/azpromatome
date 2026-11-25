@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:30:22.823Z",
+  "updatedAt": "2026-11-25T20:00:26.085Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -127,6 +127,23 @@
   ],
   "items": [
     {
+      "id": "a9f65550716c",
+      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80549752",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T19:25:22.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "4a7d69c7002b",
       "title": "星霊と旅するオープンワールドRPG「アズールプロミリア」本日配信開始（GAME Watch）",
       "url": "https://www.excite.co.jp/news/article/game_watch_1498342782395941420/",
@@ -155,23 +172,6 @@
       "scope": "series",
       "categories": [
         "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "4e70349276b6",
-      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80572825",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -776,23 +776,6 @@
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a9f65550716c",
-      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80549752",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
       "scope": "main",
       "categories": [
         "guide"
