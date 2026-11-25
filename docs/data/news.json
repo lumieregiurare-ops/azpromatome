@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:00:29.368Z",
+  "updatedAt": "2026-11-25T15:30:26.186Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -127,21 +127,21 @@
   ],
   "items": [
     {
-      "id": "a9f65550716c",
-      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80549752",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
+      "id": "4a7d69c7002b",
+      "title": "星霊と旅するオープンワールドRPG「アズールプロミリア」本日配信開始（GAME Watch）",
+      "url": "https://www.excite.co.jp/news/article/game_watch_1498342782395941420/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-11-25T12:55:54.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
+      "publishedAt": "2026-11-25T15:17:38.000Z",
+      "image": "",
       "scope": "main",
       "categories": [
-        "guide"
+        "release"
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "327e2c1eb2cb",
@@ -161,6 +161,23 @@
       "isNew": false
     },
     {
+      "id": "fd7251ae161a",
+      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593462",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "cfab3c93d9d6",
       "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80550070",
@@ -173,23 +190,6 @@
       "categories": [
         "guide",
         "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "fd7251ae161a",
-      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593462",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -397,23 +397,6 @@
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
       "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "c3404e51a7af",
-      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565070",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -732,6 +715,23 @@
       "isNew": false
     },
     {
+      "id": "c3404e51a7af",
+      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "bd205c2768a4",
       "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80553628",
@@ -744,6 +744,23 @@
       "categories": [
         "guide",
         "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "a9f65550716c",
+      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80549752",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
