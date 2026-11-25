@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T09:00:22.067Z",
+  "updatedAt": "2026-11-25T09:29:01.353Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "d0dc5f482fe8",
-      "key": "7078cc47bc60",
-      "firstAt": "2026-11-22T23:00:54.000Z",
+      "key": "3d488f0a3c76",
+      "firstAt": "2026-11-22T23:13:16.000Z",
       "charas": [],
       "members": [
         {
@@ -14,13 +14,6 @@
           "source": "電撃オンライン",
           "publishedAt": "2026-11-24T05:23:00.000Z",
           "image": "https://cimg.kgl-systems.io/camion/files/94883/ogp_YiNF.jpg?x=1280"
-        },
-        {
-          "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
-          "url": "https://appmedia.jp/news/80589631",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-24T02:50:58.000Z",
-          "image": "https://appmedia.jp/wp-content/uploads/2026/11/112748_xygle.webp"
         },
         {
           "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
@@ -42,13 +35,6 @@
           "source": "Excite エキサイト",
           "publishedAt": "2026-11-22T23:13:16.000Z",
           "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png"
-        },
-        {
-          "title": "【画像】ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！ - ライブドアニュース",
-          "url": "https://news.livedoor.com/article/image_detail/32878471/?img_id=57747407",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-22T23:00:54.000Z",
-          "image": "https://image.news.livedoor.com/newsimage/stf/2/e/2e6f9_1516_8f2fdb99_32c29bda.png"
         }
       ],
       "title": "『アズールプロミリア』新PV公開！ 水樹奈々の新曲も同日配信",
@@ -57,8 +43,8 @@
       "image": "https://cimg.kgl-systems.io/camion/files/94883/ogp_YiNF.jpg?x=1280",
       "leadSource": "電撃オンライン",
       "publishedAt": "2026-11-24T05:23:00.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "pv",
         "guide"
@@ -66,16 +52,9 @@
       "keywords": [
         "PV",
         "水樹奈",
-        "starry"
+        "リリース"
       ],
       "articles": [
-        {
-          "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
-          "url": "https://appmedia.jp/news/80589631",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-24T02:50:58.000Z",
-          "isPR": false
-        },
         {
           "title": "『アズールプロミリア』リリース記念アニメPVが公開！水樹奈々さんが歌う楽曲「Starry Garden」とともに世界観を堪能できる",
           "url": "https://gamewith.jp/gamedb/10871/articles/66143",
@@ -96,18 +75,489 @@
           "source": "Excite エキサイト",
           "publishedAt": "2026-11-22T23:13:16.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "4e70349276b6",
+      "key": "9cdd683bfa4e",
+      "firstAt": "2026-11-24T15:38:49.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80572825",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-25T09:05:45.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp"
         },
         {
-          "title": "【画像】ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！ - ライブドアニュース",
-          "url": "https://news.livedoor.com/article/image_detail/32878471/?img_id=57747407",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-22T23:00:54.000Z",
+          "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
+          "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
+          "source": "MMO Culture",
+          "publishedAt": "2026-11-24T15:38:49.000Z",
+          "image": ""
+        }
+      ],
+      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+      "summary": "",
+      "url": "https://appmedia.jp/azurpromilia/80572825",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "keywords": [
+        "キャラ"
+      ],
+      "articles": [
+        {
+          "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
+          "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
+          "source": "MMO Culture",
+          "publishedAt": "2026-11-24T15:38:49.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "items": [
+    {
+      "id": "bd205c2768a4",
+      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80553628",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "26bc6bca7ab7",
+      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593459",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "metsa"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "fd7251ae161a",
+      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593462",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "567cecee2efe",
+      "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587363",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "a9f65550716c",
+      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80549752",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "08224c7e1009",
+      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593486",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "pei-pei"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "b58e0ee11516",
+      "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593468",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "4e70349276b6",
+      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80572825",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "24f346f904bb",
+      "title": "【アズールプロミリア】リリィの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593495",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "ad1c016ef06e",
+      "title": "【アズールプロミリア】ルビーナの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593477",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "01d7bdd32e02",
+      "title": "【アズールプロミリア】ミィティの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593504",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "mitty"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "dcb56c552e95",
+      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593471",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "shalle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "80bf5f7dc7cb",
+      "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593507",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "c4624202b55f",
+      "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593465",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "faridah"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "d20dd9191901",
+      "title": "【アズールプロミリア】ノノの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593513",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "18b417f3ea5e",
+      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593483",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "cathbelle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "cfd246e163c8",
+      "title": "【アズールプロミリア】テララの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593501",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "terara"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "c3404e51a7af",
+      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "e112c62de973",
+      "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593474",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "abby"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "ad48573e5ee2",
+      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593519",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "tushan-xiaoyu"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "a2d1a000dc0f",
+      "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593510",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "anais"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "81f0a7d8146a",
+      "title": "【アズールプロミリア】事前登録のやり方と報酬【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80549323",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123400_voiyb.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "campaign"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "b7e80f49c8f4",
+      "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593516",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "maple"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
     {
       "id": "d4e2caea2d22",
       "title": "『アズールレーン』姉妹艦 ポーラ＆ザラがアルターから1/7スケールフィギュア化！2人がまとう衣装や豊満なプロポーションを丁寧に再現！",
@@ -247,41 +697,6 @@
       "isNew": false
     },
     {
-      "id": "022528e7a0f9",
-      "title": "『アズールプロミリア』水樹奈々さんが歌う楽曲「Starry Garden」とともに贈る新PVを公開！",
-      "url": "https://appmedia.jp/news/80589631",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-24T02:50:58.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/112748_xygle.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "pv"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "b99232b68da3",
-      "title": "Azur Promilia、26日のリリースに向け「Star's Leap」のローンチコンテンツを公開",
-      "url": "https://www.mgoddess.com/news/news-cdb397e2b2/?lang=ja",
-      "host": "mgoddess.com",
-      "source": "Mobile Goddess",
-      "summary": "",
-      "publishedAt": "2026-11-23T06:59:43.000Z",
-      "image": "https://static.inven.co.kr/column/2026/11/23/news/thumb/s1702711751.png",
-      "scope": "main",
-      "categories": [
-        "news"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "41b3cacfbf96",
       "title": "GSAS『アズールレーン』ハウデン・リーウ／軽装Ver. 1/7スケールフィギュアが登場！神秘的なマントは着脱可能",
       "url": "https://www.toy-people.com/jp/?p=116802",
@@ -342,23 +757,6 @@
       "summary": "",
       "publishedAt": "2026-11-22T23:13:16.000Z",
       "image": "https://s.eximg.jp/exnews/feed/Lisani/8b/Lisani_0000322746/Lisani_0000322746_1.png",
-      "scope": "main",
-      "categories": [
-        "pv"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "7078cc47bc60",
-      "title": "【画像】ゲーム『アズールプロミリア』、水樹奈々が歌う楽曲「Starry Garden」とともに贈る新PVを公開！ゲームリリースと同日の11月26日より楽曲配信も決定！ - ライブドアニュース",
-      "url": "https://news.livedoor.com/article/image_detail/32878471/?img_id=57747407",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-22T23:00:54.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/2/e/2e6f9_1516_8f2fdb99_32c29bda.png",
       "scope": "main",
       "categories": [
         "pv"
