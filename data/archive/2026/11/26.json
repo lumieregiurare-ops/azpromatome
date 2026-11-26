@@ -1,5 +1,52 @@
 [
  {
+  "id": "deee4305434a",
+  "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593498",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T06:50:39.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "cfd246e163c8",
+  "title": "【アズールプロミリア】テララの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593501",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T06:50:39.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "terara"
+  ]
+ },
+ {
+  "id": "24f346f904bb",
+  "title": "【アズールプロミリア】リリィの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593495",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T06:42:36.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "e112c62de973",
   "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593474",
@@ -92,6 +139,23 @@
    "guide"
   ],
   "charas": []
+ },
+ {
+  "id": "d0796d9fb178",
+  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
+  "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
+  "host": "gamespark.jp",
+  "source": "Game*Spark",
+  "summary": "",
+  "publishedAt": "2026-11-26T06:00:03.000Z",
+  "image": "https://www.gamespark.jp/imgs/ogp_f/1223666.png",
+  "scope": "main",
+  "categories": [
+   "release"
+  ],
+  "charas": [
+   "tushan-xiaoyu"
+  ]
  },
  {
   "id": "291463c72ed5",
@@ -191,7 +255,7 @@
  {
   "id": "f4e0f199c1d8",
   "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMTNIV1RZVTA2Ykd3M3RWYmhOVWk5Ui1NMDl3TTEyRzk0RWhfcDJwT29qU1paTERzRXZURTBkSFVsaDlTdGJfak45dnBNX2NTV1BQYjU5SkQ0bHpuNlBQcU1pcmt3RlpjQ0hEX29TdllRallObUhXNmVJc0RDd9IBgwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOYw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOY9IBgwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOYw?oc=5",
   "host": "topics.smt.docomo.ne.jp",
   "source": "ｄメニューニュース",
   "summary": "",
@@ -478,7 +542,7 @@
   "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
   "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
   "host": "s.inside-games.jp",
-  "source": "ｄメニューニュース",
+  "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-26T03:05:10.000Z",
   "image": "https://www.inside-games.jp/imgs/ogp_f/1811771.png",
