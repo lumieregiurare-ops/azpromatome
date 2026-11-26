@@ -1,5 +1,118 @@
 [
  {
+  "id": "600657251a2f",
+  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80596903",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T05:13:53.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "ab40ec7ccd27",
+  "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
+  "url": "https://www.tetsudo.com/event/62628/",
+  "host": "tetsudo.com",
+  "source": "Tetsudo.com（鉄道コム）",
+  "summary": "",
+  "publishedAt": "2026-11-26T05:04:00.000Z",
+  "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
+  "scope": "series",
+  "categories": [
+   "event"
+  ],
+  "charas": []
+ },
+ {
+  "id": "a82b9f942448",
+  "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80590888",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T05:02:44.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "b7e80f49c8f4",
+  "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593516",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T05:00:37.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "maple"
+  ]
+ },
+ {
+  "id": "dcb56c552e95",
+  "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593471",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T04:56:24.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "shalle"
+  ]
+ },
+ {
+  "id": "b58e0ee11516",
+  "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593468",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T04:56:16.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "c4624202b55f",
+  "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593465",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T04:56:13.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "faridah"
+  ]
+ },
+ {
   "id": "a2d1a000dc0f",
   "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593510",
@@ -55,6 +168,21 @@
   "summary": "",
   "publishedAt": "2026-11-26T04:11:41.000Z",
   "image": "https://voix.jp/biz/wp-content/uploads/sites/3/2026/11/thumb_20261126131141.png",
+  "scope": "main",
+  "categories": [
+   "release"
+  ],
+  "charas": []
+ },
+ {
+  "id": "f834c69c8efc",
+  "title": "『アズールプロミリア』、韓国で本日より配信開始",
+  "url": "https://gamehack.jp/387892/",
+  "host": "gamehack.jp",
+  "source": "ゲームハック",
+  "summary": "",
+  "publishedAt": "2026-11-26T04:07:00.000Z",
+  "image": "https://prtimes.jp/common/pc_v4/og.png",
   "scope": "main",
   "categories": [
    "release"
@@ -475,22 +603,6 @@
   "charas": [
    "tushan-xiaoyu"
   ]
- },
- {
-  "id": "600657251a2f",
-  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80596903",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T01:55:58.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
-  ],
-  "charas": []
  },
  {
   "id": "42f36feb4e36",
