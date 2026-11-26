@@ -1,5 +1,68 @@
 [
  {
+  "id": "12afdd0eb6f5",
+  "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593480",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T07:10:45.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "08224c7e1009",
+  "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593486",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T07:04:43.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "pei-pei"
+  ]
+ },
+ {
+  "id": "4b5a5a62eaf5",
+  "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80597518",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T07:00:51.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "a2765cb4baa6",
+  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80576284",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T06:51:19.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
   "id": "deee4305434a",
   "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593498",
@@ -45,6 +108,23 @@
    "guide"
   ],
   "charas": []
+ },
+ {
+  "id": "1e9ef021b1aa",
+  "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593492",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T06:24:41.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "pengpeng"
+  ]
  },
  {
   "id": "e112c62de973",
@@ -142,7 +222,7 @@
  },
  {
   "id": "d0796d9fb178",
-  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
+  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 8枚目の写真・画像",
   "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
   "host": "gamespark.jp",
   "source": "Game*Spark",
@@ -628,21 +708,6 @@
   "categories": [
    "event",
    "update"
-  ],
-  "charas": []
- },
- {
-  "id": "4b5a5a62eaf5",
-  "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80597518",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T02:41:38.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
   ],
   "charas": []
  },
