@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:00:20.921Z",
+  "updatedAt": "2026-11-26T20:30:23.669Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -335,6 +335,52 @@
       ]
     },
     {
+      "id": "a2765cb4baa6",
+      "key": "dc769ffb7bcf",
+      "firstAt": "2026-11-26T03:58:00.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80576284",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T06:51:00.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp"
+        },
+        {
+          "title": "「アズールプロミリア」が正式サービス開始！★5キャラクターが必ず獲得できる初心者ガチャをはじめとしたキャンペーンが開催中",
+          "url": "https://www.gamer.ne.jp/news/202611260013/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-26T03:58:00.000Z",
+          "image": ""
+        }
+      ],
+      "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+      "summary": "",
+      "url": "https://appmedia.jp/azurpromilia/80576284",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "keywords": [
+        "ガチャ"
+      ],
+      "articles": [
+        {
+          "title": "「アズールプロミリア」が正式サービス開始！★5キャラクターが必ず獲得できる初心者ガチャをはじめとしたキャンペーンが開催中",
+          "url": "https://www.gamer.ne.jp/news/202611260013/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-26T03:58:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "b24102eca347",
       "key": "d4e220712281",
       "firstAt": "2026-11-25T15:39:05.000Z",
@@ -430,6 +476,25 @@
     }
   ],
   "items": [
+    {
+      "id": "a2d1a000dc0f",
+      "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593510",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T20:22:06.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "anais"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
     {
       "id": "120368d91d7e",
       "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
@@ -605,7 +670,7 @@
         "abby"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea90897c1f8f",
@@ -784,25 +849,6 @@
       ],
       "charas": [
         "pengpeng"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a2d1a000dc0f",
-      "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593510",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T17:07:30.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "anais"
       ],
       "viaGoogle": false,
       "isNew": false
@@ -1096,6 +1142,24 @@
       ],
       "charas": [],
       "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "a2765cb4baa6",
+      "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80576284",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
       "isNew": true
     },
     {
@@ -1201,25 +1265,6 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "c4624202b55f",
-      "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593465",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T04:56:00.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "faridah"
-      ],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "730f7bdbc852",
@@ -1480,7 +1525,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "929205e73450",
@@ -1497,7 +1542,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d5f21c23e35",
@@ -1514,7 +1559,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dd4f5d60a258",
@@ -1531,7 +1576,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
