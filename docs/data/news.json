@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:00:29.035Z",
+  "updatedAt": "2026-11-26T12:30:21.812Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -154,13 +154,6 @@
           "image": "https://www.4gamer.net/games/784/G078489/20261126013/SS/001.jpg"
         },
         {
-          "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
-          "url": "https://appmedia.jp/news/80597707",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-26T03:30:20.000Z",
-          "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp"
-        },
-        {
           "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
           "url": "http://www.akiba-plus.com/?p=159296",
           "source": "秋葉原ＰＬＵＳ",
@@ -174,8 +167,8 @@
       "image": "https://cdn.gamemeca.com/gmdata/0001/784/280/gm131976_thumb____.webp",
       "leadSource": "게임메카",
       "publishedAt": "2026-11-26T09:39:04.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "release",
         "campaign"
@@ -191,13 +184,6 @@
           "url": "https://www.4gamer.net/games/784/G078489/20261126013/",
           "source": "4Gamer.net",
           "publishedAt": "2026-11-26T03:59:21.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
-          "url": "https://appmedia.jp/news/80597707",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-26T03:30:20.000Z",
           "isPR": false
         },
         {
@@ -416,6 +402,97 @@
     }
   ],
   "items": [
+    {
+      "id": "c3404e51a7af",
+      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:28:08.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "e112c62de973",
+      "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593474",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:26:07.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "abby"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "18b417f3ea5e",
+      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593483",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:24:06.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "cathbelle"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ea90897c1f8f",
+      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587528",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:08:04.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "291463c72ed5",
+      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593489",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:00:01.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "lan-xiangzi"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
     {
       "id": "fd7251ae161a",
       "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
@@ -858,42 +935,6 @@
       "isNew": false
     },
     {
-      "id": "18b417f3ea5e",
-      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593483",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:19:22.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "cathbelle"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "c3404e51a7af",
-      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565070",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:19:06.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "8d22e8459c9f",
       "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
       "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
@@ -919,23 +960,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T09:15:45.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ea90897c1f8f",
-      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587528",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:11:33.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -979,25 +1003,6 @@
       "isNew": false
     },
     {
-      "id": "291463c72ed5",
-      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593489",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T08:53:01.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "lan-xiangzi"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "f2d764c7ef69",
       "title": "【アズールプロミリア】毎日やるべきことと週ごとの更新まとめ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80588653",
@@ -1015,23 +1020,22 @@
       "isNew": false
     },
     {
-      "id": "c4624202b55f",
-      "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593465",
+      "id": "a82b9f942448",
+      "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80590888",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-26T08:23:01.000Z",
-      "image": "",
+      "publishedAt": "2026-11-26T08:28:55.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp",
       "scope": "main",
       "categories": [
-        "guide"
+        "guide",
+        "gacha"
       ],
-      "charas": [
-        "faridah"
-      ],
+      "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4e70349276b6",
@@ -1308,24 +1312,6 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "e11720f87ca5",
-      "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
-      "url": "https://appmedia.jp/news/80597707",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T03:30:20.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "release"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "e77ef8b69a7c",

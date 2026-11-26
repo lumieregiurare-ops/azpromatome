@@ -1,5 +1,86 @@
 [
  {
+  "id": "c3404e51a7af",
+  "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80565070",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T12:28:08.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "e112c62de973",
+  "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593474",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T12:26:07.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "abby"
+  ]
+ },
+ {
+  "id": "18b417f3ea5e",
+  "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593483",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T12:24:06.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "cathbelle"
+  ]
+ },
+ {
+  "id": "ea90897c1f8f",
+  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587528",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T12:08:04.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "291463c72ed5",
+  "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593489",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T12:00:01.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "lan-xiangzi"
+  ]
+ },
+ {
   "id": "fd7251ae161a",
   "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593462",
@@ -391,38 +472,6 @@
   "charas": []
  },
  {
-  "id": "18b417f3ea5e",
-  "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593483",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T09:19:22.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "cathbelle"
-  ]
- },
- {
-  "id": "c3404e51a7af",
-  "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80565070",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T09:19:06.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
   "id": "8d22e8459c9f",
   "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
   "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
@@ -446,21 +495,6 @@
   "summary": "",
   "publishedAt": "2026-11-26T09:15:45.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "ea90897c1f8f",
-  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80587528",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T09:11:33.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
   "scope": "main",
   "categories": [
    "guide"
@@ -496,23 +530,6 @@
    "event"
   ],
   "charas": []
- },
- {
-  "id": "291463c72ed5",
-  "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593489",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T08:53:01.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "lan-xiangzi"
-  ]
  },
  {
   "id": "f2d764c7ef69",
@@ -623,23 +640,6 @@
   ],
   "charas": [
    "pengpeng"
-  ]
- },
- {
-  "id": "e112c62de973",
-  "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593474",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T06:18:45.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "abby"
   ]
  },
  {
