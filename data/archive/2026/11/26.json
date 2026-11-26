@@ -47,6 +47,23 @@
   "charas": []
  },
  {
+  "id": "c4624202b55f",
+  "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593465",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T14:38:42.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "faridah"
+  ]
+ },
+ {
   "id": "dcb56c552e95",
   "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593471",
@@ -389,7 +406,7 @@
   "host": "appmedia.jp",
   "source": "AppMedia",
   "summary": "",
-  "publishedAt": "2026-11-26T10:43:05.000Z",
+  "publishedAt": "2026-11-26T10:43:00.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/191943_78tuc.webp",
   "scope": "main",
   "categories": [
@@ -564,23 +581,6 @@
   "charas": []
  },
  {
-  "id": "c4624202b55f",
-  "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593465",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T08:23:01.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "faridah"
-  ]
- },
- {
   "id": "4e70349276b6",
   "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80572825",
@@ -707,12 +707,12 @@
  },
  {
   "id": "17307dc45248",
-  "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EcWdXXzBrcDN1UXN2T0dJeS13NzNBeVE4TEFCSEtKUTNCck5XYUNEMUg4NDk2VEFjd2oyeEdhTFpKdlhTeEdiUHd6R203YTZTWVpmVnVvSEI0YjhLNE9aeFRscllEMEEyc3lnUkJXM093RFZCVjdZeDNOdkVtZ9IBgwFBVV95cUxNNVNESnhIa01FVjI4T1FpUWRMc1VPM19QUnZaWjlSQ3E5YzNlUzAtakU4cDhXTzFsempteEtBMm5IbkhzZlVJQ052UDlSQ3Q3OTl2cUVIUERZUWZCSkQ4Rl9RTkR0QXpqNVJZVHBwWVYxWlpXWThlLUtfRlk2bEktYkhlTQ?oc=5",
-  "host": "topics.smt.docomo.ne.jp",
-  "source": "ｄメニューニュース",
+  "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ（2026年12月20日）",
+  "url": "https://www.tetsudo.com/event/62629/",
+  "host": "tetsudo.com",
+  "source": "Tetsudo.com（鉄道コム）",
   "summary": "",
-  "publishedAt": "2026-11-26T05:43:26.000Z",
+  "publishedAt": "2026-11-26T05:04:00.000Z",
   "image": "",
   "scope": "series",
   "categories": [
@@ -722,10 +722,10 @@
  },
  {
   "id": "ab40ec7ccd27",
-  "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
+  "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売",
   "url": "https://www.tetsudo.com/event/62628/",
   "host": "tetsudo.com",
-  "source": "Tetsudo.com（鉄道コム）",
+  "source": "ｄメニューニュース",
   "summary": "",
   "publishedAt": "2026-11-26T05:04:00.000Z",
   "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",

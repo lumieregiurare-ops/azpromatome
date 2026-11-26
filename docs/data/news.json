@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T15:00:23.750Z",
+  "updatedAt": "2026-11-26T15:30:22.737Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -429,6 +429,42 @@
   ],
   "items": [
     {
+      "id": "ea90897c1f8f",
+      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587528",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T15:18:50.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "291463c72ed5",
+      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593489",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T15:05:03.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "lan-xiangzi"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "ad48573e5ee2",
       "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593519",
@@ -478,6 +514,25 @@
         "guide"
       ],
       "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "c4624202b55f",
+      "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593465",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T14:38:42.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "faridah"
+      ],
       "viaGoogle": false,
       "isNew": true
     },
@@ -716,42 +771,6 @@
       "isNew": false
     },
     {
-      "id": "ea90897c1f8f",
-      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587528",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T12:08:04.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "291463c72ed5",
-      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593489",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T12:00:01.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "lan-xiangzi"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "b7e80f49c8f4",
       "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593516",
@@ -805,25 +824,6 @@
       "isNew": false
     },
     {
-      "id": "a2d1a000dc0f",
-      "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593510",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T11:03:37.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "anais"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "01e7e9d6e2c2",
       "title": "【アズールプロミリア】輝くコインの効率的な稼ぎ方とおすすめ交換先【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80588623",
@@ -847,7 +847,7 @@
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-26T10:43:05.000Z",
+      "publishedAt": "2026-11-26T10:43:00.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/191943_78tuc.webp",
       "scope": "main",
       "categories": [
@@ -1101,23 +1101,6 @@
       "isNew": false
     },
     {
-      "id": "17307dc45248",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EcWdXXzBrcDN1UXN2T0dJeS13NzNBeVE4TEFCSEtKUTNCck5XYUNEMUg4NDk2VEFjd2oyeEdhTFpKdlhTeEdiUHd6R203YTZTWVpmVnVvSEI0YjhLNE9aeFRscllEMEEyc3lnUkJXM093RFZCVjdZeDNOdkVtZ9IBgwFBVV95cUxNNVNESnhIa01FVjI4T1FpUWRMc1VPM19QUnZaWjlSQ3E5YzNlUzAtakU4cDhXTzFsempteEtBMm5IbkhzZlVJQ052UDlSQ3Q3OTl2cUVIUERZUWZCSkQ4Rl9RTkR0QXpqNVJZVHBwWVYxWlpXWThlLUtfRlk2bEktYkhlTQ?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:43:26.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "event"
-      ],
-      "charas": [],
-      "viaGoogle": true,
-      "isNew": false
-    },
-    {
       "id": "f4e0f199c1d8",
       "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOY9IBgwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOYw?oc=5",
@@ -1136,13 +1119,30 @@
     },
     {
       "id": "ab40ec7ccd27",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売",
       "url": "https://www.tetsudo.com/event/62628/",
+      "host": "tetsudo.com",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:04:00.000Z",
+      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "17307dc45248",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ（2026年12月20日）",
+      "url": "https://www.tetsudo.com/event/62629/",
       "host": "tetsudo.com",
       "source": "Tetsudo.com（鉄道コム）",
       "summary": "",
       "publishedAt": "2026-11-26T05:04:00.000Z",
-      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
+      "image": "",
       "scope": "series",
       "categories": [
         "event"
@@ -1235,7 +1235,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "869526ec6c70",
@@ -1462,7 +1462,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "929205e73450",
@@ -1479,7 +1479,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d5f21c23e35",
@@ -1496,7 +1496,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dd4f5d60a258",
@@ -1513,7 +1513,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
@@ -1623,6 +1623,24 @@
       "isNew": false
     },
     {
+      "id": "cefa805184af",
+      "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！",
+      "url": "https://gamewith.jp/gamedb/2353/articles/66203",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:07:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/2353/rectangle/66203.png?t=1795590454",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "a8fb95a84870",
       "title": "ALTER『アズールレーン』ポーラ＆ザラ 1/7スケールフィギュアが登場！胸を寄せ合うサディアの姉妹艦を再現",
       "url": "https://www.toy-people.com/jp/?p=116810",
@@ -1655,7 +1673,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22b235449a91",
