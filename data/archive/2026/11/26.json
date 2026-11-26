@@ -1,5 +1,52 @@
 [
  {
+  "id": "12afdd0eb6f5",
+  "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593480",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T10:13:41.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "08224c7e1009",
+  "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593486",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T10:07:24.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "pei-pei"
+  ]
+ },
+ {
+  "id": "11467e3859df",
+  "title": "『アズレン』開発元の新作『アズールプロミリア』韓国で配信開始。不思議な生き物と冒険や農業を楽しめるRPG",
+  "url": "https://dengekionline.com/article/202611/95187",
+  "host": "dengekionline.com",
+  "source": "電撃オンライン",
+  "summary": "",
+  "publishedAt": "2026-11-26T10:00:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/95187/ogp_DPit.jpg?x=1280",
+  "scope": "main",
+  "categories": [
+   "release"
+  ],
+  "charas": []
+ },
+ {
   "id": "deee4305434a",
   "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593498",
@@ -30,6 +77,21 @@
   "charas": [
    "terara"
   ]
+ },
+ {
+  "id": "22f0ef8c6ce1",
+  "title": "『アズールプロミリア』がMVNOサービス「LinksMate」のカウントフリーオプション対象コンテンツとして2026年11月26日（木）より追加！",
+  "url": "https://prtimes.jp/main/html/rd/p/000000368.000025608.html",
+  "host": "prtimes.jp",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-11-26T09:46:00.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/25608/368/25608-368-8633a59453ecc02ac72631b3612960de-650x366.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "scope": "main",
+  "categories": [
+   "update"
+  ],
+  "charas": []
  },
  {
   "id": "24f346f904bb",
@@ -412,21 +474,6 @@
   "charas": []
  },
  {
-  "id": "22f0ef8c6ce1",
-  "title": "『アズールプロミリア』がMVNOサービス「LinksMate」のカウントフリーオプション対象コンテンツとして2026年11月26日（木）より追加！",
-  "url": "https://prtimes.jp/main/html/rd/p/000000368.000025608.html",
-  "host": "prtimes.jp",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-11-26T07:25:31.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/25608/368/25608-368-8633a59453ecc02ac72631b3612960de-650x366.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-  "scope": "main",
-  "categories": [
-   "update"
-  ],
-  "charas": []
- },
- {
   "id": "120368d91d7e",
   "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593456",
@@ -457,45 +504,13 @@
   "charas": []
  },
  {
-  "id": "12afdd0eb6f5",
-  "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593480",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T07:10:45.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "08224c7e1009",
-  "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593486",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T07:04:43.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "pei-pei"
-  ]
- },
- {
   "id": "a2765cb4baa6",
   "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576284",
   "host": "appmedia.jp",
   "source": "AppMedia",
   "summary": "",
-  "publishedAt": "2026-11-26T06:51:00.000Z",
+  "publishedAt": "2026-11-26T06:51:19.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
   "scope": "main",
   "categories": [
@@ -570,7 +585,7 @@
  },
  {
   "id": "d0796d9fb178",
-  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 2枚目の写真・画像",
+  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
   "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
   "host": "gamespark.jp",
   "source": "Game*Spark",
