@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T23:00:22.691Z",
+  "updatedAt": "2026-11-26T23:30:21.069Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -218,7 +218,7 @@
       ],
       "members": [
         {
-          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 2枚目の写真・画像",
+          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
           "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
           "source": "Game*Spark",
           "publishedAt": "2026-11-26T06:00:03.000Z",
@@ -239,7 +239,7 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1811771.png"
         }
       ],
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 2枚目の写真・画像",
+      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
       "summary": "",
       "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1223666.png",
@@ -315,6 +315,52 @@
           "url": "https://panora.tokyo/archives/164768",
           "source": "PANORA",
           "publishedAt": "2026-11-26T08:53:28.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "a2765cb4baa6",
+      "key": "dc769ffb7bcf",
+      "firstAt": "2026-11-26T03:58:00.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80576284",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T06:51:00.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp"
+        },
+        {
+          "title": "「アズールプロミリア」が正式サービス開始！★5キャラクターが必ず獲得できる初心者ガチャをはじめとしたキャンペーンが開催中",
+          "url": "https://www.gamer.ne.jp/news/202611260013/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-26T03:58:00.000Z",
+          "image": ""
+        }
+      ],
+      "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+      "summary": "",
+      "url": "https://appmedia.jp/azurpromilia/80576284",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "keywords": [
+        "ガチャ"
+      ],
+      "articles": [
+        {
+          "title": "「アズールプロミリア」が正式サービス開始！★5キャラクターが必ず獲得できる初心者ガチャをはじめとしたキャンペーンが開催中",
+          "url": "https://www.gamer.ne.jp/news/202611260013/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-26T03:58:00.000Z",
           "isPR": false
         }
       ]
@@ -415,6 +461,78 @@
     }
   ],
   "items": [
+    {
+      "id": "dcb56c552e95",
+      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593471",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:27:13.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "shalle"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "7ffc8a734b95",
+      "title": "【アズールプロミリア】キャラ一覧と立ち絵【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80572825",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:25:12.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "a2d1a000dc0f",
+      "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593510",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:07:11.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "anais"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T23:07:11.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
     {
       "id": "12afdd0eb6f5",
       "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
@@ -645,42 +763,6 @@
       "isNew": false
     },
     {
-      "id": "dcb56c552e95",
-      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593471",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T20:36:06.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "shalle"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "120368d91d7e",
-      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593456",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T19:55:57.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "ad1c016ef06e",
       "title": "【アズールプロミリア】ルビーナの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593477",
@@ -747,25 +829,6 @@
         "guide"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "e112c62de973",
-      "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593474",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T18:35:42.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "abby"
-      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -1065,6 +1128,24 @@
       "isNew": false
     },
     {
+      "id": "a2765cb4baa6",
+      "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80576284",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "5ebbbf125435",
       "title": "『アズレン』Manjuu Gamesの新作オープンワールドRPG『アズールプロミリア』が配信開始。さまざまな種族が息づくファンタジー世界を舞台に、不思議な生き物「キボ」ととも冒険に繰り出す。",
       "url": "https://news.nicovideo.jp/watch/nw20034274?news_ref=watch_70_nw19619325",
@@ -1100,7 +1181,7 @@
     },
     {
       "id": "d0796d9fb178",
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 2枚目の写真・画像",
+      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
       "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
@@ -1431,6 +1512,23 @@
       "isNew": false
     },
     {
+      "id": "4b5a5a62eaf5",
+      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80597518",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:41:38.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "cf82afbdcc07",
       "title": "『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
       "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
@@ -1464,6 +1562,24 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "173e60cf2537",
+      "title": "叡山電車とアニメ「アズールレーン びそくぜんしんっ！にっ！！」がコラボ",
+      "url": "https://www.wowkorea.jp/woman/read/165971.html",
+      "host": "wowkorea.jp",
+      "source": "wowKorea",
+      "summary": "",
+      "publishedAt": "2026-11-26T01:00:00.000Z",
+      "image": "https://www.wowkorea.jp/img/topic/33/165971/326866_1280W.jpg",
+      "scope": "series",
+      "categories": [
+        "event",
+        "pv"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "bf38d1c94ea8",
@@ -1536,6 +1652,41 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "cfab3c93d9d6",
+      "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80550070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "campaign"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "567cecee2efe",
+      "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587363",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "cefa805184af",

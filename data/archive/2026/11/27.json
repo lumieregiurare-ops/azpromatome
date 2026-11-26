@@ -1,5 +1,69 @@
 [
  {
+  "id": "dcb56c552e95",
+  "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593471",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T23:27:13.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "shalle"
+  ]
+ },
+ {
+  "id": "7ffc8a734b95",
+  "title": "【アズールプロミリア】キャラ一覧と立ち絵【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80572825",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T23:25:12.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "120368d91d7e",
+  "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593456",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T23:07:11.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "a2d1a000dc0f",
+  "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593510",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T23:07:11.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "anais"
+  ]
+ },
+ {
   "id": "12afdd0eb6f5",
   "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593480",
@@ -220,38 +284,6 @@
   "charas": []
  },
  {
-  "id": "dcb56c552e95",
-  "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593471",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T20:36:06.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "shalle"
-  ]
- },
- {
-  "id": "120368d91d7e",
-  "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593456",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T19:55:57.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
   "id": "ad1c016ef06e",
   "title": "【アズールプロミリア】ルビーナの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593477",
@@ -362,23 +394,6 @@
   ],
   "charas": [
    "pengpeng"
-  ]
- },
- {
-  "id": "a2d1a000dc0f",
-  "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593510",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T17:07:30.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "anais"
   ]
  },
  {
