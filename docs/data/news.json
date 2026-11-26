@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:30:20.502Z",
+  "updatedAt": "2026-11-26T00:00:21.307Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -179,7 +179,7 @@
         "anais"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9f65550716c",
@@ -320,7 +320,7 @@
         "pei-pei"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cfab3c93d9d6",
@@ -413,14 +413,14 @@
       "isNew": false
     },
     {
-      "id": "fd0deb10ecd4",
-      "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587459",
+      "id": "efdba8bed329",
+      "title": "【アズールプロミリア】支援のキャラ評価一覧【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80574721",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
+      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
       "scope": "main",
       "categories": [
         "guide"
@@ -430,14 +430,14 @@
       "isNew": false
     },
     {
-      "id": "efdba8bed329",
-      "title": "【アズールプロミリア】支援のキャラ評価一覧【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80574721",
+      "id": "fd0deb10ecd4",
+      "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587459",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -585,25 +585,6 @@
       "isNew": false
     },
     {
-      "id": "291463c72ed5",
-      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593489",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "lan-xiangzi"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "01d7bdd32e02",
       "title": "【アズールプロミリア】ミィティの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593504",
@@ -743,6 +724,25 @@
       ],
       "charas": [
         "terara"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "291463c72ed5",
+      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593489",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "lan-xiangzi"
       ],
       "viaGoogle": false,
       "isNew": false
