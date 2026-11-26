@@ -1,5 +1,100 @@
 [
  {
+  "id": "ad48573e5ee2",
+  "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593519",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T14:56:43.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "tushan-xiaoyu"
+  ]
+ },
+ {
+  "id": "fd7251ae161a",
+  "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593462",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T14:50:46.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "80bf5f7dc7cb",
+  "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593507",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T14:40:46.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "dcb56c552e95",
+  "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593471",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T14:34:39.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "shalle"
+  ]
+ },
+ {
+  "id": "b13c583cbe4b",
+  "title": "【アズールプロミリア】星識レベルの効率的な上げ方とコツ【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80561548",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T14:34:38.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/142305_61j5m.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "600657251a2f",
+  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80596903",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T14:31:14.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
   "id": "120368d91d7e",
   "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593456",
@@ -192,21 +287,6 @@
   ]
  },
  {
-  "id": "fd7251ae161a",
-  "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593462",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T11:39:53.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
   "id": "26bc6bca7ab7",
   "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593459",
@@ -256,21 +336,6 @@
   "charas": []
  },
  {
-  "id": "b13c583cbe4b",
-  "title": "【アズールプロミリア】星識レベルの効率的な上げ方とコツ【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80561548",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T11:25:44.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/142305_61j5m.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
   "id": "b58e0ee11516",
   "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593468",
@@ -284,40 +349,6 @@
    "guide"
   ],
   "charas": []
- },
- {
-  "id": "ad48573e5ee2",
-  "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593519",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T11:22:11.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "tushan-xiaoyu"
-  ]
- },
- {
-  "id": "dcb56c552e95",
-  "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593471",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T11:19:43.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "shalle"
-  ]
  },
  {
   "id": "a2d1a000dc0f",
@@ -659,7 +690,7 @@
  },
  {
   "id": "d0796d9fb178",
-  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
+  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 2枚目の写真・画像",
   "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
   "host": "gamespark.jp",
   "source": "Game*Spark",
@@ -1220,22 +1251,6 @@
   "scope": "main",
   "categories": [
    "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "600657251a2f",
-  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80596903",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T02:00:00.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
   ],
   "charas": []
  },
