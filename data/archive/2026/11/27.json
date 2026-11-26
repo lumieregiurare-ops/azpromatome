@@ -1,5 +1,37 @@
 [
  {
+  "id": "1e9ef021b1aa",
+  "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593492",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T17:13:27.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "pengpeng"
+  ]
+ },
+ {
+  "id": "ad1c016ef06e",
+  "title": "【アズールプロミリア】ルビーナの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593477",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T17:09:32.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "120368d91d7e",
   "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593456",
@@ -58,6 +90,21 @@
   "scope": "main",
   "categories": [
    "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "f834c69c8efc",
+  "title": "『アズールプロミリア』、韓国で本日より配信開始",
+  "url": "https://gamehack.jp/387892/",
+  "host": "gamehack.jp",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-26T16:30:19.000Z",
+  "image": "https://prtimes.jp/common/pc_v4/og.png",
+  "scope": "main",
+  "categories": [
+   "release"
   ],
   "charas": []
  },
