@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:30:24.340Z",
+  "updatedAt": "2026-11-26T09:00:20.851Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -207,7 +207,7 @@
           "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
           "url": "https://appmedia.jp/azurpromilia/80576284",
           "source": "AppMedia",
-          "publishedAt": "2026-11-26T06:51:19.000Z",
+          "publishedAt": "2026-11-26T06:51:00.000Z",
           "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp"
         },
         {
@@ -223,7 +223,7 @@
       "url": "https://appmedia.jp/azurpromilia/80576284",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
       "leadSource": "AppMedia",
-      "publishedAt": "2026-11-26T06:51:19.000Z",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -389,6 +389,96 @@
   ],
   "items": [
     {
+      "id": "8eca3de0bb22",
+      "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
+      "url": "https://panora.tokyo/archives/164768",
+      "host": "panora.tokyo",
+      "source": "panora.tokyo",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:53:28.000Z",
+      "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/26175302/58021-60-400b068e79e99d568366cc731d564b89-1200x675-1.webp",
+      "scope": "main",
+      "categories": [
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "291463c72ed5",
+      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593489",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:53:01.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "lan-xiangzi"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "26bc6bca7ab7",
+      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593459",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:43:01.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "metsa"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "fd7251ae161a",
+      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593462",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:36:58.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "a82b9f942448",
+      "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80590888",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:28:55.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "b7e80f49c8f4",
       "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593516",
@@ -481,6 +571,25 @@
       "isNew": false
     },
     {
+      "id": "dcb56c552e95",
+      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593471",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:09:06.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "shalle"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "4e70349276b6",
       "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80572825",
@@ -495,7 +604,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2d1a000dc0f",
@@ -680,7 +789,7 @@
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-26T06:51:19.000Z",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
       "scope": "main",
       "categories": [
@@ -743,6 +852,25 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "1e9ef021b1aa",
+      "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593492",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:24:41.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "pengpeng"
+      ],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "e112c62de973",
@@ -870,25 +998,6 @@
       "isNew": false
     },
     {
-      "id": "291463c72ed5",
-      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593489",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:52:28.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "lan-xiangzi"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "17307dc45248",
       "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EcWdXXzBrcDN1UXN2T0dJeS13NzNBeVE4TEFCSEtKUTNCck5XYUNEMUg4NDk2VEFjd2oyeEdhTFpKdlhTeEdiUHd6R203YTZTWVpmVnVvSEI0YjhLNE9aeFRscllEMEEyc3lnUkJXM093RFZCVjdZeDNOdkVtZ9IBgwFBVV95cUxNNVNESnhIa01FVjI4T1FpUWRMc1VPM19QUnZaWjlSQ3E5YzNlUzAtakU4cDhXTzFsempteEtBMm5IbkhzZlVJQ052UDlSQ3Q3OTl2cUVIUERZUWZCSkQ4Rl9RTkR0QXpqNVJZVHBwWVYxWlpXWThlLUtfRlk2bEktYkhlTQ?oc=5",
@@ -903,42 +1012,6 @@
       ],
       "charas": [],
       "viaGoogle": true,
-      "isNew": false
-    },
-    {
-      "id": "fd7251ae161a",
-      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593462",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:32:35.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "26bc6bca7ab7",
-      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593459",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:28:23.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "metsa"
-      ],
-      "viaGoogle": false,
       "isNew": false
     },
     {
@@ -972,43 +1045,6 @@
         "event"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a82b9f942448",
-      "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80590888",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:02:44.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "dcb56c552e95",
-      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593471",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T04:56:24.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "shalle"
-      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -1275,6 +1311,40 @@
       "isNew": false
     },
     {
+      "id": "929205e73450",
+      "title": "画像ページ[48/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688898",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:39:44.000Z",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image54-108",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "dd4f5d60a258",
+      "title": "画像ページ[68/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688938",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:39:41.000Z",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image9-1672",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "cf82afbdcc07",
       "title": "『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
       "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
@@ -1417,6 +1487,41 @@
       "isNew": false
     },
     {
+      "id": "db336352e9a3",
+      "title": "【アズールプロミリア】キャラクリのやり方と外見の変更方法【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588590",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/133216_iprgm.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "cefa805184af",
+      "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！",
+      "url": "https://gamewith.jp/gamedb/2353/articles/66203",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-25T07:07:27.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/2353/rectangle/66203.png?t=1795590454",
+      "scope": "series",
+      "categories": [
+        "guide",
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "a8fb95a84870",
       "title": "ALTER『アズールレーン』ポーラ＆ザラ 1/7スケールフィギュアが登場！胸を寄せ合うサディアの姉妹艦を再現",
       "url": "https://www.toy-people.com/jp/?p=116810",
@@ -1432,6 +1537,24 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "f0db192d4863",
+      "title": "「アズレン」モロトフ、シノープら北方連合所属艦船が追加！インペラトリッツァ・マリーヤなどが報酬のイベント「真理学園の転校生」も",
+      "url": "https://www.gamer.ne.jp/news/202611250009/image/12/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-11-25T04:20:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "22b235449a91",
