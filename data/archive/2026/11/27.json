@@ -1,5 +1,54 @@
 [
  {
+  "id": "ea90897c1f8f",
+  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587528",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T18:19:38.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "291463c72ed5",
+  "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593489",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T18:03:41.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "lan-xiangzi"
+  ]
+ },
+ {
+  "id": "ad48573e5ee2",
+  "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593519",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T17:57:35.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "tushan-xiaoyu"
+  ]
+ },
+ {
   "id": "fd7251ae161a",
   "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593462",
@@ -125,6 +174,23 @@
    "guide"
   ],
   "charas": []
+ },
+ {
+  "id": "a2d1a000dc0f",
+  "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593510",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T17:07:30.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "anais"
+  ]
  },
  {
   "id": "120368d91d7e",
@@ -297,37 +363,5 @@
    "guide"
   ],
   "charas": []
- },
- {
-  "id": "ea90897c1f8f",
-  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80587528",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T15:18:50.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "291463c72ed5",
-  "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593489",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T15:05:03.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "lan-xiangzi"
-  ]
  }
 ]
