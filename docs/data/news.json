@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:25:29.905Z",
+  "updatedAt": "2026-11-26T03:00:22.882Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -147,6 +147,76 @@
   ],
   "items": [
     {
+      "id": "61f6c5a33def",
+      "title": "『アズールプロミリア』先行プレイで感じた“理想の異世界生活”。好きな女の子と冒険して、かわいい動物を相棒にして、華麗にバトルして。もうここに住みます",
+      "url": "https://www.famitsu.com/article/202611/93015",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:46:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93015/thumbnail_AtHE.jpg?x=1280",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "2c0cc4dc9caa",
+      "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！ SSR「モロトフ」「シノープ」ら北方連合所属艦船が新規実装！",
+      "url": "https://www.akiba-plus.com/?p=159280",
+      "host": "akiba-plus.com",
+      "source": "秋葉原ＰＬＵＳ",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:45:09.000Z",
+      "image": "https://www.akiba-plus.com/wp-content/uploads/2026/11/zp_1-3.png",
+      "scope": "series",
+      "categories": [
+        "event",
+        "update"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "d4e220712281",
+      "title": "【プレイレビュー】『アズールプロミリア』配信開始！魅力的な美少女キャラ＆キボと壮大なファンタジー世界を大冒険しよう",
+      "url": "https://gamewith.jp/gamedb/10871/articles/66261",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:39:05.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/66261.png?t=1795661925",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "cf82afbdcc07",
+      "title": "『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:24:00.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image47-1.jpg",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "ad48573e5ee2",
       "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593519",
@@ -166,31 +236,13 @@
       "isNew": false
     },
     {
-      "id": "600657251a2f",
-      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80596903",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T01:55:58.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
       "id": "42f36feb4e36",
-      "title": "TVアニメ『アズールレーン びそくぜんしんっ！にっ！！』との コラボ企画を実施します",
+      "title": "TVアニメ『アズールレーン びそくぜんしんっ！にっ！！』とのコラボ企画を実施します",
       "url": "https://news.nicovideo.jp/watch/nw20032966?news_ref=search_search",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "osaka style",
       "summary": "",
-      "publishedAt": "2026-11-26T01:09:40.000Z",
+      "publishedAt": "2026-11-26T01:33:16.000Z",
       "image": "",
       "scope": "series",
       "categories": [
@@ -274,6 +326,24 @@
       "isNew": false
     },
     {
+      "id": "600657251a2f",
+      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80596903",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T13:19:17.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "327e2c1eb2cb",
       "title": "『ゼンゼロ』浅羽悠真や『アズレン』カウベンス、『メダリスト』狼嵜光、『FGO』ナッちゃん（キジムナー）、メタロトン・ジャンヌ、妖精騎士ランスロットなど！「となりのモケイフェスティバル10」フォトレポート④",
       "url": "https://hobby.dengeki.com/event/3243843/",
@@ -328,9 +398,9 @@
       "isNew": false
     },
     {
-      "id": "08224c7e1009",
-      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593486",
+      "id": "26bc6bca7ab7",
+      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593459",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
@@ -341,7 +411,7 @@
         "guide"
       ],
       "charas": [
-        "pei-pei"
+        "metsa"
       ],
       "viaGoogle": false,
       "isNew": false
@@ -364,9 +434,9 @@
       "isNew": false
     },
     {
-      "id": "12afdd0eb6f5",
-      "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593480",
+      "id": "08224c7e1009",
+      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593486",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
@@ -376,7 +446,9 @@
       "categories": [
         "guide"
       ],
-      "charas": [],
+      "charas": [
+        "pei-pei"
+      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -398,40 +470,19 @@
       "isNew": false
     },
     {
-      "id": "c4624202b55f",
-      "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593465",
+      "id": "7747b2d15860",
+      "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587429",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
       "scope": "main",
       "categories": [
         "guide"
       ],
-      "charas": [
-        "faridah"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "26bc6bca7ab7",
-      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593459",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "metsa"
-      ],
+      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -455,6 +506,23 @@
       "isNew": false
     },
     {
+      "id": "12afdd0eb6f5",
+      "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593480",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "dcb56c552e95",
       "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593471",
@@ -474,19 +542,21 @@
       "isNew": false
     },
     {
-      "id": "7747b2d15860",
-      "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587429",
+      "id": "e112c62de973",
+      "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593474",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
+      "image": "",
       "scope": "main",
       "categories": [
         "guide"
       ],
-      "charas": [],
+      "charas": [
+        "abby"
+      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -559,9 +629,28 @@
       "isNew": false
     },
     {
-      "id": "120368d91d7e",
-      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "id": "c4624202b55f",
+      "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593465",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "faridah"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ad1c016ef06e",
+      "title": "【アズールプロミリア】ルビーナの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593477",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
@@ -573,7 +662,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "24f346f904bb",
@@ -720,25 +809,6 @@
       "isNew": false
     },
     {
-      "id": "e112c62de973",
-      "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593474",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "abby"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "7975d8bc0c6c",
       "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80565607",
@@ -792,6 +862,23 @@
       "isNew": false
     },
     {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "a82b9f942448",
       "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80590888",
@@ -804,23 +891,6 @@
       "categories": [
         "guide",
         "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "4e70349276b6",
-      "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80572825",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -839,24 +909,6 @@
       "categories": [
         "guide",
         "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "cefa805184af",
-      "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！",
-      "url": "https://gamewith.jp/gamedb/2353/articles/66203",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T07:07:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/2353/rectangle/66203.png?t=1795590454",
-      "scope": "series",
-      "categories": [
-        "guide",
-        "event"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -886,7 +938,7 @@
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-11-25T04:20:00.000Z",
+      "publishedAt": "2026-11-25T04:31:30.000Z",
       "image": "",
       "scope": "series",
       "categories": [
