@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:00:20.035Z",
+  "updatedAt": "2026-11-26T14:30:24.356Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -343,7 +343,7 @@
           "title": "「アズールプロミリア」かわいい美少女×かわいいキボで，かわいいの爆盛り！ 遊びの要素が多すぎて一生終わる気がしない大冒険へ【PR】",
           "url": "https://www.4gamer.net/games/784/G078487/20261106032/",
           "source": "4Gamer.net",
-          "publishedAt": "2026-11-26T03:43:00.000Z",
+          "publishedAt": "2026-11-26T03:43:37.000Z",
           "image": "https://www.4gamer.net/games/784/G078487/20261106032/SS/038.jpg"
         },
         {
@@ -359,7 +359,7 @@
       "url": "https://www.4gamer.net/games/784/G078487/20261106032/",
       "image": "https://www.4gamer.net/games/784/G078487/20261106032/SS/038.jpg",
       "leadSource": "4Gamer.net",
-      "publishedAt": "2026-11-26T03:43:00.000Z",
+      "publishedAt": "2026-11-26T03:43:37.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -429,6 +429,23 @@
     }
   ],
   "items": [
+    {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T14:00:22.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
     {
       "id": "01d7bdd32e02",
       "title": "【アズールプロミリア】ミィティの評価とおすすめ編成・装備【アズプロ】",
@@ -843,23 +860,6 @@
       "isNew": false
     },
     {
-      "id": "120368d91d7e",
-      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593456",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T10:00:16.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "11467e3859df",
       "title": "『アズレン』開発元の新作『アズールプロミリア』韓国で配信開始。不思議な生き物と冒険や農業を楽しめるRPG",
       "url": "https://dengekionline.com/article/202611/95187",
@@ -1264,7 +1264,7 @@
       "host": "4gamer.net",
       "source": "4Gamer.net",
       "summary": "",
-      "publishedAt": "2026-11-26T03:43:00.000Z",
+      "publishedAt": "2026-11-26T03:43:37.000Z",
       "image": "https://www.4gamer.net/games/784/G078487/20261106032/SS/038.jpg",
       "scope": "main",
       "categories": [
@@ -1307,7 +1307,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e77ef8b69a7c",
@@ -1430,7 +1430,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4b5a5a62eaf5",
@@ -1447,7 +1447,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
@@ -1558,23 +1558,6 @@
       "isNew": false
     },
     {
-      "id": "a9f65550716c",
-      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80549752",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T11:09:10.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "327e2c1eb2cb",
       "title": "『ゼンゼロ』浅羽悠真や『アズレン』カウベンス、『メダリスト』狼嵜光、『FGO』ナッちゃん（キジムナー）、メタロトン・ジャンヌ、妖精騎士ランスロットなど！「となりのモケイフェスティバル10」フォトレポート④",
       "url": "https://hobby.dengeki.com/event/3243843/",
@@ -1592,41 +1575,6 @@
       "isNew": false
     },
     {
-      "id": "cfab3c93d9d6",
-      "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80550070",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "7975d8bc0c6c",
-      "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565607",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/125341_2efc4.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
       "id": "cefa805184af",
       "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！",
       "url": "https://gamewith.jp/gamedb/2353/articles/66203",
@@ -1642,7 +1590,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a8fb95a84870",
