@@ -1,5 +1,102 @@
 [
  {
+  "id": "b7e80f49c8f4",
+  "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593516",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:24:56.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "maple"
+  ]
+ },
+ {
+  "id": "c4624202b55f",
+  "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593465",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:23:01.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "faridah"
+  ]
+ },
+ {
+  "id": "b58e0ee11516",
+  "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593468",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:22:55.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "ad48573e5ee2",
+  "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593519",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:19:02.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "tushan-xiaoyu"
+  ]
+ },
+ {
+  "id": "600657251a2f",
+  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80596903",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:12:46.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "4e70349276b6",
+  "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80572825",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:08:54.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "a2d1a000dc0f",
   "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593510",
@@ -411,22 +508,6 @@
   ]
  },
  {
-  "id": "600657251a2f",
-  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80596903",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T05:13:53.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
-  ],
-  "charas": []
- },
- {
   "id": "ab40ec7ccd27",
   "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
   "url": "https://www.tetsudo.com/event/62628/",
@@ -473,23 +554,6 @@
   "charas": []
  },
  {
-  "id": "b7e80f49c8f4",
-  "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593516",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T05:00:37.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "maple"
-  ]
- },
- {
   "id": "dcb56c552e95",
   "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593471",
@@ -507,38 +571,6 @@
   ]
  },
  {
-  "id": "b58e0ee11516",
-  "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593468",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T04:56:16.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "c4624202b55f",
-  "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593465",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T04:56:13.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "faridah"
-  ]
- },
- {
   "id": "730f7bdbc852",
   "title": "Nexon、韓国で「Azur Promilia」正式サービス開始",
   "url": "https://www.digitaltoday.co.kr/jp/view/131257/nexon-launches-new-rpg-azur-promilia-in-south-korea",
@@ -552,23 +584,6 @@
    "release"
   ],
   "charas": []
- },
- {
-  "id": "ad48573e5ee2",
-  "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593519",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T04:52:49.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "tushan-xiaoyu"
-  ]
  },
  {
   "id": "a06030189c14",
@@ -1001,21 +1016,6 @@
   "charas": [
    "anais"
   ]
- },
- {
-  "id": "4e70349276b6",
-  "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80572825",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-25T21:17:55.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
  },
  {
   "id": "d4e220712281",
