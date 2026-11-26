@@ -1,5 +1,69 @@
 [
  {
+  "id": "12afdd0eb6f5",
+  "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593480",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T13:20:20.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "08224c7e1009",
+  "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593486",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T13:16:18.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "pei-pei"
+  ]
+ },
+ {
+  "id": "cfd246e163c8",
+  "title": "【アズールプロミリア】テララの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593501",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T13:02:15.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "terara"
+  ]
+ },
+ {
+  "id": "deee4305434a",
+  "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593498",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T13:00:12.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "24f346f904bb",
   "title": "【アズールプロミリア】リリィの評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593495",
@@ -333,38 +397,6 @@
   "charas": []
  },
  {
-  "id": "12afdd0eb6f5",
-  "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593480",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T10:13:41.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "08224c7e1009",
-  "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593486",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T10:07:24.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "pei-pei"
-  ]
- },
- {
   "id": "120368d91d7e",
   "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593456",
@@ -393,38 +425,6 @@
    "release"
   ],
   "charas": []
- },
- {
-  "id": "deee4305434a",
-  "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593498",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T09:56:26.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "cfd246e163c8",
-  "title": "【アズールプロミリア】テララの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593501",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T09:56:18.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "terara"
-  ]
  },
  {
   "id": "22f0ef8c6ce1",
@@ -601,7 +601,7 @@
   "host": "appmedia.jp",
   "source": "AppMedia",
   "summary": "",
-  "publishedAt": "2026-11-26T06:51:19.000Z",
+  "publishedAt": "2026-11-26T06:51:00.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
   "scope": "main",
   "categories": [
@@ -659,7 +659,7 @@
  },
  {
   "id": "d0796d9fb178",
-  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
+  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 2枚目の写真・画像",
   "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
   "host": "gamespark.jp",
   "source": "Game*Spark",
@@ -783,6 +783,22 @@
   "id": "869526ec6c70",
   "title": "幻想的な生きもの「キボ」と旅するRPG「アズールプロミリア」，正式サービスを開始。リリース記念イベントも多数開催",
   "url": "https://www.4gamer.net/games/784/G078489/20261126013/",
+  "host": "4gamer.net",
+  "source": "4Gamer.net",
+  "summary": "",
+  "publishedAt": "2026-11-26T03:59:21.000Z",
+  "image": "https://www.4gamer.net/games/784/G078489/20261126013/SS/001.jpg",
+  "scope": "main",
+  "categories": [
+   "campaign",
+   "event"
+  ],
+  "charas": []
+ },
+ {
+  "id": "eed28ae9fa9c",
+  "title": "Page 2 / 幻想的な生きもの「キボ」と旅するRPG「アズールプロミリア」，正式サービスを開始。リリース記念イベントも多数開催",
+  "url": "https://www.4gamer.net/games/784/G078489/20261126013/index_2.html",
   "host": "4gamer.net",
   "source": "4Gamer.net",
   "summary": "",
