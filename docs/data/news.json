@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:30:19.035Z",
+  "updatedAt": "2026-11-26T06:00:18.564Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -299,6 +299,78 @@
   ],
   "items": [
     {
+      "id": "291463c72ed5",
+      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593489",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:52:28.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "lan-xiangzi"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "17307dc45248",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EcWdXXzBrcDN1UXN2T0dJeS13NzNBeVE4TEFCSEtKUTNCck5XYUNEMUg4NDk2VEFjd2oyeEdhTFpKdlhTeEdiUHd6R203YTZTWVpmVnVvSEI0YjhLNE9aeFRscllEMEEyc3lnUkJXM093RFZCVjdZeDNOdkVtZ9IBgwFBVV95cUxNNVNESnhIa01FVjI4T1FpUWRMc1VPM19QUnZaWjlSQ3E5YzNlUzAtakU4cDhXTzFsempteEtBMm5IbkhzZlVJQ052UDlSQ3Q3OTl2cUVIUERZUWZCSkQ4Rl9RTkR0QXpqNVJZVHBwWVYxWlpXWThlLUtfRlk2bEktYkhlTQ?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:43:26.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": true,
+      "isNew": true
+    },
+    {
+      "id": "fd7251ae161a",
+      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593462",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:32:35.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "26bc6bca7ab7",
+      "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593459",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:28:23.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "metsa"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "600657251a2f",
       "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80596903",
@@ -317,6 +389,23 @@
       "isNew": false
     },
     {
+      "id": "f4e0f199c1d8",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMTNIV1RZVTA2Ykd3M3RWYmhOVWk5Ui1NMDl3TTEyRzk0RWhfcDJwT29qU1paTERzRXZURTBkSFVsaDlTdGJfak45dnBNX2NTV1BQYjU5SkQ0bHpuNlBQcU1pcmt3RlpjQ0hEX29TdllRallObUhXNmVJc0RDd9IBgwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOYw?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:04:00.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": true,
+      "isNew": true
+    },
+    {
       "id": "ab40ec7ccd27",
       "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
       "url": "https://www.tetsudo.com/event/62628/",
@@ -331,7 +420,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a82b9f942448",
@@ -423,7 +512,26 @@
         "faridah"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "ad48573e5ee2",
+      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593519",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T04:52:49.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "tushan-xiaoyu"
+      ],
+      "viaGoogle": false,
+      "isNew": false
     },
     {
       "id": "a2d1a000dc0f",
@@ -510,7 +618,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "869526ec6c70",
@@ -773,7 +881,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dd4f5d60a258",
@@ -823,25 +931,6 @@
         "guide"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ad48573e5ee2",
-      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593519",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:17:36.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "tushan-xiaoyu"
-      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -955,23 +1044,6 @@
       "isNew": false
     },
     {
-      "id": "fd7251ae161a",
-      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593462",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "7747b2d15860",
       "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80587429",
@@ -1075,7 +1147,7 @@
         "mitty"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "24f346f904bb",
@@ -1106,6 +1178,24 @@
       "scope": "main",
       "categories": [
         "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "cfab3c93d9d6",
+      "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80550070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "campaign"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1144,43 +1234,6 @@
       "charas": [
         "terara"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "291463c72ed5",
-      "title": "【アズールプロミリア】寒悠悠の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593489",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "lan-xiangzi"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "cfab3c93d9d6",
-      "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80550070",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "campaign"
-      ],
-      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
