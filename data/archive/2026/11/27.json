@@ -1,5 +1,37 @@
 [
  {
+  "id": "c3404e51a7af",
+  "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80565070",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T21:54:24.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "e112c62de973",
+  "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593474",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T21:44:33.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "abby"
+  ]
+ },
+ {
   "id": "b13c583cbe4b",
   "title": "【アズールプロミリア】星識レベルの効率的な上げ方とコツ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80561548",
@@ -267,38 +299,6 @@
    "guide"
   ],
   "charas": []
- },
- {
-  "id": "c3404e51a7af",
-  "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80565070",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T18:43:46.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "e112c62de973",
-  "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593474",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T18:35:42.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "abby"
-  ]
  },
  {
   "id": "ea90897c1f8f",
