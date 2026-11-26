@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:00:20.851Z",
+  "updatedAt": "2026-11-26T09:30:19.631Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -389,6 +389,76 @@
   ],
   "items": [
     {
+      "id": "18b417f3ea5e",
+      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593483",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:19:22.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "cathbelle"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "c3404e51a7af",
+      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:19:06.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "03289dac406a",
+      "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80576362",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:15:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ea90897c1f8f",
+      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587528",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:11:33.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "8eca3de0bb22",
       "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
       "url": "https://panora.tokyo/archives/164768",
@@ -403,7 +473,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "291463c72ed5",
@@ -870,7 +940,7 @@
         "pengpeng"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e112c62de973",
@@ -909,25 +979,6 @@
       "isNew": false
     },
     {
-      "id": "18b417f3ea5e",
-      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593483",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T06:16:32.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "cathbelle"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "28787f1fb93c",
       "title": "『アズールプロミリア』配信開始。『アズレン』Manjuu Gamesの新作オープンワールドファンタジーRPG",
       "url": "https://news.denfaminicogamer.jp/news/2611262j",
@@ -939,40 +990,6 @@
       "scope": "main",
       "categories": [
         "release"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "c3404e51a7af",
-      "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565070",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T06:14:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ea90897c1f8f",
-      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587528",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T06:04:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1294,48 +1311,14 @@
       "isNew": false
     },
     {
-      "id": "3d66549b324a",
-      "title": "画像ページ[70/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:39:46.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "929205e73450",
-      "title": "画像ページ[48/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688898",
+      "id": "32225195d2fc",
+      "title": "画像ページ[56/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688907",
       "host": "news.denfaminicogamer.jp",
       "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-11-26T02:39:44.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image54-108",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "dd4f5d60a258",
-      "title": "画像ページ[68/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688938",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:39:41.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image9-1672",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image63-62",
       "scope": "main",
       "categories": [
         "guide"
@@ -1353,23 +1336,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T02:24:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image47-1.jpg",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "03289dac406a",
-      "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80576362",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:22:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -1487,23 +1453,6 @@
       "isNew": false
     },
     {
-      "id": "db336352e9a3",
-      "title": "【アズールプロミリア】キャラクリのやり方と外見の変更方法【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588590",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/133216_iprgm.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
       "id": "cefa805184af",
       "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！",
       "url": "https://gamewith.jp/gamedb/2353/articles/66203",
@@ -1519,7 +1468,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a8fb95a84870",
@@ -1554,7 +1503,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22b235449a91",
