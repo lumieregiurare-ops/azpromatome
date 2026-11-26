@@ -1,20 +1,67 @@
 [
  {
-  "id": "c4624202b55f",
-  "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593465",
+  "id": "fd7251ae161a",
+  "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593462",
   "host": "appmedia.jp",
   "source": "AppMedia",
   "summary": "",
-  "publishedAt": "2026-11-26T11:27:49.000Z",
+  "publishedAt": "2026-11-26T11:39:53.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "26bc6bca7ab7",
+  "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593459",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T11:35:53.000Z",
   "image": "",
   "scope": "main",
   "categories": [
    "guide"
   ],
   "charas": [
-   "faridah"
+   "metsa"
   ]
+ },
+ {
+  "id": "b7e80f49c8f4",
+  "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593516",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T11:27:51.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "maple"
+  ]
+ },
+ {
+  "id": "9402828e514e",
+  "title": "『アズールプロミリア』韓国で配信開始！ Manjuu Games開発のファンタジーワールドRPG",
+  "url": "https://www.appbank.net/2026/11/26/game/3178561.php",
+  "host": "appbank.net",
+  "source": "AppBank",
+  "summary": "",
+  "publishedAt": "2026-11-26T11:26:15.000Z",
+  "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_135813_728_01.webp",
+  "scope": "main",
+  "categories": [
+   "release"
+  ],
+  "charas": []
  },
  {
   "id": "b13c583cbe4b",
@@ -25,6 +72,21 @@
   "summary": "",
   "publishedAt": "2026-11-26T11:25:44.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/142305_61j5m.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "b58e0ee11516",
+  "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593468",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T11:23:52.000Z",
+  "image": "",
   "scope": "main",
   "categories": [
    "guide"
@@ -66,19 +128,21 @@
   ]
  },
  {
-  "id": "9402828e514e",
-  "title": "『アズールプロミリア』韓国で配信開始！ Manjuu Games開発のファンタジーワールドRPG",
-  "url": "https://www.appbank.net/2026/11/26/game/3178561.php",
-  "host": "appbank.net",
-  "source": "AppBank",
+  "id": "a2d1a000dc0f",
+  "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593510",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
   "summary": "",
-  "publishedAt": "2026-11-26T11:16:21.000Z",
-  "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_135813_728_01.webp",
+  "publishedAt": "2026-11-26T11:03:37.000Z",
+  "image": "",
   "scope": "main",
   "categories": [
-   "release"
+   "guide"
   ],
-  "charas": []
+  "charas": [
+   "anais"
+  ]
  },
  {
   "id": "01e7e9d6e2c2",
@@ -466,38 +530,6 @@
   "charas": []
  },
  {
-  "id": "26bc6bca7ab7",
-  "title": "【アズールプロミリア】メーツァの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593459",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T08:43:01.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "metsa"
-  ]
- },
- {
-  "id": "fd7251ae161a",
-  "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593462",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T08:36:58.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
   "id": "a82b9f942448",
   "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80590888",
@@ -514,36 +546,21 @@
   "charas": []
  },
  {
-  "id": "b7e80f49c8f4",
-  "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593516",
+  "id": "c4624202b55f",
+  "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593465",
   "host": "appmedia.jp",
   "source": "AppMedia",
   "summary": "",
-  "publishedAt": "2026-11-26T08:24:56.000Z",
+  "publishedAt": "2026-11-26T08:23:01.000Z",
   "image": "",
   "scope": "main",
   "categories": [
    "guide"
   ],
   "charas": [
-   "maple"
+   "faridah"
   ]
- },
- {
-  "id": "b58e0ee11516",
-  "title": "【アズールプロミリア】ルルカの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593468",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T08:22:55.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
  },
  {
   "id": "4e70349276b6",
@@ -559,23 +576,6 @@
    "guide"
   ],
   "charas": []
- },
- {
-  "id": "a2d1a000dc0f",
-  "title": "【アズールプロミリア】アニスの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593510",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T07:54:47.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "anais"
-  ]
  },
  {
   "id": "d20dd9191901",
