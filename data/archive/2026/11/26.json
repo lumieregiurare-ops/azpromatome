@@ -1,5 +1,22 @@
 [
  {
+  "id": "01d7bdd32e02",
+  "title": "【アズールプロミリア】ミィティの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593504",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-26T13:46:21.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "mitty"
+  ]
+ },
+ {
   "id": "12afdd0eb6f5",
   "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593480",
@@ -335,23 +352,6 @@
   "charas": []
  },
  {
-  "id": "01d7bdd32e02",
-  "title": "【アズールプロミリア】 ミィティの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593504",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-26T10:35:27.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "mitty"
-  ]
- },
- {
   "id": "a9f65550716c",
   "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80549752",
@@ -423,21 +423,6 @@
   "scope": "main",
   "categories": [
    "release"
-  ],
-  "charas": []
- },
- {
-  "id": "22f0ef8c6ce1",
-  "title": "『アズールプロミリア』がMVNOサービス「LinksMate」のカウントフリーオプション対象コンテンツとして2026年11月26日（木）より追加！",
-  "url": "https://prtimes.jp/main/html/rd/p/000000368.000025608.html",
-  "host": "prtimes.jp",
-  "source": "時事ドットコム",
-  "summary": "",
-  "publishedAt": "2026-11-26T09:46:00.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/25608/368/25608-368-8633a59453ecc02ac72631b3612960de-650x366.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-  "scope": "main",
-  "categories": [
-   "update"
   ],
   "charas": []
  },
@@ -595,6 +580,21 @@
   "charas": []
  },
  {
+  "id": "22f0ef8c6ce1",
+  "title": "『アズールプロミリア』がMVNOサービス「LinksMate」のカウントフリーオプション対象コンテンツとして2026年11月26日（木）より追加！",
+  "url": "https://prtimes.jp/main/html/rd/p/000000368.000025608.html",
+  "host": "prtimes.jp",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-26T07:25:31.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/25608/368/25608-368-8633a59453ecc02ac72631b3612960de-650x366.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "scope": "main",
+  "categories": [
+   "update"
+  ],
+  "charas": []
+ },
+ {
   "id": "a2765cb4baa6",
   "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576284",
@@ -659,7 +659,7 @@
  },
  {
   "id": "d0796d9fb178",
-  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 2枚目の写真・画像",
+  "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
   "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
   "host": "gamespark.jp",
   "source": "Game*Spark",
