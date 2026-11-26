@@ -1,12 +1,14 @@
 {
-  "updatedAt": "2026-11-26T12:30:21.812Z",
+  "updatedAt": "2026-11-26T13:00:21.412Z",
   "updateGapMin": 30,
   "topics": [
     {
       "id": "9402828e514e",
       "key": "4a7d69c7002b",
       "firstAt": "2026-11-25T15:00:00.000Z",
-      "charas": [],
+      "charas": [
+        "tushan-xiaoyu"
+      ],
       "members": [
         {
           "title": "『アズールプロミリア』韓国で配信開始！ Manjuu Games開発のファンタジーワールドRPG",
@@ -44,6 +46,20 @@
           "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/418c31fe38eed44c88eee3c7e7f85f6a.jpeg"
         },
         {
+          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
+          "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
+          "source": "Game*Spark",
+          "publishedAt": "2026-11-26T06:00:03.000Z",
+          "image": "https://www.gamespark.jp/imgs/ogp_f/1223666.png"
+        },
+        {
+          "title": "Nexon、韓国で「Azur Promilia」正式サービス開始",
+          "url": "https://www.digitaltoday.co.kr/jp/view/131257/nexon-launches-new-rpg-azur-promilia-in-south-korea",
+          "source": "디지털투데이",
+          "publishedAt": "2026-11-26T04:55:51.000Z",
+          "image": "https://cdn.digitaltoday.co.kr/news/photo/202611/718405_665655_3353.png"
+        },
+        {
           "title": "ネクソン、新作RPG『アズールプロミリア』を韓国で配信開始",
           "url": "https://voix.jp/biz/news-analysis/182810/",
           "source": "ニュースメディアVOIX",
@@ -56,6 +72,13 @@
           "source": "ゲームハック",
           "publishedAt": "2026-11-26T04:07:00.000Z",
           "image": "https://prtimes.jp/common/pc_v4/og.png"
+        },
+        {
+          "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
+          "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
+          "source": "インサイド",
+          "publishedAt": "2026-11-26T03:05:10.000Z",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1811771.png"
         },
         {
           "title": "星霊と旅するオープンワールドRPG「アズールプロミリア」本日配信開始",
@@ -71,14 +94,14 @@
       "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_135813_728_01.webp",
       "leadSource": "AppBank",
       "publishedAt": "2026-11-26T11:26:15.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
+      "sourceCount": 11,
+      "articleCount": 11,
       "categories": [
         "release"
       ],
       "keywords": [
-        "配信開始",
         "rpg",
+        "配信開始",
         "manjuu"
       ],
       "articles": [
@@ -111,6 +134,20 @@
           "isPR": false
         },
         {
+          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
+          "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
+          "source": "Game*Spark",
+          "publishedAt": "2026-11-26T06:00:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Nexon、韓国で「Azur Promilia」正式サービス開始",
+          "url": "https://www.digitaltoday.co.kr/jp/view/131257/nexon-launches-new-rpg-azur-promilia-in-south-korea",
+          "source": "디지털투데이",
+          "publishedAt": "2026-11-26T04:55:51.000Z",
+          "isPR": false
+        },
+        {
           "title": "ネクソン、新作RPG『アズールプロミリア』を韓国で配信開始",
           "url": "https://voix.jp/biz/news-analysis/182810/",
           "source": "ニュースメディアVOIX",
@@ -123,12 +160,81 @@
           "source": "ゲームハック",
           "publishedAt": "2026-11-26T04:07:00.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "a82b9f942448",
+      "key": "9cdd683bfa4e",
+      "firstAt": "2026-11-24T15:38:49.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80590888",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T08:28:55.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp"
         },
         {
-          "title": "星霊と旅するオープンワールドRPG「アズールプロミリア」本日配信開始",
-          "url": "https://www.excite.co.jp/news/article/game_watch_1498342782395941420/",
-          "source": "GAME Watch",
-          "publishedAt": "2026-11-25T15:00:00.000Z",
+          "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80572825",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T08:08:54.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/110949_94zlx.webp"
+        },
+        {
+          "title": "『アズールプロミリア』を先行プレイ！感情豊かに動く美少女キャラなどのアズプロの魅力やCBTからの改善点を紹介！",
+          "url": "https://gamewith.jp/gamedb/10871/articles/65959",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T02:58:32.000Z",
+          "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/65959.png?t=1794996273"
+        },
+        {
+          "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
+          "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
+          "source": "MMO Culture",
+          "publishedAt": "2026-11-24T15:38:49.000Z",
+          "image": ""
+        }
+      ],
+      "title": "【アズールプロミリア】ガチャスケジュール一覧とおすすめ【アズプロ】",
+      "summary": "",
+      "url": "https://appmedia.jp/azurpromilia/80590888",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/124924_0s1la.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-26T08:28:55.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "keywords": [
+        "キャラ",
+        "一覧",
+        "cbt"
+      ],
+      "articles": [
+        {
+          "title": "【アズールプロミリア】キャラ一覧【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80572825",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T08:08:54.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『アズールプロミリア』を先行プレイ！感情豊かに動く美少女キャラなどのアズプロの魅力やCBTからの改善点を紹介！",
+          "url": "https://gamewith.jp/gamedb/10871/articles/65959",
+          "source": "GameWith",
+          "publishedAt": "2026-11-26T02:58:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
+          "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
+          "source": "MMO Culture",
+          "publishedAt": "2026-11-24T15:38:49.000Z",
           "isPR": false
         }
       ]
@@ -191,69 +297,6 @@
           "url": "http://www.akiba-plus.com/?p=159296",
           "source": "秋葉原ＰＬＵＳ",
           "publishedAt": "2026-11-26T02:58:52.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "d0796d9fb178",
-      "key": "e77ef8b69a7c",
-      "firstAt": "2026-11-26T03:05:10.000Z",
-      "charas": [
-        "tushan-xiaoyu"
-      ],
-      "members": [
-        {
-          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
-          "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
-          "source": "Game*Spark",
-          "publishedAt": "2026-11-26T06:00:03.000Z",
-          "image": "https://www.gamespark.jp/imgs/ogp_f/1223666.png"
-        },
-        {
-          "title": "Nexon、韓国で「Azur Promilia」正式サービス開始",
-          "url": "https://www.digitaltoday.co.kr/jp/view/131257/nexon-launches-new-rpg-azur-promilia-in-south-korea",
-          "source": "디지털투데이",
-          "publishedAt": "2026-11-26T04:55:51.000Z",
-          "image": "https://cdn.digitaltoday.co.kr/news/photo/202611/718405_665655_3353.png"
-        },
-        {
-          "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
-          "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
-          "source": "インサイド",
-          "publishedAt": "2026-11-26T03:05:10.000Z",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1811771.png"
-        }
-      ],
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
-      "summary": "",
-      "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
-      "image": "https://www.gamespark.jp/imgs/ogp_f/1223666.png",
-      "leadSource": "Game*Spark",
-      "publishedAt": "2026-11-26T06:00:03.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "release"
-      ],
-      "keywords": [
-        "サービス",
-        "正式",
-        "塗山小玉"
-      ],
-      "articles": [
-        {
-          "title": "Nexon、韓国で「Azur Promilia」正式サービス開始",
-          "url": "https://www.digitaltoday.co.kr/jp/view/131257/nexon-launches-new-rpg-azur-promilia-in-south-korea",
-          "source": "디지털투데이",
-          "publishedAt": "2026-11-26T04:55:51.000Z",
-          "isPR": false
-        },
-        {
-          "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
-          "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
-          "source": "インサイド",
-          "publishedAt": "2026-11-26T03:05:10.000Z",
           "isPR": false
         }
       ]
@@ -352,56 +395,26 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "cc725c8bf58c",
-      "key": "9cdd683bfa4e",
-      "firstAt": "2026-11-24T15:38:49.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "『アズールプロミリア』を先行プレイ！感情豊かに動く美少女キャラなどのアズプロの魅力やCBTからの改善点を紹介！",
-          "url": "https://gamewith.jp/gamedb/10871/articles/65959",
-          "source": "GameWith",
-          "publishedAt": "2026-11-26T02:58:32.000Z",
-          "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/65959.png?t=1794996273"
-        },
-        {
-          "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
-          "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
-          "source": "MMO Culture",
-          "publishedAt": "2026-11-24T15:38:49.000Z",
-          "image": ""
-        }
-      ],
-      "title": "『アズールプロミリア』を先行プレイ！感情豊かに動く美少女キャラなどのアズプロの魅力やCBTからの改善点を紹介！",
-      "summary": "",
-      "url": "https://gamewith.jp/gamedb/10871/articles/65959",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/65959.png?t=1794996273",
-      "leadSource": "GameWith",
-      "publishedAt": "2026-11-26T02:58:32.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide",
-        "release"
-      ],
-      "keywords": [
-        "cbt",
-        "キャラ"
-      ],
-      "articles": [
-        {
-          "title": "【アズールプロミリア】リリース日・キャラ・ゲーム内容・CBT情報",
-          "url": "https://mmoculture.com/ja/news/azur-promilia-release-date-and-gameplay/",
-          "source": "MMO Culture",
-          "publishedAt": "2026-11-24T15:38:49.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "items": [
+    {
+      "id": "24f346f904bb",
+      "title": "【アズールプロミリア】リリィの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593495",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T12:50:18.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
     {
       "id": "c3404e51a7af",
       "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
@@ -436,7 +449,7 @@
         "abby"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18b417f3ea5e",
@@ -884,23 +897,6 @@
       "isNew": false
     },
     {
-      "id": "24f346f904bb",
-      "title": "【アズールプロミリア】リリィの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593495",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:43:15.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "9bb05599705d",
       "title": "『アズールプロミリア』本日（11/26）より配信開始。『アズレン』Manjuu Games開発によるファンタジー世界を旅するアクションRPG",
       "url": "https://www.famitsu.com/article/202611/95185",
@@ -946,40 +942,6 @@
       "scope": "main",
       "categories": [
         "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "03289dac406a",
-      "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80576362",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:15:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9d8c53b05c33",
-      "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588560",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:02:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1034,6 +996,25 @@
         "gacha"
       ],
       "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "c4624202b55f",
+      "title": "【アズールプロミリア】ファランタの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593465",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:23:01.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "faridah"
+      ],
       "viaGoogle": false,
       "isNew": true
     },
@@ -1107,7 +1088,7 @@
     },
     {
       "id": "d0796d9fb178",
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
+      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
       "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
@@ -1385,6 +1366,23 @@
       "isNew": false
     },
     {
+      "id": "03289dac406a",
+      "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80576362",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:52:20.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "61f6c5a33def",
       "title": "『アズールプロミリア』先行プレイで感じた“理想の異世界生活”。好きな女の子と冒険して、かわいい動物を相棒にして、華麗にバトルして。もうここに住みます",
       "url": "https://www.famitsu.com/article/202611/93015",
@@ -1586,7 +1584,7 @@
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-11-25T04:20:00.000Z",
+      "publishedAt": "2026-11-25T04:31:30.000Z",
       "image": "",
       "scope": "series",
       "categories": [
