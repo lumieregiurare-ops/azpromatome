@@ -1,5 +1,50 @@
 [
  {
+  "id": "c3404e51a7af",
+  "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80565070",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T09:58:45.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "03289dac406a",
+  "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80576362",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T09:36:42.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "ea90897c1f8f",
+  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587528",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T09:34:35.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "a2765cb4baa6",
   "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576284",
@@ -157,6 +202,21 @@
   "charas": []
  },
  {
+  "id": "9adb02290463",
+  "title": "NEXONパブリッシング2連発ホームラン、『템파르 ～アイテムの力～』とアズールプロミリアが順調なすべり出し",
+  "url": "https://www.gamemeca.com/ja/mv.php?gid=1784342",
+  "host": "gamemeca.com",
+  "source": "게임메카",
+  "summary": "",
+  "publishedAt": "2026-11-27T07:46:44.000Z",
+  "image": "https://cdn.gamemeca.com/gmdata/0001/784/342/gm349080_261127-risell-tt3.webp",
+  "scope": "main",
+  "categories": [
+   "news"
+  ],
+  "charas": []
+ },
+ {
   "id": "a063596a7c43",
   "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80588704",
@@ -195,51 +255,6 @@
   "summary": "",
   "publishedAt": "2026-11-27T06:59:46.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "c3404e51a7af",
-  "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80565070",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T06:55:47.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "ea90897c1f8f",
-  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80587528",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T06:33:49.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "03289dac406a",
-  "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80576362",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T06:11:09.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
   "scope": "main",
   "categories": [
    "guide"
