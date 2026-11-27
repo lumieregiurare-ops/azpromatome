@@ -1,5 +1,22 @@
 [
  {
+  "id": "ad48573e5ee2",
+  "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593519",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T11:49:06.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "tushan-xiaoyu"
+  ]
+ },
+ {
   "id": "120368d91d7e",
   "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593456",
@@ -11,6 +28,22 @@
   "scope": "main",
   "categories": [
    "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "600657251a2f",
+  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80596903",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T11:13:37.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
   ],
   "charas": []
  },
@@ -197,23 +230,6 @@
   "charas": []
  },
  {
-  "id": "ad48573e5ee2",
-  "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593519",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T08:56:22.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "tushan-xiaoyu"
-  ]
- },
- {
   "id": "46e45d088980",
   "title": "アズールプロミリア｜セルラン売上と評価、アプリ情報まとめ",
   "url": "https://appmedia.jp/app_review/80602912",
@@ -225,22 +241,6 @@
   "scope": "main",
   "categories": [
    "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "600657251a2f",
-  "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80596903",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T08:30:10.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
   ],
   "charas": []
  },
