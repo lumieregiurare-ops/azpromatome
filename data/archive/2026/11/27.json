@@ -1,5 +1,37 @@
 [
  {
+  "id": "a2765cb4baa6",
+  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80576284",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T12:11:41.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "9d4af42174e2",
+  "title": "『アズールプロミリア』正式サービス開始！ 限定ガチャやリリース記念報酬が登場、11月26日配信開始",
+  "url": "https://www.appbank.net/2026/11/27/game/3180645.php",
+  "host": "appbank.net",
+  "source": "AppBank",
+  "summary": "",
+  "publishedAt": "2026-11-27T12:01:57.000Z",
+  "image": "https://www.appbank.net/wp-content/uploads/2026/11/press-1a2159fdee58-img003-image-long_014d0c3d76e63f64854df327d3d206b6-f6ca5520e2.webp",
+  "scope": "main",
+  "categories": [
+   "release",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
   "id": "ad48573e5ee2",
   "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80593519",
@@ -14,6 +46,23 @@
   ],
   "charas": [
    "tushan-xiaoyu"
+  ]
+ },
+ {
+  "id": "dcb56c552e95",
+  "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593471",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T11:39:22.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "shalle"
   ]
  },
  {
@@ -63,6 +112,21 @@
   "charas": []
  },
  {
+  "id": "dae90c38439a",
+  "title": "【アズールプロミリア】リリースはいつ？【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80549977",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T10:57:52.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123626_5vzqn.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "4b5a5a62eaf5",
   "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80597518",
@@ -101,6 +165,21 @@
   "summary": "",
   "publishedAt": "2026-11-27T10:47:01.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/191802_qlj61.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "80bf5f7dc7cb",
+  "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593507",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T10:42:57.000Z",
+  "image": "",
   "scope": "main",
   "categories": [
    "guide"
@@ -184,22 +263,6 @@
   "charas": []
  },
  {
-  "id": "a2765cb4baa6",
-  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80576284",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T09:28:32.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
-  ],
-  "charas": []
- },
- {
   "id": "bea0c955e9e3",
   "title": "【アズールプロミリア】スタミナの回復方法とおすすめ消費先【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80588386",
@@ -243,23 +306,6 @@
    "guide"
   ],
   "charas": []
- },
- {
-  "id": "dcb56c552e95",
-  "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80593471",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T08:30:10.000Z",
-  "image": "",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": [
-   "shalle"
-  ]
  },
  {
   "id": "9adb02290463",
