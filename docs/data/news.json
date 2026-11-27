@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:00:21.957Z",
+  "updatedAt": "2026-11-27T05:30:19.530Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -134,6 +134,185 @@
       ]
     },
     {
+      "id": "d13481f64243",
+      "key": "cf82afbdcc07",
+      "firstAt": "2026-11-26T02:24:00.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "【アズールプロミリア】評価レビュー！万人向けを捨てた美少女オープンワールドが最高すぎる",
+          "url": "https://apps-island.com/azurpromilia",
+          "source": "アプリ島",
+          "publishedAt": "2026-11-27T05:27:36.000Z",
+          "image": "https://apps-island.com/wp-content/uploads/2026/11/azurpromilia1.webp"
+        },
+        {
+          "title": "【面白い？つまらない？】『アズールプロミリア』初日で10時間プレイした感想【評価・レビュー】",
+          "url": "https://note.com/hosino_6289/n/n6b845061e8ad",
+          "source": "note",
+          "publishedAt": "2026-11-27T02:23:23.000Z",
+          "image": "https://assets.st-note.com/production/uploads/images/341220897/rectangle_large_type_2_b90882a298a82c6c6e0fe419822a8336.png?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "title": "画像ページ[70/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:46.000Z",
+          "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322"
+        },
+        {
+          "title": "画像ページ[48/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/?attachment_id=1688898",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:44.000Z",
+          "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image54-108"
+        },
+        {
+          "title": "画像ページ[75/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/?attachment_id=1688874",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:44.000Z",
+          "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image30-423"
+        },
+        {
+          "title": "画像ページ[68/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/?attachment_id=1688938",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:41.000Z",
+          "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image9-1672"
+        },
+        {
+          "title": "『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:24:00.000Z",
+          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image47-1.jpg"
+        }
+      ],
+      "title": "【アズールプロミリア】評価レビュー！万人向けを捨てた美少女オープンワールドが最高すぎる",
+      "summary": "",
+      "url": "https://apps-island.com/azurpromilia",
+      "image": "https://apps-island.com/wp-content/uploads/2026/11/azurpromilia1.webp",
+      "leadSource": "アプリ島",
+      "publishedAt": "2026-11-27T05:27:36.000Z",
+      "sourceCount": 3,
+      "articleCount": 7,
+      "categories": [
+        "guide"
+      ],
+      "keywords": [
+        "レビュー",
+        "評価",
+        "感想"
+      ],
+      "articles": [
+        {
+          "title": "【面白い？つまらない？】『アズールプロミリア』初日で10時間プレイした感想【評価・レビュー】",
+          "url": "https://note.com/hosino_6289/n/n6b845061e8ad",
+          "source": "note",
+          "publishedAt": "2026-11-27T02:23:23.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像ページ[70/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:46.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像ページ[48/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/?attachment_id=1688898",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:44.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像ページ[75/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/?attachment_id=1688874",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:44.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像ページ[68/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/?attachment_id=1688938",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:39:41.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-26T02:24:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "442eec9d3a3a",
+      "key": "8d22e8459c9f",
+      "firstAt": "2026-11-26T07:00:02.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
+          "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-26T12:20:20.000Z",
+          "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp"
+        },
+        {
+          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
+          "url": "https://panora.tokyo/archives/164768",
+          "source": "PANORA",
+          "publishedAt": "2026-11-26T08:53:28.000Z",
+          "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/26175302/58021-60-400b068e79e99d568366cc731d564b89-1200x675-1.webp"
+        },
+        {
+          "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
+          "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-26T07:00:02.000Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png"
+        }
+      ],
+      "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
+      "summary": "",
+      "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp",
+      "leadSource": "AppBank",
+      "publishedAt": "2026-11-26T12:20:20.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "keywords": [
+        "vtuber",
+        "開催",
+        "リリース"
+      ],
+      "articles": [
+        {
+          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
+          "url": "https://panora.tokyo/archives/164768",
+          "source": "PANORA",
+          "publishedAt": "2026-11-26T08:53:28.000Z",
+          "isPR": false
+        },
+        {
+          "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
+          "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-26T07:00:02.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "c623c1f3c18b",
       "key": "94df443ccf22",
       "firstAt": "2026-11-26T02:58:52.000Z",
@@ -154,13 +333,6 @@
           "image": "https://www.4gamer.net/games/784/G078489/20261126013/SS/001.jpg"
         },
         {
-          "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
-          "url": "https://appmedia.jp/news/80597707",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-26T03:30:20.000Z",
-          "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp"
-        },
-        {
           "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
           "url": "http://www.akiba-plus.com/?p=159296",
           "source": "秋葉原ＰＬＵＳ",
@@ -174,8 +346,8 @@
       "image": "https://cdn.gamemeca.com/gmdata/0001/784/280/gm131976_thumb____.webp",
       "leadSource": "게임메카",
       "publishedAt": "2026-11-26T09:39:04.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "release",
         "campaign"
@@ -191,13 +363,6 @@
           "url": "https://www.4gamer.net/games/784/G078489/20261126013/",
           "source": "4Gamer.net",
           "publishedAt": "2026-11-26T03:59:21.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
-          "url": "https://appmedia.jp/news/80597707",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-26T03:30:20.000Z",
           "isPR": false
         },
         {
@@ -218,7 +383,7 @@
       ],
       "members": [
         {
-          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 5枚目の写真・画像",
+          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
           "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
           "source": "Game*Spark",
           "publishedAt": "2026-11-26T06:00:03.000Z",
@@ -239,7 +404,7 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1811771.png"
         }
       ],
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 5枚目の写真・画像",
+      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
       "summary": "",
       "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1223666.png",
@@ -268,100 +433,6 @@
           "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
           "source": "インサイド",
           "publishedAt": "2026-11-26T03:05:10.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "64a60d5f0360",
-      "key": "cf82afbdcc07",
-      "firstAt": "2026-11-26T02:24:00.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "【面白い？つまらない？】『アズールプロミリア』初日で10時間プレイした感想【評価・レビュー】",
-          "url": "https://note.com/hosino_6289/n/n6b845061e8ad",
-          "source": "note",
-          "publishedAt": "2026-11-27T02:23:23.000Z",
-          "image": "https://assets.st-note.com/production/uploads/images/341220897/rectangle_large_type_2_b90882a298a82c6c6e0fe419822a8336.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "title": "『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-26T02:24:00.000Z",
-          "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image47-1.jpg"
-        }
-      ],
-      "title": "【面白い？つまらない？】『アズールプロミリア』初日で10時間プレイした感想【評価・レビュー】",
-      "summary": "",
-      "url": "https://note.com/hosino_6289/n/n6b845061e8ad",
-      "image": "https://assets.st-note.com/production/uploads/images/341220897/rectangle_large_type_2_b90882a298a82c6c6e0fe419822a8336.png?fit=bounds&quality=85&width=1280",
-      "leadSource": "note",
-      "publishedAt": "2026-11-27T02:23:23.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide"
-      ],
-      "keywords": [
-        "レビュー",
-        "感想",
-        "評価"
-      ],
-      "articles": [
-        {
-          "title": "『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-26T02:24:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "442eec9d3a3a",
-      "key": "8eca3de0bb22",
-      "firstAt": "2026-11-26T08:53:28.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
-          "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-26T12:20:20.000Z",
-          "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp"
-        },
-        {
-          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
-          "url": "https://panora.tokyo/archives/164768",
-          "source": "PANORA",
-          "publishedAt": "2026-11-26T08:53:28.000Z",
-          "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/26175302/58021-60-400b068e79e99d568366cc731d564b89-1200x675-1.webp"
-        }
-      ],
-      "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
-      "summary": "",
-      "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-11-26T12:20:20.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "campaign",
-        "event"
-      ],
-      "keywords": [
-        "vtuber",
-        "開催"
-      ],
-      "articles": [
-        {
-          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
-          "url": "https://panora.tokyo/archives/164768",
-          "source": "PANORA",
-          "publishedAt": "2026-11-26T08:53:28.000Z",
           "isPR": false
         }
       ]
@@ -509,6 +580,75 @@
   ],
   "items": [
     {
+      "id": "d13481f64243",
+      "title": "【アズールプロミリア】評価レビュー！万人向けを捨てた美少女オープンワールドが最高すぎる",
+      "url": "https://apps-island.com/azurpromilia",
+      "host": "apps-island.com",
+      "source": "アプリ島",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:27:36.000Z",
+      "image": "https://apps-island.com/wp-content/uploads/2026/11/azurpromilia1.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "600657251a2f",
+      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80596903",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:27:35.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:09:29.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "f2d764c7ef69",
+      "title": "【アズールプロミリア】毎日やるべきことと週ごとの更新まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588653",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T05:03:29.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/164440_oun8q.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "4b5a5a62eaf5",
       "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80597518",
@@ -610,6 +750,42 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "e112c62de973",
+      "title": "【アズールプロミリア】アビィの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593474",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:37:09.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "abby"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "901f9828fd3e",
+      "title": "【アズールプロミリア】おすすめ課金とパック一覧【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80559463",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T03:30:16.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121943_hkcre.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "ea90897c1f8f",
@@ -771,24 +947,6 @@
       "isNew": false
     },
     {
-      "id": "600657251a2f",
-      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80596903",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T02:26:53.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "dcb56c552e95",
       "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593471",
@@ -844,23 +1002,6 @@
       "isNew": false
     },
     {
-      "id": "120368d91d7e",
-      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593456",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T02:09:09.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "12afdd0eb6f5",
       "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593480",
@@ -876,6 +1017,25 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "08224c7e1009",
+      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593486",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:12:23.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "pei-pei"
+      ],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "deee4305434a",
@@ -908,25 +1068,6 @@
         "guide"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "18b417f3ea5e",
-      "title": "【アズールプロミリア】キャスベルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593483",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T00:46:15.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "cathbelle"
-      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -1037,23 +1178,6 @@
       "isNew": false
     },
     {
-      "id": "01e7e9d6e2c2",
-      "title": "【アズールプロミリア】輝くコインの効率的な稼ぎ方とおすすめ交換先【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588623",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T10:43:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/191238_j0c78.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "11467e3859df",
       "title": "『アズレン』開発元の新作『アズールプロミリア』韓国で配信開始。不思議な生き物と冒険や農業を楽しめるRPG",
       "url": "https://dengekionline.com/article/202611/95187",
@@ -1139,23 +1263,6 @@
       "isNew": false
     },
     {
-      "id": "f2d764c7ef69",
-      "title": "【アズールプロミリア】毎日やるべきことと週ごとの更新まとめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588653",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T08:43:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/164440_oun8q.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "22f0ef8c6ce1",
       "title": "『アズールプロミリア』がMVNOサービス「LinksMate」のカウントフリーオプション対象コンテンツとして2026年11月26日（木）より追加！",
       "url": "https://prtimes.jp/main/html/rd/p/000000368.000025608.html",
@@ -1171,6 +1278,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "8d22e8459c9f",
+      "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
+      "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
+      "host": "jiji.com",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-26T07:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png",
+      "scope": "main",
+      "categories": [
+        "campaign"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "a2765cb4baa6",
@@ -1226,7 +1350,7 @@
     },
     {
       "id": "d0796d9fb178",
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 5枚目の写真・画像",
+      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
       "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
@@ -1240,6 +1364,23 @@
       "charas": [
         "tushan-xiaoyu"
       ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "17307dc45248",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
+      "url": "https://www.tetsudo.com/event/62629/",
+      "host": "tetsudo.com",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:43:26.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -1262,30 +1403,13 @@
     },
     {
       "id": "ab40ec7ccd27",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
       "url": "https://www.tetsudo.com/event/62628/",
-      "host": "tetsudo.com",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:04:00.000Z",
-      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
-      "scope": "series",
-      "categories": [
-        "event"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "17307dc45248",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ（2026年12月20日）",
-      "url": "https://www.tetsudo.com/event/62629/",
       "host": "tetsudo.com",
       "source": "Tetsudo.com（鉄道コム）",
       "summary": "",
       "publishedAt": "2026-11-26T05:04:00.000Z",
-      "image": "",
+      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
       "scope": "series",
       "categories": [
         "event"
@@ -1416,24 +1540,6 @@
       "isNew": false
     },
     {
-      "id": "e11720f87ca5",
-      "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
-      "url": "https://appmedia.jp/news/80597707",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T03:30:20.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "release"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
       "id": "e77ef8b69a7c",
       "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
       "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
@@ -1537,6 +1643,74 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "3d66549b324a",
+      "title": "画像ページ[70/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:39:46.000Z",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "929205e73450",
+      "title": "画像ページ[48/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688898",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:39:44.000Z",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image54-108",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "1d5f21c23e35",
+      "title": "画像ページ[75/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688874",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:39:44.000Z",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image30-423",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "dd4f5d60a258",
+      "title": "画像ページ[68/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688938",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-26T02:39:41.000Z",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image9-1672",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "cf82afbdcc07",
@@ -1682,6 +1856,23 @@
       "isNew": false
     },
     {
+      "id": "7975d8bc0c6c",
+      "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565607",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/125341_2efc4.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "567cecee2efe",
       "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80587363",
@@ -1693,24 +1884,6 @@
       "scope": "main",
       "categories": [
         "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "81f0a7d8146a",
-      "title": "【アズールプロミリア】事前登録のやり方と報酬【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80549323",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/123400_voiyb.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "campaign"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1827,7 +2000,7 @@
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-11-24T05:23:00.000Z",
+      "publishedAt": "2026-11-24T08:09:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/94883/ogp_YiNF.jpg?x=1280",
       "scope": "main",
       "categories": [
