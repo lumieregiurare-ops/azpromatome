@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T01:00:18.891Z",
+  "updatedAt": "2026-11-27T01:30:25.094Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -134,68 +134,6 @@
       ]
     },
     {
-      "id": "442eec9d3a3a",
-      "key": "8d22e8459c9f",
-      "firstAt": "2026-11-26T07:00:02.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
-          "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-26T12:20:20.000Z",
-          "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp"
-        },
-        {
-          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
-          "url": "https://panora.tokyo/archives/164768",
-          "source": "PANORA",
-          "publishedAt": "2026-11-26T08:53:28.000Z",
-          "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/26175302/58021-60-400b068e79e99d568366cc731d564b89-1200x675-1.webp"
-        },
-        {
-          "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
-          "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-26T07:00:02.000Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png"
-        }
-      ],
-      "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
-      "summary": "",
-      "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-11-26T12:20:20.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "campaign",
-        "event"
-      ],
-      "keywords": [
-        "vtuber",
-        "開催",
-        "リリース"
-      ],
-      "articles": [
-        {
-          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
-          "url": "https://panora.tokyo/archives/164768",
-          "source": "PANORA",
-          "publishedAt": "2026-11-26T08:53:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
-          "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-26T07:00:02.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "c623c1f3c18b",
       "key": "94df443ccf22",
       "firstAt": "2026-11-26T02:58:52.000Z",
@@ -266,7 +204,7 @@
       ],
       "members": [
         {
-          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 8枚目の写真・画像",
+          "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
           "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
           "source": "Game*Spark",
           "publishedAt": "2026-11-26T06:00:03.000Z",
@@ -287,7 +225,7 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1811771.png"
         }
       ],
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 8枚目の写真・画像",
+      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
       "summary": "",
       "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
       "image": "https://www.gamespark.jp/imgs/ogp_f/1223666.png",
@@ -316,6 +254,99 @@
           "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
           "source": "インサイド",
           "publishedAt": "2026-11-26T03:05:10.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "442eec9d3a3a",
+      "key": "8eca3de0bb22",
+      "firstAt": "2026-11-26T08:53:28.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
+          "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
+          "source": "AppBank",
+          "publishedAt": "2026-11-26T12:20:20.000Z",
+          "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp"
+        },
+        {
+          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
+          "url": "https://panora.tokyo/archives/164768",
+          "source": "PANORA",
+          "publishedAt": "2026-11-26T08:53:28.000Z",
+          "image": "https://asset.panora.tokyo/wp-content/uploads/2026/11/26175302/58021-60-400b068e79e99d568366cc731d564b89-1200x675-1.webp"
+        }
+      ],
+      "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
+      "summary": "",
+      "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
+      "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp",
+      "leadSource": "AppBank",
+      "publishedAt": "2026-11-26T12:20:20.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "keywords": [
+        "vtuber",
+        "開催"
+      ],
+      "articles": [
+        {
+          "title": "総勢100名以上のVTuberが参加する「アズールプロミリア」の配信イベントが11/26より開催",
+          "url": "https://panora.tokyo/archives/164768",
+          "source": "PANORA",
+          "publishedAt": "2026-11-26T08:53:28.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "a2765cb4baa6",
+      "key": "dc769ffb7bcf",
+      "firstAt": "2026-11-26T03:58:00.000Z",
+      "charas": [],
+      "members": [
+        {
+          "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80576284",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T06:51:00.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp"
+        },
+        {
+          "title": "「アズールプロミリア」が正式サービス開始！★5キャラクターが必ず獲得できる初心者ガチャをはじめとしたキャンペーンが開催中",
+          "url": "https://www.gamer.ne.jp/news/202611260013/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-26T03:58:00.000Z",
+          "image": ""
+        }
+      ],
+      "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+      "summary": "",
+      "url": "https://appmedia.jp/azurpromilia/80576284",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "keywords": [
+        "ガチャ"
+      ],
+      "articles": [
+        {
+          "title": "「アズールプロミリア」が正式サービス開始！★5キャラクターが必ず獲得できる初心者ガチャをはじめとしたキャンペーンが開催中",
+          "url": "https://www.gamer.ne.jp/news/202611260013/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-26T03:58:00.000Z",
           "isPR": false
         }
       ]
@@ -417,6 +448,60 @@
   ],
   "items": [
     {
+      "id": "08224c7e1009",
+      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593486",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:12:23.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "pei-pei"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "bd205c2768a4",
+      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80553628",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:10:24.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "deee4305434a",
+      "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593498",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:06:24.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "c3404e51a7af",
       "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80565070",
@@ -450,7 +535,7 @@
         "cathbelle"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea90897c1f8f",
@@ -702,43 +787,6 @@
       "isNew": false
     },
     {
-      "id": "bd205c2768a4",
-      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80553628",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T22:16:30.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "08224c7e1009",
-      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593486",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T22:12:30.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "pei-pei"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "b7e80f49c8f4",
       "title": "【アズールプロミリア】メイプルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593516",
@@ -790,23 +838,6 @@
       "charas": [
         "terara"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "deee4305434a",
-      "title": "【アズールプロミリア】シンフォーリアの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593498",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T19:01:52.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -1104,21 +1135,22 @@
       "isNew": false
     },
     {
-      "id": "8d22e8459c9f",
-      "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボと皆のアズプロチャレンジ」を11月26日より開催！",
-      "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
-      "host": "jiji.com",
-      "source": "PR TIMES",
+      "id": "a2765cb4baa6",
+      "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80576284",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-26T07:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png",
+      "publishedAt": "2026-11-26T06:51:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
       "scope": "main",
       "categories": [
-        "campaign"
+        "guide",
+        "gacha"
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "5ebbbf125435",
@@ -1156,7 +1188,7 @@
     },
     {
       "id": "d0796d9fb178",
-      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 8枚目の写真・画像",
+      "title": "『アズレン』ManjuuによるファンタジーワールドRPG『アズールプロミリア』正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装 9枚目の写真・画像",
       "url": "http://www.gamespark.jp/article/img/2026/11/26/175323/1223666.html",
       "host": "gamespark.jp",
       "source": "Game*Spark",
@@ -1193,7 +1225,7 @@
     {
       "id": "f4e0f199c1d8",
       "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VMTNIV1RZVTA2Ykd3M3RWYmhOVWk5Ui1NMDl3TTEyRzk0RWhfcDJwT29qU1paTERzRXZURTBkSFVsaDlTdGJfak45dnBNX2NTV1BQYjU5SkQ0bHpuNlBQcU1pcmt3RlpjQ0hEX29TdllRallObUhXNmVJc0RDd9IBgwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOY9IBgwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOYw?oc=5",
       "host": "topics.smt.docomo.ne.jp",
       "source": "ｄメニューニュース",
       "summary": "",
@@ -1451,72 +1483,39 @@
       "isNew": false
     },
     {
-      "id": "3d66549b324a",
-      "title": "画像ページ[70/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "id": "2c0cc4dc9caa",
+      "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！ SSR「モロトフ」「シノープ」ら北方連合所属艦船が新規実装！",
+      "url": "https://www.akiba-plus.com/?p=159280",
+      "host": "akiba-plus.com",
+      "source": "秋葉原ＰＬＵＳ",
       "summary": "",
-      "publishedAt": "2026-11-26T02:39:46.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image34-322",
-      "scope": "main",
+      "publishedAt": "2026-11-26T02:45:09.000Z",
+      "image": "https://www.akiba-plus.com/wp-content/uploads/2026/11/zp_1-3.png",
+      "scope": "series",
       "categories": [
-        "guide"
+        "event",
+        "update"
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "929205e73450",
-      "title": "画像ページ[48/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688898",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
+      "id": "4b5a5a62eaf5",
+      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80597518",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-26T02:39:44.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image54-108",
+      "publishedAt": "2026-11-26T02:41:38.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
       "scope": "main",
       "categories": [
         "guide"
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "1d5f21c23e35",
-      "title": "画像ページ[75/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688874",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:39:44.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image30-423",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "dd4f5d60a258",
-      "title": "画像ページ[68/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/?attachment_id=1688938",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:39:41.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image9-1672",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "cf82afbdcc07",
@@ -1642,6 +1641,58 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "cfab3c93d9d6",
+      "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80550070",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "campaign"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "7975d8bc0c6c",
+      "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80565607",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/125341_2efc4.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "567cecee2efe",
+      "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587363",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-25T09:05:45.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "cefa805184af",
