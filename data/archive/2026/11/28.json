@@ -1,5 +1,53 @@
 [
  {
+  "id": "a9f65550716c",
+  "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80549752",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T16:51:38.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "08224c7e1009",
+  "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593486",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T16:35:29.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "pei-pei"
+  ]
+ },
+ {
+  "id": "bd205c2768a4",
+  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80553628",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T16:17:31.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
   "id": "c3404e51a7af",
   "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80565070",
@@ -61,22 +109,6 @@
   "charas": []
  },
  {
-  "id": "bd205c2768a4",
-  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80553628",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T15:48:38.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
-  ],
-  "charas": []
- },
- {
   "id": "a063596a7c43",
   "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80588704",
@@ -105,6 +137,23 @@
    "guide"
   ],
   "charas": []
+ },
+ {
+  "id": "cfd246e163c8",
+  "title": "【アズールプロミリア】テララの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593501",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T15:39:06.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": [
+   "terara"
+  ]
  },
  {
   "id": "64a60d5f0360",
@@ -162,6 +211,21 @@
   "summary": "",
   "publishedAt": "2026-11-27T15:10:56.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "fd0deb10ecd4",
+  "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587459",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T15:01:01.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
   "scope": "main",
   "categories": [
    "guide"
