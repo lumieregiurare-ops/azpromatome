@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:30:30.276Z",
+  "updatedAt": "2026-11-27T05:00:21.957Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -154,6 +154,13 @@
           "image": "https://www.4gamer.net/games/784/G078489/20261126013/SS/001.jpg"
         },
         {
+          "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
+          "url": "https://appmedia.jp/news/80597707",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T03:30:20.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp"
+        },
+        {
           "title": "新作スマートフォン/PC向けゲーム『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
           "url": "http://www.akiba-plus.com/?p=159296",
           "source": "秋葉原ＰＬＵＳ",
@@ -167,8 +174,8 @@
       "image": "https://cdn.gamemeca.com/gmdata/0001/784/280/gm131976_thumb____.webp",
       "leadSource": "게임메카",
       "publishedAt": "2026-11-26T09:39:04.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "release",
         "campaign"
@@ -184,6 +191,13 @@
           "url": "https://www.4gamer.net/games/784/G078489/20261126013/",
           "source": "4Gamer.net",
           "publishedAt": "2026-11-26T03:59:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
+          "url": "https://appmedia.jp/news/80597707",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T03:30:20.000Z",
           "isPR": false
         },
         {
@@ -495,6 +509,57 @@
   ],
   "items": [
     {
+      "id": "4b5a5a62eaf5",
+      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80597518",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:51:34.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "a063596a7c43",
+      "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588704",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:43:23.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/191802_qlj61.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "a9f65550716c",
+      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80549752",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T04:39:30.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "27cf6d777ab7",
       "title": "アニメ『アズールレーン びそくぜんしんっ！にっ！！』日本全国のコンビニエンスストアを中心とするマルチコピー機内の「インクルーズプリント」にてコンテンツプリントの第3弾が販売開始！",
       "url": "https://news.nicovideo.jp/watch/nw20038586?news_ref=50_50",
@@ -509,7 +574,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c3404e51a7af",
@@ -796,23 +861,6 @@
       "isNew": false
     },
     {
-      "id": "a9f65550716c",
-      "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80549752",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T02:05:27.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "12afdd0eb6f5",
       "title": "【アズールプロミリア】蘭香子の評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593480",
@@ -826,25 +874,6 @@
         "guide"
       ],
       "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "08224c7e1009",
-      "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593486",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T01:12:23.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "pei-pei"
-      ],
       "viaGoogle": false,
       "isNew": false
     },
@@ -940,25 +969,6 @@
       "isNew": false
     },
     {
-      "id": "01d7bdd32e02",
-      "title": "【アズールプロミリア】ミィティの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593504",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T16:51:20.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "mitty"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "f834c69c8efc",
       "title": "『アズールプロミリア』、韓国で本日より配信開始",
       "url": "https://gamehack.jp/387892/",
@@ -1035,23 +1045,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T10:43:28.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/191238_j0c78.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "a063596a7c43",
-      "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588704",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T10:26:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/191802_qlj61.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -1423,6 +1416,24 @@
       "isNew": false
     },
     {
+      "id": "e11720f87ca5",
+      "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
+      "url": "https://appmedia.jp/news/80597707",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:30:20.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "e77ef8b69a7c",
       "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
       "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
@@ -1519,23 +1530,6 @@
       "summary": "",
       "publishedAt": "2026-11-26T02:46:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/93015/thumbnail_AtHE.jpg?x=1280",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "4b5a5a62eaf5",
-      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80597518",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:41:38.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -1688,23 +1682,6 @@
       "isNew": false
     },
     {
-      "id": "7975d8bc0c6c",
-      "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565607",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/125341_2efc4.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
       "id": "567cecee2efe",
       "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80587363",
@@ -1737,7 +1714,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cefa805184af",
