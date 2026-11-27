@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:30:21.323Z",
+  "updatedAt": "2026-11-27T18:00:19.787Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -74,6 +74,13 @@
           "image": "https://img.biggo.com/VMTDmJHTySshSQNg-8Ih9IEa5X7MELY9mpkqie4WKWs/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2EyZWRkMzk5LTRmMzMtNGFjNy05MGM2LWI5MzViOGZkYTk4Nl8xNzk1NjY0NDk5X2RlZmF1bHQuanBn.jpg"
         },
         {
+          "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
+          "url": "https://appmedia.jp/news/80597707",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-26T03:30:20.000Z",
+          "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp"
+        },
+        {
           "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
           "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
           "source": "インサイド",
@@ -95,7 +102,7 @@
       "leadSource": "AppMedia",
       "publishedAt": "2026-11-27T16:05:16.000Z",
       "sourceCount": 10,
-      "articleCount": 11,
+      "articleCount": 12,
       "categories": [
         "guide",
         "gacha"
@@ -558,6 +565,60 @@
   ],
   "items": [
     {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T17:44:03.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "600657251a2f",
+      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80596903",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T17:41:58.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "dcb56c552e95",
+      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593471",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T17:40:02.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "shalle"
+      ],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "4b5a5a62eaf5",
       "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80597518",
@@ -662,6 +723,23 @@
       "isNew": false
     },
     {
+      "id": "01e7e9d6e2c2",
+      "title": "【アズールプロミリア】輝くコインの効率的な稼ぎ方とおすすめ交換先【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588623",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T16:24:13.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/191238_j0c78.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "bd205c2768a4",
       "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80553628",
@@ -688,6 +766,23 @@
       "summary": "",
       "publishedAt": "2026-11-27T16:17:30.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "7747b2d15860",
+      "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587429",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T16:16:28.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -820,23 +915,6 @@
       "isNew": false
     },
     {
-      "id": "7747b2d15860",
-      "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587429",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T15:10:56.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "fd0deb10ecd4",
       "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80587459",
@@ -845,41 +923,6 @@
       "summary": "",
       "publishedAt": "2026-11-27T15:01:01.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "600657251a2f",
-      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80596903",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T14:40:53.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "120368d91d7e",
-      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593456",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T14:18:41.000Z",
-      "image": "",
       "scope": "main",
       "categories": [
         "guide"
@@ -1319,17 +1362,17 @@
       "isNew": false
     },
     {
-      "id": "17307dc45248",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
-      "url": "https://www.tetsudo.com/event/62629/",
+      "id": "f4e0f199c1d8",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転",
+      "url": "https://www.tetsudo.com/event/62627/",
       "host": "tetsudo.com",
       "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-11-26T05:43:26.000Z",
-      "image": "",
+      "publishedAt": "2026-11-26T05:04:00.000Z",
+      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-012.jpg",
       "scope": "series",
       "categories": [
-        "event"
+        "news"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1353,17 +1396,17 @@
       "isNew": false
     },
     {
-      "id": "f4e0f199c1d8",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転（2026年12月20日～）",
-      "url": "https://www.tetsudo.com/event/62627/",
+      "id": "17307dc45248",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ（2026年12月20日）",
+      "url": "https://www.tetsudo.com/event/62629/",
       "host": "tetsudo.com",
       "source": "Tetsudo.com（鉄道コム）",
       "summary": "",
       "publishedAt": "2026-11-26T05:04:00.000Z",
-      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-012.jpg",
+      "image": "",
       "scope": "series",
       "categories": [
-        "news"
+        "event"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1491,6 +1534,24 @@
       "isNew": false
     },
     {
+      "id": "e11720f87ca5",
+      "title": "『アズールプロミリア』正式サービス開始！豪華報酬がもらえるリリース記念キャンペーンを多数実施！",
+      "url": "https://appmedia.jp/news/80597707",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-26T03:30:20.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/122029_k1rsa.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "release"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "e77ef8b69a7c",
       "title": "新作RPG『アズールプロミリア』11月26日より正式サービス開始！限定PU「塗山小玉」も登場、専用着せ替えスキンはバニー衣装",
       "url": "https://s.inside-games.jp/article/2026/11/26/191579.html",
@@ -1593,7 +1654,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d5f21c23e35",
@@ -1610,7 +1671,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "478f26804680",
@@ -1627,7 +1688,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
