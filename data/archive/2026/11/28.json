@@ -1,5 +1,20 @@
 [
  {
+  "id": "a9f65550716c",
+  "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80549752",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T22:37:36.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "567cecee2efe",
   "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80587363",
@@ -43,6 +58,22 @@
   "categories": [
    "guide",
    "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "cfab3c93d9d6",
+  "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80550070",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T22:15:39.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "campaign"
   ],
   "charas": []
  },
@@ -172,21 +203,6 @@
   "charas": []
  },
  {
-  "id": "a9f65550716c",
-  "title": "【アズールプロミリア】最強キャラランキング・Tier表【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80549752",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T20:09:06.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/141531_zap0l.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
   "id": "a063596a7c43",
   "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80588704",
@@ -273,22 +289,6 @@
   "scope": "main",
   "categories": [
    "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "cfab3c93d9d6",
-  "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80550070",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T17:37:00.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/114711_8pjc4.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "campaign"
   ],
   "charas": []
  },
