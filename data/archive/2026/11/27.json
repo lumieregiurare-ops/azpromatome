@@ -1,12 +1,27 @@
 [
  {
+  "id": "03289dac406a",
+  "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80576362",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T12:39:42.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "a2765cb4baa6",
   "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576284",
   "host": "appmedia.jp",
   "source": "AppMedia",
   "summary": "",
-  "publishedAt": "2026-11-27T12:11:41.000Z",
+  "publishedAt": "2026-11-27T12:34:01.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
   "scope": "main",
   "categories": [
@@ -241,21 +256,6 @@
   "summary": "",
   "publishedAt": "2026-11-27T10:04:29.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "03289dac406a",
-  "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80576362",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T09:36:42.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
   "scope": "main",
   "categories": [
    "guide"
@@ -665,6 +665,21 @@
   "scope": "main",
   "categories": [
    "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "8d22e8459c9f",
+  "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボ",
+  "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
+  "host": "jiji.com",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-26T21:00:12.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png",
+  "scope": "main",
+  "categories": [
+   "campaign"
   ],
   "charas": []
  },
