@@ -1,5 +1,36 @@
 [
  {
+  "id": "bd205c2768a4",
+  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80553628",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T07:11:50.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "567cecee2efe",
+  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587363",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T06:59:46.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "c3404e51a7af",
   "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80565070",
@@ -210,22 +241,6 @@
   "scope": "series",
   "categories": [
    "pv"
-  ],
-  "charas": []
- },
- {
-  "id": "bd205c2768a4",
-  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80553628",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T03:42:27.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
   ],
   "charas": []
  },
