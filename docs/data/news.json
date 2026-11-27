@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T03:00:18.455Z",
+  "updatedAt": "2026-11-27T03:30:19.895Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -498,6 +498,23 @@
       "isNew": false
     },
     {
+      "id": "bea0c955e9e3",
+      "title": "【アズールプロミリア】スタミナの回復方法とおすすめ消費先【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588386",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:50:35.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/191943_78tuc.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "b13c583cbe4b",
       "title": "【アズールプロミリア】星識レベルの効率的な上げ方とコツ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80561548",
@@ -529,7 +546,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7e80f49c8f4",
@@ -548,7 +565,7 @@
         "maple"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b58e0ee11516",
@@ -565,7 +582,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "600657251a2f",
@@ -619,7 +636,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2d1a000dc0f",
@@ -1030,23 +1047,6 @@
       "isNew": false
     },
     {
-      "id": "bea0c955e9e3",
-      "title": "【アズールプロミリア】スタミナの回復方法とおすすめ消費先【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588386",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T10:43:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/191943_78tuc.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "a063596a7c43",
       "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80588704",
@@ -1237,23 +1237,6 @@
       "isNew": false
     },
     {
-      "id": "17307dc45248",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
-      "url": "https://www.tetsudo.com/event/62629/",
-      "host": "tetsudo.com",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:43:26.000Z",
-      "image": "",
-      "scope": "series",
-      "categories": [
-        "event"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "f4e0f199c1d8",
       "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOY9IBgwFBVV95cUxNTUdJMFBrcGpvOUZ1VmZMalQ3dnVsd1Nab3lienMxckIyY0ZULUdxdW1tZzFOc0tIY29IZGdHQ3VFWHJvN3padkdqdFR2UnNQUDN6cHlrT092T2pGVUJheVhEMjFBUVNSdlVFQWxUWTNLY0pYWHBwRkxrb2xsdkR4RlFOYw?oc=5",
@@ -1272,13 +1255,30 @@
     },
     {
       "id": "ab40ec7ccd27",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売",
       "url": "https://www.tetsudo.com/event/62628/",
+      "host": "tetsudo.com",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:04:00.000Z",
+      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "17307dc45248",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ（2026年12月20日）",
+      "url": "https://www.tetsudo.com/event/62629/",
       "host": "tetsudo.com",
       "source": "Tetsudo.com（鉄道コム）",
       "summary": "",
       "publishedAt": "2026-11-26T05:04:00.000Z",
-      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
+      "image": "",
       "scope": "series",
       "categories": [
         "event"
@@ -1668,23 +1668,6 @@
       "categories": [
         "guide",
         "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "7975d8bc0c6c",
-      "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80565607",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-25T09:05:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/125341_2efc4.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
