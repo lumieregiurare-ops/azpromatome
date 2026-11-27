@@ -1,5 +1,51 @@
 [
  {
+  "id": "c3404e51a7af",
+  "title": "【アズールプロミリア】必要容量と推奨スペック【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80565070",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T16:17:30.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "567cecee2efe",
+  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587363",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T16:07:15.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "a2765cb4baa6",
+  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80576284",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T16:05:16.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
   "id": "ea90897c1f8f",
   "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80587528",
@@ -8,6 +54,37 @@
   "summary": "",
   "publishedAt": "2026-11-27T15:51:10.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "bd205c2768a4",
+  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80553628",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T15:48:38.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "a063596a7c43",
+  "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80588704",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T15:45:28.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/191802_qlj61.webp",
   "scope": "main",
   "categories": [
    "guide"
