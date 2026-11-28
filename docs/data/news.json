@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T13:00:30.515Z",
+  "updatedAt": "2026-11-28T13:30:19.080Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -562,6 +562,40 @@
   ],
   "items": [
     {
+      "id": "ea90897c1f8f",
+      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587528",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T13:07:05.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "03289dac406a",
+      "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80576362",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T13:04:21.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "83237b14b178",
       "title": "【アズールプロミリア】最強編成とおすすめパーティ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80600566",
@@ -629,7 +663,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "600657251a2f",
@@ -692,23 +726,6 @@
       "summary": "",
       "publishedAt": "2026-11-28T11:35:54.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/132203_btlzn.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ea90897c1f8f",
-      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587528",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T11:19:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -799,23 +816,6 @@
       "categories": [
         "guide",
         "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "03289dac406a",
-      "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80576362",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T09:59:32.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/214453_bf85s.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1131,7 +1131,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d13481f64243",
@@ -1183,23 +1183,6 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "32cbf5c80f4a",
-      "title": "【アズールプロミリア】農園の心得のおすすめと解放優先度【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80600875",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T02:24:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/160155_qtdm7.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "b17d778a8710",
@@ -1699,7 +1682,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61f6c5a33def",
@@ -1733,7 +1716,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "929205e73450",
@@ -1750,7 +1733,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d5f21c23e35",
@@ -1767,7 +1750,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dd4f5d60a258",
@@ -1784,7 +1767,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
