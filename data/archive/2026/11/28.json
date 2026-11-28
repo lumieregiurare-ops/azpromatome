@@ -1,5 +1,36 @@
 [
  {
+  "id": "567cecee2efe",
+  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587363",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T10:33:46.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "a2765cb4baa6",
+  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80576284",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T10:29:37.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
   "id": "bd205c2768a4",
   "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80553628",
@@ -198,21 +229,6 @@
   "charas": []
  },
  {
-  "id": "567cecee2efe",
-  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80587363",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T07:52:49.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
   "id": "b13c583cbe4b",
   "title": "【アズールプロミリア】星識レベルの効率的な上げ方とコツ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80561548",
@@ -239,22 +255,6 @@
   "scope": "main",
   "categories": [
    "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "a2765cb4baa6",
-  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80576284",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T07:30:42.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
   ],
   "charas": []
  },
