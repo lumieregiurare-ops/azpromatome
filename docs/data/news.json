@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T07:00:23.038Z",
+  "updatedAt": "2026-11-28T07:30:27.110Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -366,53 +366,6 @@
           "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z",
           "source": "電ファミニコゲーマー",
           "publishedAt": "2026-11-26T02:24:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "8d22e8459c9f",
-      "key": "442eec9d3a3a",
-      "firstAt": "2026-11-26T12:20:20.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボ",
-          "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-26T21:00:12.000Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png"
-        },
-        {
-          "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
-          "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-26T12:20:20.000Z",
-          "image": "https://www.appbank.net/wp-content/uploads/2026/11/20261126_163500_479_01.webp"
-        }
-      ],
-      "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボ",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
-      "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-11-26T21:00:12.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "campaign"
-      ],
-      "keywords": [
-        "リリース",
-        "vtuber",
-        "記念"
-      ],
-      "articles": [
-        {
-          "title": "102名のVTuberが『アズールプロミリア』を遊びつくす！ リリース記念チャレンジが11月26日から開催",
-          "url": "https://www.appbank.net/2026/11/26/game/3178733.php",
-          "source": "AppBank",
-          "publishedAt": "2026-11-26T12:20:20.000Z",
           "isPR": false
         }
       ]
@@ -829,7 +782,7 @@
         "pei-pei"
       ],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b39250b7d295",
@@ -1101,23 +1054,6 @@
       "scope": "main",
       "categories": [
         "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "8d22e8459c9f",
-      "title": "総勢100名以上のVTuberが『アズールプロミリア』を遊びつくす！「『アズールプロミリア』リリース記念！目指せ！キボ",
-      "url": "https://www.jiji.com/jc/article?k=000000060.000058021&g=prt",
-      "host": "jiji.com",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-26T21:00:12.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/58021/60/58021-60-400b068e79e99d568366cc731d564b89-1200x675.png",
-      "scope": "main",
-      "categories": [
-        "campaign"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1570,7 +1506,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
@@ -1691,24 +1627,6 @@
       "image": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/616/article_images/article_resize.KV_azurlane9th.jpg",
       "scope": "series",
       "categories": [
-        "event"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "cefa805184af",
-      "title": "『アズールレーン』期間限定イベント「真理学園の転校生」開催！",
-      "url": "https://gamewith.jp/gamedb/2353/articles/66203",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-25T07:07:27.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/2353/rectangle/66203.png?t=1795590454",
-      "scope": "series",
-      "categories": [
-        "guide",
         "event"
       ],
       "charas": [],
