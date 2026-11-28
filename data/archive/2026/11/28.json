@@ -1,5 +1,36 @@
 [
  {
+  "id": "bd205c2768a4",
+  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80553628",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T10:21:42.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "ea90897c1f8f",
+  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587528",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T10:05:36.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "03289dac406a",
   "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576362",
@@ -30,6 +61,21 @@
   "charas": [
    "tushan-xiaoyu"
   ]
+ },
+ {
+  "id": "9d8c53b05c33",
+  "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80588560",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T09:43:14.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
  },
  {
   "id": "c3404e51a7af",
@@ -197,22 +243,6 @@
   "charas": []
  },
  {
-  "id": "bd205c2768a4",
-  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80553628",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T07:34:44.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
-  ],
-  "charas": []
- },
- {
   "id": "a2765cb4baa6",
   "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576284",
@@ -225,36 +255,6 @@
   "categories": [
    "guide",
    "gacha"
-  ],
-  "charas": []
- },
- {
-  "id": "ea90897c1f8f",
-  "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80587528",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T06:46:09.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "9d8c53b05c33",
-  "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80588560",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T05:56:36.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
   ],
   "charas": []
  },
@@ -488,6 +488,21 @@
   "categories": [
    "guide",
    "campaign"
+  ],
+  "charas": []
+ },
+ {
+  "id": "80bf5f7dc7cb",
+  "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80593507",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-27T16:03:25.000Z",
+  "image": "",
+  "scope": "main",
+  "categories": [
+   "guide"
   ],
   "charas": []
  },

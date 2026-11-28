@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:00:19.553Z",
+  "updatedAt": "2026-11-28T10:30:38.317Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -323,11 +323,11 @@
           "image": "https://assets.st-note.com/production/uploads/images/341220897/rectangle_large_type_2_b90882a298a82c6c6e0fe419822a8336.png?fit=bounds&quality=85&width=1280"
         },
         {
-          "title": "画像ページ[34/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image25-576",
+          "title": "画像ページ[54/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image26-535",
           "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-26T02:39:44.000Z",
-          "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image25-576"
+          "publishedAt": "2026-11-26T02:39:46.000Z",
+          "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image26-535"
         },
         {
           "title": "画像ページ[48/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
@@ -383,10 +383,10 @@
           "isPR": false
         },
         {
-          "title": "画像ページ[34/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image25-576",
+          "title": "画像ページ[54/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image26-535",
           "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-26T02:39:44.000Z",
+          "publishedAt": "2026-11-26T02:39:46.000Z",
           "isPR": false
         },
         {
@@ -420,17 +420,41 @@
       ]
     },
     {
-      "id": "46e45d088980",
+      "id": "ad48573e5ee2",
       "key": "eeffadee8a50",
       "firstAt": "2026-11-26T08:18:40.000Z",
-      "charas": [],
+      "charas": [
+        "tushan-xiaoyu",
+        "pei-pei"
+      ],
       "members": [
         {
-          "title": "アズールプロミリア｜セルラン売上と評価、アプリ情報まとめ",
-          "url": "https://appmedia.jp/app_review/80602912",
+          "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80593519",
           "source": "AppMedia",
-          "publishedAt": "2026-11-27T08:47:16.000Z",
-          "image": "https://appmedia.jp/wp-content/uploads/2025/12/114039_zko28.webp"
+          "publishedAt": "2026-11-28T09:45:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80593456",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-28T08:42:55.000Z",
+          "image": ""
+        },
+        {
+          "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80593486",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-28T03:17:29.000Z",
+          "image": ""
+        },
+        {
+          "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80593507",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-27T16:03:25.000Z",
+          "image": ""
         },
         {
           "title": "アズールプロミリアの評価とアプリ情報",
@@ -440,22 +464,44 @@
           "image": "https://img.gamewith.jp/gamedb/games/eyecatches/1c9e02ab967ae7cfd69c8f047bc7b48d.jpg"
         }
       ],
-      "title": "アズールプロミリア｜セルラン売上と評価、アプリ情報まとめ",
+      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
       "summary": "",
-      "url": "https://appmedia.jp/app_review/80602912",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/12/114039_zko28.webp",
+      "url": "https://appmedia.jp/azurpromilia/80593519",
+      "image": "https://img.gamewith.jp/gamedb/games/eyecatches/1c9e02ab967ae7cfd69c8f047bc7b48d.jpg",
       "leadSource": "AppMedia",
-      "publishedAt": "2026-11-27T08:47:16.000Z",
+      "publishedAt": "2026-11-28T09:45:08.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 5,
       "categories": [
         "guide"
       ],
       "keywords": [
-        "アプリ",
-        "評価"
+        "評価",
+        "編成",
+        "装備"
       ],
       "articles": [
+        {
+          "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80593456",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-28T08:42:55.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アズールプロミリア】ペイペイの評価とおすすめ編成・装備【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80593486",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-28T03:17:29.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+          "url": "https://appmedia.jp/azurpromilia/80593507",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-27T16:03:25.000Z",
+          "isPR": false
+        },
         {
           "title": "アズールプロミリアの評価とアプリ情報",
           "url": "https://gamewith.jp/gamedb/10871",
@@ -562,6 +608,41 @@
   ],
   "items": [
     {
+      "id": "bd205c2768a4",
+      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80553628",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T10:21:42.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "ea90897c1f8f",
+      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587528",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T10:05:36.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "03289dac406a",
       "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80576362",
@@ -594,6 +675,23 @@
       "charas": [
         "tushan-xiaoyu"
       ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "9d8c53b05c33",
+      "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588560",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T09:43:14.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -768,24 +866,6 @@
       "isNew": false
     },
     {
-      "id": "bd205c2768a4",
-      "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80553628",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T07:34:44.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "a2765cb4baa6",
       "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80576284",
@@ -798,40 +878,6 @@
       "categories": [
         "guide",
         "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "ea90897c1f8f",
-      "title": "【アズールプロミリア】御三家キボはどれがおすすめ？｜最初の3匹【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587528",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T06:46:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/103508_671fi.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9d8c53b05c33",
-      "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588560",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T05:56:36.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1048,6 +1094,23 @@
       "isNew": false
     },
     {
+      "id": "80bf5f7dc7cb",
+      "title": "【アズールプロミリア】カタルの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593507",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T16:03:25.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "7975d8bc0c6c",
       "title": "【アズールプロミリア】PS5版やPC版はある？対応機種まとめ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80565607",
@@ -1100,23 +1163,6 @@
       "isNew": false
     },
     {
-      "id": "46e45d088980",
-      "title": "アズールプロミリア｜セルラン売上と評価、アプリ情報まとめ",
-      "url": "https://appmedia.jp/app_review/80602912",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T08:47:16.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/12/114039_zko28.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "9adb02290463",
       "title": "NEXONパブリッシング2連発ホームラン、『템파르 ～アイテムの力～』とアズールプロミリアが順調なすべり出し",
       "url": "https://www.gamemeca.com/ja/mv.php?gid=1784342",
@@ -1131,7 +1177,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d13481f64243",
@@ -1699,7 +1745,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61f6c5a33def",
@@ -1719,14 +1765,14 @@
       "isNew": false
     },
     {
-      "id": "1a593d6e659a",
-      "title": "画像ページ[34/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image25-576",
+      "id": "84c070355b45",
+      "title": "画像ページ[54/78] 『アズールプロミリア』レビュー・感想・評価:太ももから仲間モンスターのお腹まで大豊作。むちむちに溺れてる",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image26-535",
       "host": "news.denfaminicogamer.jp",
       "source": "電ファミニコゲーマー",
       "summary": "",
-      "publishedAt": "2026-11-26T02:39:44.000Z",
-      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image25-576",
+      "publishedAt": "2026-11-26T02:39:46.000Z",
+      "image": "https://news.denfaminicogamer.jp/kikakuthetower/261126z/attachment/image26-535",
       "scope": "main",
       "categories": [
         "guide"
@@ -1750,7 +1796,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d5f21c23e35",
@@ -1767,7 +1813,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dd4f5d60a258",
@@ -1784,7 +1830,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
@@ -1889,23 +1935,6 @@
       "scope": "main",
       "categories": [
         "release"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "327e2c1eb2cb",
-      "title": "『ゼンゼロ』浅羽悠真や『アズレン』カウベンス、『メダリスト』狼嵜光、『FGO』ナッちゃん（キジムナー）、メタロトン・ジャンヌ、妖精騎士ランスロットなど！「となりのモケイフェスティバル10」フォトレポート④",
-      "url": "https://hobby.dengeki.com/event/3243843/",
-      "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
-      "summary": "",
-      "publishedAt": "2026-11-25T10:15:00.000Z",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/469b052e3131133723f1851142a51ec0_LxcRKP71rJdjHobyu6IuQIriKKlak96K_adCQ9RdYPCUiSBszjbAxQin7n4l1EKMB.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "charas": [],
       "viaGoogle": false,
