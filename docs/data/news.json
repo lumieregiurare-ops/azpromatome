@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:00:21.531Z",
+  "updatedAt": "2026-11-28T06:30:17.255Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -520,6 +520,23 @@
       "isNew": false
     },
     {
+      "id": "9d8c53b05c33",
+      "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588560",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T05:56:36.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "5e6acfb019c6",
       "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80587471",
@@ -602,7 +619,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7747b2d15860",
@@ -708,6 +725,23 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
+    },
+    {
+      "id": "60230435e42e",
+      "title": "【アズールプロミリア】恒常星5アニマ交換はどれがおすすめ？【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80604199",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T04:38:13.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/134037_f2iwy.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
     },
     {
       "id": "567cecee2efe",
@@ -873,23 +907,6 @@
       "summary": "",
       "publishedAt": "2026-11-28T01:24:42.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/142305_61j5m.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9d8c53b05c33",
-      "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588560",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T00:00:27.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -1097,23 +1114,6 @@
       "summary": "",
       "publishedAt": "2026-11-27T03:43:11.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/163045_4b6ue.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "32cbf5c80f4a",
-      "title": "【アズールプロミリア】農園の心得のおすすめと解放優先度【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80600875",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T02:24:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/160155_qtdm7.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -1759,23 +1759,6 @@
       "scope": "main",
       "categories": [
         "release"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "327e2c1eb2cb",
-      "title": "『ゼンゼロ』浅羽悠真や『アズレン』カウベンス、『メダリスト』狼嵜光、『FGO』ナッちゃん（キジムナー）、メタロトン・ジャンヌ、妖精騎士ランスロットなど！「となりのモケイフェスティバル10」フォトレポート④",
-      "url": "https://hobby.dengeki.com/event/3243843/",
-      "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
-      "summary": "",
-      "publishedAt": "2026-11-25T10:15:00.000Z",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/469b052e3131133723f1851142a51ec0_LxcRKP71rJdjHobyu6IuQIriKKlak96K_adCQ9RdYPCUiSBszjbAxQin7n4l1EKMB.jpg",
-      "scope": "series",
-      "categories": [
-        "news"
       ],
       "charas": [],
       "viaGoogle": false,
