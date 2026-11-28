@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T05:30:23.661Z",
+  "updatedAt": "2026-11-28T06:00:21.531Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -406,51 +406,6 @@
       ]
     },
     {
-      "id": "4b5a5a62eaf5",
-      "key": "cc725c8bf58c",
-      "firstAt": "2026-11-26T02:58:32.000Z",
-      "charas": [],
-      "members": [
-        {
-          "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
-          "url": "https://appmedia.jp/azurpromilia/80597518",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-28T02:33:14.000Z",
-          "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp"
-        },
-        {
-          "title": "『アズールプロミリア』を先行プレイ！感情豊かに動く美少女キャラなどのアズプロの魅力やCBTからの改善点を紹介！",
-          "url": "https://gamewith.jp/gamedb/10871/articles/65959",
-          "source": "GameWith",
-          "publishedAt": "2026-11-26T02:58:32.000Z",
-          "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/10871/rectangle/65959.png?t=1794996273"
-        }
-      ],
-      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
-      "summary": "",
-      "url": "https://appmedia.jp/azurpromilia/80597518",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
-      "leadSource": "AppMedia",
-      "publishedAt": "2026-11-28T02:33:14.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "guide"
-      ],
-      "keywords": [
-        "キャラ"
-      ],
-      "articles": [
-        {
-          "title": "『アズールプロミリア』を先行プレイ！感情豊かに動く美少女キャラなどのアズプロの魅力やCBTからの改善点を紹介！",
-          "url": "https://gamewith.jp/gamedb/10871/articles/65959",
-          "source": "GameWith",
-          "publishedAt": "2026-11-26T02:58:32.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "442eec9d3a3a",
       "key": "8d22e8459c9f",
       "firstAt": "2026-11-26T07:00:02.000Z",
@@ -547,6 +502,109 @@
   ],
   "items": [
     {
+      "id": "600657251a2f",
+      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80596903",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T05:56:47.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "5e6acfb019c6",
+      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587471",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T05:46:19.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "4b5a5a62eaf5",
+      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80597518",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T05:40:17.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "120368d91d7e",
+      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593456",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T05:38:14.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "f2d764c7ef69",
+      "title": "【アズールプロミリア】毎日やるべきことと週ごとの更新まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588653",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T05:34:11.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/164440_oun8q.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "e5cf229ea58b",
+      "title": "【アズールプロミリア】牧場の産出アイテム一覧とおすすめキボ配置【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80592241",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T05:26:11.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175139_mjsaw.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "7747b2d15860",
       "title": "【アズールプロミリア】陸上キボのおすすめ｜陸上最速【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80587429",
@@ -632,7 +690,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a063596a7c43",
@@ -681,6 +739,23 @@
       "categories": [
         "guide",
         "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "fd0deb10ecd4",
+      "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80587459",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T04:05:44.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -773,94 +848,6 @@
       "isNew": false
     },
     {
-      "id": "5e6acfb019c6",
-      "title": "【アズールプロミリア】マウントおすすめキボ｜移動最速キボ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587471",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T02:46:32.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "dcb56c552e95",
-      "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593471",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T02:45:25.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "shalle"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "600657251a2f",
-      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80596903",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T02:39:09.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
-      "scope": "main",
-      "categories": [
-        "guide",
-        "gacha"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "120368d91d7e",
-      "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593456",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T02:37:11.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "4b5a5a62eaf5",
-      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80597518",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T02:33:14.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "c9baf67563df",
       "title": "【アズールプロミリア】モルフォーレの場所とスキル【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80604331",
@@ -903,23 +890,6 @@
       "summary": "",
       "publishedAt": "2026-11-28T00:00:27.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "f2d764c7ef69",
-      "title": "【アズールプロミリア】毎日やるべきことと週ごとの更新まとめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588653",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T23:52:17.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/164440_oun8q.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -993,23 +963,6 @@
       "categories": [
         "guide",
         "campaign"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "fd0deb10ecd4",
-      "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80587459",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T15:01:01.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/140115_1bzch.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
@@ -1185,42 +1138,6 @@
       "charas": [],
       "viaGoogle": false,
       "isNew": false
-    },
-    {
-      "id": "17baecec1404",
-      "title": "【アズールプロミリア】村長ショップのおすすめと精巧な貝殻の入手方法【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80600710",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T01:36:27.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/120807_b459x.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": true
-    },
-    {
-      "id": "1e9ef021b1aa",
-      "title": "【アズールプロミリア】ポンポンの評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593492",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-26T17:13:27.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "pengpeng"
-      ],
-      "viaGoogle": false,
-      "isNew": true
     },
     {
       "id": "f834c69c8efc",
@@ -1412,6 +1329,23 @@
       "isNew": false
     },
     {
+      "id": "17307dc45248",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ",
+      "url": "https://www.tetsudo.com/event/62629/",
+      "host": "tetsudo.com",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:43:26.000Z",
+      "image": "",
+      "scope": "series",
+      "categories": [
+        "event"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "f4e0f199c1d8",
       "title": "叡山電鉄 アズールレーン びそくぜんしんっ ラッピング車両 運転",
       "url": "https://www.tetsudo.com/event/62627/",
@@ -1430,30 +1364,13 @@
     },
     {
       "id": "ab40ec7ccd27",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売",
+      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボきっぷなど 発売（2026年12月20日～）",
       "url": "https://www.tetsudo.com/event/62628/",
-      "host": "tetsudo.com",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-26T05:04:00.000Z",
-      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
-      "scope": "series",
-      "categories": [
-        "event"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "17307dc45248",
-      "title": "叡山電鉄 アズールレーン びそくぜんしんっ コラボフェスタ（2026年12月20日）",
-      "url": "https://www.tetsudo.com/event/62629/",
       "host": "tetsudo.com",
       "source": "Tetsudo.com（鉄道コム）",
       "summary": "",
       "publishedAt": "2026-11-26T05:04:00.000Z",
-      "image": "",
+      "image": "https://images.tetsudo.com/news/20261126/site-1345682-1-a-016.jpg",
       "scope": "series",
       "categories": [
         "event"
@@ -1617,7 +1534,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "94df443ccf22",
@@ -1669,7 +1586,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61f6c5a33def",
@@ -1703,7 +1620,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d5f21c23e35",
@@ -1720,7 +1637,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dd4f5d60a258",
@@ -1737,7 +1654,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
@@ -1862,7 +1779,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "516511794d83",
