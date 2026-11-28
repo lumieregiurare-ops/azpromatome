@@ -1,5 +1,35 @@
 [
  {
+  "id": "a063596a7c43",
+  "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80588704",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T01:58:59.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/191802_qlj61.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "567cecee2efe",
+  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587363",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T01:28:37.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
   "id": "a2765cb4baa6",
   "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576284",
@@ -27,6 +57,22 @@
   "scope": "main",
   "categories": [
    "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "bd205c2768a4",
+  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80553628",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T01:22:09.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
   ],
   "charas": []
  },
@@ -231,37 +277,6 @@
   "charas": []
  },
  {
-  "id": "567cecee2efe",
-  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80587363",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T22:29:57.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "bd205c2768a4",
-  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80553628",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T22:21:44.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
-  ],
-  "charas": []
- },
- {
   "id": "cfab3c93d9d6",
   "title": "【アズールプロミリア】キボキャンプ大作戦の進め方と報酬【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80550070",
@@ -274,21 +289,6 @@
   "categories": [
    "guide",
    "campaign"
-  ],
-  "charas": []
- },
- {
-  "id": "a063596a7c43",
-  "title": "【アズールプロミリア】キボの育成要素まとめと優先度｜潜在能力・因子・源脈【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80588704",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-27T20:04:59.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/191802_qlj61.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
   ],
   "charas": []
  },
