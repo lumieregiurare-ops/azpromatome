@@ -1,5 +1,52 @@
 [
  {
+  "id": "567cecee2efe",
+  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80587363",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T07:52:49.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "bd205c2768a4",
+  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80553628",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T07:34:44.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
+  "id": "a2765cb4baa6",
+  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80576284",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T07:30:42.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
+  "scope": "main",
+  "categories": [
+   "guide",
+   "gacha"
+  ],
+  "charas": []
+ },
+ {
   "id": "03289dac406a",
   "title": "【アズールプロミリア】序盤の効率的な進め方【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80576362",
@@ -101,6 +148,21 @@
   "summary": "",
   "publishedAt": "2026-11-28T05:46:19.000Z",
   "image": "https://appmedia.jp/wp-content/uploads/2026/11/140954_lcpjf.webp",
+  "scope": "main",
+  "categories": [
+   "guide"
+  ],
+  "charas": []
+ },
+ {
+  "id": "ed2ad3ba9e3a",
+  "title": "【アズールプロミリア】一進一退の攻防！の評価とスキル【アズプロ】",
+  "url": "https://appmedia.jp/azurpromilia/80605501",
+  "host": "appmedia.jp",
+  "source": "AppMedia",
+  "summary": "",
+  "publishedAt": "2026-11-28T05:41:49.000Z",
+  "image": "https://appmedia.jp/wp-content/uploads/2020/01/home_image.png",
   "scope": "main",
   "categories": [
    "guide"
@@ -244,37 +306,6 @@
   "charas": []
  },
  {
-  "id": "567cecee2efe",
-  "title": "【アズールプロミリア】飛行キボのおすすめ｜飛行最速【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80587363",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T04:29:46.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/130342_18bwx.webp",
-  "scope": "main",
-  "categories": [
-   "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "a2765cb4baa6",
-  "title": "【アズールプロミリア】ガチャの天井とすり抜け・引き継ぎ｜排出確率まとめ【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80576284",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T04:27:44.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/154437_1c2jy.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
-  ],
-  "charas": []
- },
- {
   "id": "fd0deb10ecd4",
   "title": "【アズールプロミリア】水上キボのおすすめ｜水上最速【アズプロ】",
   "url": "https://appmedia.jp/azurpromilia/80587459",
@@ -286,22 +317,6 @@
   "scope": "main",
   "categories": [
    "guide"
-  ],
-  "charas": []
- },
- {
-  "id": "bd205c2768a4",
-  "title": "【アズールプロミリア】リセマラ当たりランキング【アズプロ】",
-  "url": "https://appmedia.jp/azurpromilia/80553628",
-  "host": "appmedia.jp",
-  "source": "AppMedia",
-  "summary": "",
-  "publishedAt": "2026-11-28T03:53:23.000Z",
-  "image": "https://appmedia.jp/wp-content/uploads/2026/11/165235_9p1wk.webp",
-  "scope": "main",
-  "categories": [
-   "guide",
-   "gacha"
   ],
   "charas": []
  },
