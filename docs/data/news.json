@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T12:00:19.323Z",
+  "updatedAt": "2026-11-28T12:30:20.962Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -513,6 +513,41 @@
   ],
   "items": [
     {
+      "id": "4b5a5a62eaf5",
+      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80597518",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T12:06:02.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "600657251a2f",
+      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80596903",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T11:51:10.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+      "scope": "main",
+      "categories": [
+        "guide",
+        "gacha"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "120368d91d7e",
       "title": "【アズールプロミリア】主人公の評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593456",
@@ -755,23 +790,6 @@
       "isNew": false
     },
     {
-      "id": "4b5a5a62eaf5",
-      "title": "【アズールプロミリア】恒常星5キャラ交換は誰がおすすめ？【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80597518",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T08:55:14.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/121537_c9bm3.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "b13c583cbe4b",
       "title": "【アズールプロミリア】星識レベルの効率的な上げ方とコツ【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80561548",
@@ -894,22 +912,21 @@
       "isNew": false
     },
     {
-      "id": "600657251a2f",
-      "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80596903",
+      "id": "c9baf67563df",
+      "title": "【アズールプロミリア】モルフォーレの場所とスキル【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80604331",
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-28T02:00:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/223012_z62v9.webp",
+      "publishedAt": "2026-11-28T02:23:35.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/114121_gbrlk.webp",
       "scope": "main",
       "categories": [
-        "guide",
-        "gacha"
+        "guide"
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "cfab3c93d9d6",
@@ -1048,7 +1065,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d13481f64243",
@@ -1093,23 +1110,6 @@
       "summary": "",
       "publishedAt": "2026-11-27T03:43:11.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/163045_4b6ue.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "32cbf5c80f4a",
-      "title": "【アズールプロミリア】農園の心得のおすすめと解放優先度【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80600875",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T02:24:45.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/160155_qtdm7.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -1633,7 +1633,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
