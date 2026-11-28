@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T00:00:19.698Z",
+  "updatedAt": "2026-11-28T00:30:20.363Z",
   "updateGapMin": 30,
   "topics": [
     {
@@ -467,6 +467,76 @@
   ],
   "items": [
     {
+      "id": "ad48573e5ee2",
+      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593519",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T00:28:24.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [
+        "tushan-xiaoyu"
+      ],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "fd7251ae161a",
+      "title": "【アズールプロミリア】モーレンの評価とおすすめ編成・装備【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80593462",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T00:14:22.000Z",
+      "image": "",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
+      "id": "9d8c53b05c33",
+      "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588560",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-28T00:00:27.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
+      "id": "f2d764c7ef69",
+      "title": "【アズールプロミリア】毎日やるべきことと週ごとの更新まとめ【アズプロ】",
+      "url": "https://appmedia.jp/azurpromilia/80588653",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-27T23:52:17.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/164440_oun8q.webp",
+      "scope": "main",
+      "categories": [
+        "guide"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": false
+    },
+    {
       "id": "600657251a2f",
       "title": "【アズールプロミリア】高速リセマラのやり方【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80596903",
@@ -641,25 +711,6 @@
       "isNew": false
     },
     {
-      "id": "ad48573e5ee2",
-      "title": "【アズールプロミリア】塗山小玉の評価とおすすめ編成・装備【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80593519",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T21:25:30.000Z",
-      "image": "",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [
-        "tushan-xiaoyu"
-      ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
       "id": "dcb56c552e95",
       "title": "【アズールプロミリア】シャルの評価とおすすめ編成・装備【アズプロ】",
       "url": "https://appmedia.jp/azurpromilia/80593471",
@@ -675,23 +726,6 @@
       "charas": [
         "shalle"
       ],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "f2d764c7ef69",
-      "title": "【アズールプロミリア】毎日やるべきことと週ごとの更新まとめ【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588653",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T20:23:21.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/164440_oun8q.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
       "viaGoogle": false,
       "isNew": false
     },
@@ -721,23 +755,6 @@
       "summary": "",
       "publishedAt": "2026-11-27T19:28:19.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2026/11/123313_reh0y.webp",
-      "scope": "main",
-      "categories": [
-        "guide"
-      ],
-      "charas": [],
-      "viaGoogle": false,
-      "isNew": false
-    },
-    {
-      "id": "9d8c53b05c33",
-      "title": "【アズールプロミリア】キャラの育成要素まとめ｜戦力の上げ方【アズプロ】",
-      "url": "https://appmedia.jp/azurpromilia/80588560",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-27T19:26:51.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/175326_lgtpy.webp",
       "scope": "main",
       "categories": [
         "guide"
@@ -1520,7 +1537,7 @@
       ],
       "charas": [],
       "viaGoogle": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf82afbdcc07",
@@ -1631,6 +1648,23 @@
       "isNew": false
     },
     {
+      "id": "327e2c1eb2cb",
+      "title": "『ゼンゼロ』浅羽悠真や『アズレン』カウベンス、『メダリスト』狼嵜光、『FGO』ナッちゃん（キジムナー）、メタロトン・ジャンヌ、妖精騎士ランスロットなど！「となりのモケイフェスティバル10」フォトレポート④",
+      "url": "https://hobby.dengeki.com/event/3243843/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:15:00.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/469b052e3131133723f1851142a51ec0_LxcRKP71rJdjHobyu6IuQIriKKlak96K_adCQ9RdYPCUiSBszjbAxQin7n4l1EKMB.jpg",
+      "scope": "series",
+      "categories": [
+        "news"
+      ],
+      "charas": [],
+      "viaGoogle": false,
+      "isNew": true
+    },
+    {
       "id": "516511794d83",
       "title": "『アズールレーン』POP UP SHOP in SHIBUYA TSUTAYA 6階 IP書店が2026年9月12日(土)より開催決定！",
       "url": "https://shibuyatsutaya.tsite.jp/article/2616.html",
@@ -1689,7 +1723,7 @@
       "host": "gamer.ne.jp",
       "source": "Gamer",
       "summary": "",
-      "publishedAt": "2026-11-25T04:31:30.000Z",
+      "publishedAt": "2026-11-25T04:20:00.000Z",
       "image": "",
       "scope": "series",
       "categories": [
